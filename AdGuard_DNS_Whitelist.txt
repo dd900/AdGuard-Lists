@@ -15,3 +15,8 @@
 @@||assets.adobedtm.com^$important
 @@||nexus.ensighten.com^$important
 @@||tracking-protection.cdn.mozilla.net^$important
+@@||files.catbox.moe^$important
+@@||link.us.blu.com^$important
+@@||images2.imgbox.com\*.gif^$important
+@@||images2.imgbox.com\*.png^$important
+@@||images2.imgbox.com\*.jpg^$important

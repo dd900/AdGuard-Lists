@@ -1,0 +1,15 @@
+# AdGuard Filter Whitelist
+
+@@||hitbtc.com^$important
+@@||binance.us^$important
+@@||coinbase.com^$important
+@@||files.catbox.moe^$important
+@@||link.us.blu.com^$important
+@@||bittrex.com^$important
+@@||sparkfun.com^$important
+@@||s.youtube.com^$important
+@@||vidmax.com^$important
+@@||greatawakening.win^$important
+@@||images2.imgbox.com\*.gif^$important
+@@||images2.imgbox.com\*.png^$important
+@@||images2.imgbox.com\*.jpg^$important
