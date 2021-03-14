@@ -20,3 +20,5 @@
 @@||images2.imgbox.com\*.gif^$important
 @@||images2.imgbox.com\*.png^$important
 @@||images2.imgbox.com\*.jpg^$important
+@@||sparkfun.com^$important
+@@||vidmax.com^$important
