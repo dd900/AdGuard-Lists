@@ -22,3 +22,5 @@
 @@||images2.imgbox.com\*.jpg^$important
 @@||sparkfun.com^$important
 @@||vidmax.com^$important
+||facebook.com/security/hsts-pixel.gif^
+||vid8.poal.co/favicon.ico^
