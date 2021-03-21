@@ -22,3 +22,4 @@
 @@||images2.imgbox.com\*.jpg^$important
 @@||sparkfun.com^$important
 @@||vidmax.com^$important
+@@||cdn.plyr.io^$important
