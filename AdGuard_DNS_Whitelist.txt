@@ -1,4 +1,4 @@
-# AdGuard DNS List
+# AdGuard DNS Whitelist
 
 #---------Allow---------#
 @@||s.youtube.com^$important
@@ -24,6 +24,3 @@
 @@||sparkfun.com^$important
 @@||vidmax.com^$important
 @@||cdn.plyr.io^$important
-
-#---------Block---------#
-||dc.dqa.samsung.com^$important
