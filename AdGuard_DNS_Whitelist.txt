@@ -1,6 +1,5 @@
 # AdGuard DNS Whitelist
 
-#---------Allow---------#
 @@||s.youtube.com^$important
 @@||ionomy.com^$important
 @@||bittrex.com^$important
