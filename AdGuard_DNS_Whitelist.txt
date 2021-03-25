@@ -23,3 +23,4 @@
 @@||sparkfun.com^$important
 @@||vidmax.com^$important
 @@||cdn.plyr.io^$important
+@@||play.googleapis.com^$important
