@@ -73,7 +73,6 @@
 @@||edge.api.brightcove.com^$important
 @@||eds.xboxlive.com^$important
 @@||files.catbox.moe^$important
-@@||fonts.gstatic.com^$important
 @@||forums.sonarr.tv^$important
 @@||g.live.com^$important
 @@||geo-prod.do.dsp.mp.microsoft.com^$important
@@ -84,7 +83,6 @@
 @@||github.io^$important
 @@||googleapis.com^$important
 @@||gravatar.com^$important
-@@||gstatic.com^$important
 @@||help.ui.xboxlive.com^$important
 @@||hitbtc.com^$important
 @@||hls.ted.com^$important
