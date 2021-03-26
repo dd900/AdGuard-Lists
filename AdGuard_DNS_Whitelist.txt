@@ -34,3 +34,4 @@
 @@||placehold.it^$important
 @@||placeholdit.imgix.net^$important
 @@||raw.githubusercontent.com^$important
+@@||cdn.optimizely.com^$important
