@@ -2,7 +2,7 @@
 
 @@||android.clients.google.com^$important
 @@||binance.us^$important
-@@||www.binance.com^$important
+@@||binance.com^$important
 @@||bittrex.com^$important
 @@||coinbase.com^$important
 @@||hitbtc.com^$important
