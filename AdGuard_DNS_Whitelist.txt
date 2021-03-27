@@ -35,3 +35,4 @@
 @@||placeholdit.imgix.net^$important
 @@||raw.githubusercontent.com^$important
 @@||cdn.optimizely.com^$important
+@@||scontent-ort2-1.xx.fbcdn.net^$important
