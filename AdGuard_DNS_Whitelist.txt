@@ -1,27 +1,61 @@
 # AdGuard DNS Whitelist by Dustin Davidson
 
+
+# Android
 @@||android.clients.google.com^$important
+
+# Youtube
+@@||s.youtube.com^$important
+@@||video-stats.l.google.com^$important
+
+# Crypto
 @@||binance.us^$important
 @@||binance.com^$important
 @@||bittrex.com^$important
 @@||coinbase.com^$important
 @@||hitbtc.com^$important
 @@||ionomy.com^$important
-@@||cdn.plyr.io^$important
+
+# Dropbox
 @@||dl.dropbox.com^$important
 @@||dl.dropboxusercontent.com^$important
 @@||ns1.dropbox.com^$important
 @@||ns2.dropbox.com^$important
-@@||files.catbox.moe^$important
-@@||gfwsl.geforce.com^$important
+
+# Github
 @@||github.com^$important
 @@||github.io^$important
-@@||giphy.com^$important
-@@||s.youtube.com^$important
-@@||video-stats.l.google.com^$important
+@@||raw.githubusercontent.com^$important
+
+# Facebook
+@@||scontent-ort2-1.xx.fbcdn.net^$client='192.168.1.162'
+@@||external-ort2-1.xx.fbcdn.net^$client='192.168.1.162'
+
+# Netflix
+@@||appboot.netflix.com^$important
+@@||uiboot.netflix.com^$important
+@@||api-global.netflix.com^$important
+
+# LifeAfter
+@@||sdk-os.mpsdk.easebar.com^$client='192.168.1.162'
+
+# CDN
+@@||cdn.cloudflare.net^$important
+@@||cdn.optimizely.com^$important
+@@||cdn.plyr.io^$important
+
+# EpicGames
+@@||tracking.epicgames.com^$important
+
+# Other
+@@||vidmax.com^$important
 @@||images2.imgbox.com\*.gif^$important
 @@||images2.imgbox.com\*.jpg^$important
 @@||images2.imgbox.com\*.png^$important
+@@||placehold.it^$important
+@@||placeholdit.imgix.net^$important
+@@||files.catbox.moe^$important
+@@||giphy.com^$important
 @@||jquery.com^$important
 @@||link.us.blu.com^$important
 @@||sparkfun.com^$important
@@ -29,12 +63,4 @@
 @@||thetvdb.com^$important
 @@||tinyurl.com^$important
 @@||tracking-protection.cdn.mozilla.net^$important
-@@||tracking.epicgames.com^$important
-@@||vidmax.com^$important
-@@||cdn.cloudflare.net^$important
-@@||placehold.it^$important
-@@||placeholdit.imgix.net^$important
-@@||raw.githubusercontent.com^$important
-@@||cdn.optimizely.com^$important
-@@||scontent-ort2-1.xx.fbcdn.net^$client='192.168.1.162'
-@@||external-ort2-1.xx.fbcdn.net^$client='192.168.1.162'
+@@||gfwsl.geforce.com^$important
