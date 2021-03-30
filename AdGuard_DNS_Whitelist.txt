@@ -20,6 +20,7 @@
 @@||appspot-preview.l.google.com^$important
 @@||apt.sonarr.tv^$important
 @@||aspnetcdn.com^$important
+@@||assets1.xboxlive.com^$important
 @@||attestation.xboxlive.com^$important
 @@||ax.phobos.apple.com.edgesuite.net^$important
 @@||binance.com^$important
@@ -138,6 +139,7 @@
 @@||meta.plex.bz^$important
 @@||meta.plex.tv^$important
 @@||microsoftonline.com^$important
+@@||minecraftprod.rtep.msgamestudios.com^$important
 @@||mqtt-mini.facebook.com^$important
 @@||mqtt.c10r.facebook.com^$important
 @@||msftncsi.com^$important
