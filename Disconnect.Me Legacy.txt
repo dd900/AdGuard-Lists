@@ -2737,5 +2737,4 @@
 ||zintext.com^
 ||zmedia.com^
 ||zumobi.com^
-||Malvertising list by Disconnect^
 ||malware-check.disconnect.me^
