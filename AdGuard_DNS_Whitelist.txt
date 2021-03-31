@@ -10,6 +10,7 @@
 @@||android.clients.google.com^$important
 @@||api-global.netflix.com^$important
 @@||api.ipify.org^$important
+@@||api.nuget.org^$important
 @@||api.rlje.net^$important
 @@||app-api.ted.com^$important
 @@||appboot.netflix.com^$important
