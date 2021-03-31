@@ -1,43 +1,40 @@
 ﻿SetBatchLines, -1
 FileEncoding, UTF-8-RAW
 
+
 ini := A_ScriptDir "\combo list.ini"
-outFile := "C:\Users\Too DementiaNull\Documents\GitHub\adblock\Legacy\HenryYang.txt"
-headerText := "# HenryYang Compilation List for AdGuard Home by Dustin Davidson`n# Credit to: HenryYang - https://github.com/HenryYang/abp`n`n`n"
+outFile := "C:\Users\Too DementiaNull\Documents\GitHub\adblock\Combo Lists\HenryYang.txt"
 outText := ""
-hostFiles := []
+
 
 Loop, Parse, % IniRead(ini, "HenryYang"), `n, `r
-	hostFiles.Push(Trim(StrSplit(A_LoopField, "=")[2]))
-
-for index, url in hostFiles {
-	for i, v in GetDomains(url) {
-		if (InStr(v, "#"))
-			entry := "||" Trim(StrSplit(v, "#")[1]) "^"
-		else
-			entry := "||" v "^"
-		
-		if (entry = "||^")
-			continue
-		
-		if (!InStr(outText, entry))
-			outText .= entry "`n"
-	}
-}
-
-FileDelete, % outFile
-FileAppend, % headerText outText, % outFile
-ExitApp
-
-GetDomains(url) {
-	out := []
-	string := UrlToVar(url)
+{
+	name_url := StrSplit(A_LoopField, "=")
+	string := UrlToVar(Trim(name_url[2]))
+	
+	if (!string)
+		continue
+	
+	index1 := A_Index
 	
 	Loop, Parse, string, `n, `r
 	{
-		if (A_LoopField != "" && !InStr(A_LoopField, "#") = 1 && !InStr(A_LoopField, "!") = 1 && !InStr(A_LoopField, "(") = 1)
-			out.Push(Trim(A_LoopField))
+		entry := A_LoopField
+		Menu, Tray, Tip, % index1 "`n" A_Index "`n" entry
+		
+		if (!entry || StartsWith(entry, "//") || StartsWith(entry, "#") || StartsWith(entry, "!") || StartsWith(entry, "("))
+			continue
+		
+		entry := InStr(entry, "#") ? "||" Trim(StrSplit(entry, "#")[1]) "^" : "||" Trim(entry) "^"
+			
+		if (!entry || entry = "||^")
+			continue
+			
+		outText .= entry "`n"
 	}
-	
-	return out
 }
+
+Sort, outText, U
+FileDelete, % outFile
+FileAppend, % headerText outText, % outFile
+ExitApp
