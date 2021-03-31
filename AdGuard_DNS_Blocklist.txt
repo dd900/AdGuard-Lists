@@ -1,3 +1,4 @@
 # AdGuard DNS Blocklist
 
 ||dc.dqa.samsung.com^$important
+/^wpad($|\.)/
