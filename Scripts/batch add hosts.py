@@ -14,39 +14,27 @@ userName = "x"
 password = "x"
 
 urls = [
-"https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
-"https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
-"https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
-"https://mirror1.malwaredomains.com/files/justdomains",
-"https://v.firebog.net/hosts/Prigent-Crypto.txt",
-"https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt",
-"https://www.malwaredomainlist.com/hostslist/hosts.txt",
-"https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt",
-"https://phishing.army/download/phishing_army_blocklist_extended.txt",
-"https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
-"https://v.firebog.net/hosts/Shalla-mal.txt",
-"https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
-"https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
-"https://urlhaus.abuse.ch/downloads/hostfile/",
-"https://v.firebog.net/hosts/Easyprivacy.txt",
-"https://v.firebog.net/hosts/Prigent-Ads.txt",
-"https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt",
-"https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
-"https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt",
-"https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt",
-"https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
-"https://adaway.org/hosts.txt",
-"https://v.firebog.net/hosts/AdguardDNS.txt",
-"https://v.firebog.net/hosts/Admiral.txt",
-"https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
-"https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
-"https://v.firebog.net/hosts/Easylist.txt",
-"https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
-"https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
-"https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
-"https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt",
-"https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
-"https://v.firebog.net/hosts/static/w3kbl.txt"
+"https://raw.githubusercontent.com/dd900/AdGuard-Lists/master/DD900%20AGH%20Combo%20List%20(1).txt",
+"https://raw.githubusercontent.com/dd900/AdGuard-Lists/master/DD900%20AGH%20Combo%20List%20(2).txt",
+"https://raw.githubusercontent.com/dd900/AdGuard-Lists/master/DD900%20AGH%20Combo%20List%20(3).txt",
+"https://raw.githubusercontent.com/dd900/AdGuard-Lists/master/DD900%20AGH%20Combo%20List%20(4).txt",
+"https://raw.githubusercontent.com/dd900/AdGuard-Lists/master/DD900%20AGH%20Combo%20List%20(5).txt",
+"https://raw.githubusercontent.com/dd900/AdGuard-Lists/master/DD900%20AGH%20Combo%20List%20(6).txt",
+"https://raw.githubusercontent.com/dd900/AdGuard-Lists/master/DD900%20AGH%20Combo%20List%20(7).txt",
+"https://raw.githubusercontent.com/dd900/AdGuard-Lists/master/DD900%20AGH%20Combo%20List%20-%20IP%20Blocklist.txt",
+"https://raw.githubusercontent.com/dd900/AdGuard-Lists/master/DD900%20AGH%20Combo%20List%20-%20Regex%20Blocklist.txt"
+]
+
+names = [
+"DD900 AGH Combo List (1)",
+"DD900 AGH Combo List (2)",
+"DD900 AGH Combo List (3)",
+"DD900 AGH Combo List (4)",
+"DD900 AGH Combo List (5)",
+"DD900 AGH Combo List (6)",
+"DD900 AGH Combo List (7)",
+"DD900 AGH Combo List - IP Blocklist",
+"DD900 AGH Combo List - Regex Blocklist"
 ]
 
 ############ End Edits #################
@@ -66,8 +54,8 @@ s.mount(host, MyAdapter())
 x = s.post(host + "/control/login", json.dumps({"name": userName, "password" : password}), headers=headers )
 print(x.text)
 
-for u in urls:
-	filterObj = json.dumps({'url':u, "name":u,"whitelist":False})
+for i, u in enumerate(urls):
+	filterObj = json.dumps({'url':u, "name":names[i],"whitelist":False})
 	print(filterObj)
 	x = s.post(host + "/control/filtering/add_url", data = filterObj, headers=headers)
 	print(x.text)
