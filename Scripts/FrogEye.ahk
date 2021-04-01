@@ -2,7 +2,7 @@
 FileEncoding, UTF-8-RAW
 
 
-ini := ".\combo list.ini"
+ini := A_ScriptDir "\combo list.ini"
 outFile := "..\Combo Lists\frogeye.txt"
 outText := ""
 

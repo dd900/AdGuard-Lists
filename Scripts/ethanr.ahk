@@ -2,7 +2,7 @@ SetBatchLines, -1
 FileEncoding, UTF-8-RAW
 
 
-ini := ".\combo list.ini"
+ini := A_ScriptDir "\combo list.ini"
 outFile := "..\Combo Lists\ethanr.txt"
 outText := ""
 

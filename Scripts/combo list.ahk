@@ -3,7 +3,7 @@ SetBatchLines, -1
 FileEncoding, UTF-8-RAW
 
 
-ini := ".\combo list.ini"
+ini := A_ScriptDir "\combo list.ini"
 comboListDir := "..\Combo Lists"
 fileName := "DD900 AGH Combo List"
 theBigListFile := comboListDir "\The Big List.txt"
@@ -20,8 +20,21 @@ outArray := []
 outTextArray := []
 
 
+Loop, Files, % A_ScriptDir "\*.ahk"
+{
+	if (A_LoopFileName = "combo list.ahk")
+		continue
+	
+	Menu, Tray, Tip, % "Running:`n" A_LoopFilePath
+	RunWait, %A_ScriptDir%\AHK.exe "%A_LoopFilePath%"
+}
+
 Loop, Files, % comboListDir "\*.txt"
 {
+	if (A_LoopFileName = "The Big List.txt")
+		continue
+	
+	Menu, Tray, Tip, % "Building:`n" A_LoopFilePath
 	bigList .= FileToVar(A_LoopFilePath)
 	
 	if (A_Index > 1)
@@ -30,6 +43,8 @@ Loop, Files, % comboListDir "\*.txt"
 
 Loop, Parse, bigList, `n, `r
 {
+	Menu, Tray, Tip, % "Parsing:`n" A_LoopField
+	
 	if (StartsWith(A_LoopField, "@@"))
 		whitelistOutText .= A_LoopField "`n"
 	else if (StartsWith(A_LoopField, "/"))
@@ -45,6 +60,9 @@ Loop, Parse, bigList, `n, `r
 		}
 	}
 }
+
+outArray.Push(outTextArray)
+Menu, Tray, Tip, Creating Files
 
 FileDelete, % whitelistOutFile
 FileAppend, % whitelistOutText, % whitelistOutFile
