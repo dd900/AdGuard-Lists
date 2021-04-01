@@ -102,6 +102,7 @@
 @@||help.ui.xboxlive.com^$important
 @@||hitbtc.com^$important
 @@||hls.ted.com^$important
+@@||i.reddit.com^$important
 @@||i.ytimg.com^$important
 @@||i1.ytimg.com^$important
 @@||images2.imgbox.com\*.gif^$important
@@ -176,6 +177,8 @@
 @@||pubsub.plex.bz^$important
 @@||pubsub.plex.tv^$important
 @@||raw.githubusercontent.com^$important
+@@||redd.it^$important
+@@||reddit.com^$important
 @@||redirector.googlevideo.com^$important
 @@||res.cloudinary.com^$important
 @@||rupload.facebook.com^$important
