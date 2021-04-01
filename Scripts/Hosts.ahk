@@ -1,4 +1,5 @@
-﻿SetBatchLines, -1
+﻿#MaxMem 256
+SetBatchLines, -1
 FileEncoding, UTF-8-RAW
 
 
@@ -20,8 +21,7 @@ Loop, Parse, % IniRead(ini, "0.0.0.0"), `n, `r
 	Loop, Parse, string, `n, `r
 	{
 		entry := A_LoopField
-		Menu, Tray, Tip, % index1 "`n" A_Index "`n" entry
-		
+				
 		if (!entry || StartsWith(entry, "//") || StartsWith(entry, "#") || StartsWith(entry, "!") || !StartsWith(entry, "0.0.0.0"))
 				continue
 		
@@ -53,8 +53,7 @@ Loop, Parse, % IniRead(ini, "127.0.0.1"), `n, `r
 	Loop, Parse, string, `n, `r
 	{
 		entry := A_LoopField
-		Menu, Tray, Tip, % index1 "`n" A_Index "`n" entry
-		
+				
 		if (!entry || StartsWith(entry, "//") || StartsWith(entry, "#") || StartsWith(entry, "!") || !StartsWith(entry, "127.0.0.1"))
 				continue
 		

@@ -1,4 +1,5 @@
-﻿SetBatchLines, -1
+﻿#MaxMem 256
+SetBatchLines, -1
 FileEncoding, UTF-8-RAW
 
 
@@ -20,8 +21,7 @@ Loop, Parse, % IniRead(ini, "DandelionSprout"), `n, `r
 	Loop, Parse, string, `n, `r
 	{
 		entry := A_LoopField
-		Menu, Tray, Tip, % index1 "`n" A_Index "`n" entry
-		
+				
 		if (!entry || StartsWith(entry, "//") || StartsWith(entry, "#") || StartsWith(entry, "!"))
 				continue
 		
