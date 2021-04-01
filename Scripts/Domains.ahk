@@ -3,11 +3,11 @@ FileEncoding, UTF-8-RAW
 
 
 ini := ".\combo list.ini"
-outFile := "..\Combo Lists\llacb47.txt"
+outFile := "..\Combo Lists\DomainLists.txt"
 outText := ""
 
 
-Loop, Parse, % IniRead(ini, "llacb47"), `n, `r
+Loop, Parse, % IniRead(ini, "Domains"), `n, `r
 {
 	name_url := StrSplit(A_LoopField, "=")
 	string := UrlToVar(Trim(name_url[2]))
@@ -22,22 +22,22 @@ Loop, Parse, % IniRead(ini, "llacb47"), `n, `r
 		entry := A_LoopField
 		Menu, Tray, Tip, % index1 "`n" A_Index "`n" entry
 		
-		if (!entry || StartsWith(entry, "//") || StartsWith(entry, "#") || StartsWith(entry, "!") || !StartsWith(entry, "0.0.0.0"))
+		if (!entry || StartsWith(entry, "//") || StartsWith(entry, "#") || StartsWith(entry, "!"))
 				continue
 		
-		entry := StrReplace(entry, "0.0.0.0", "")
-		entry := InStr(entry, "#") 
-			? "||" Trim(StrSplit(entry, "#")[1]) "^"
-			: "||" Trim(entry) "^"
-			
+		entry := InStr(entry, "#") ? "||" Trim(StrSplit(entry, "#")[1]) "^" : "||" Trim(entry) "^"
+		entry := FixEntry(entry)
+		
 		if (!entry || entry = "||^")
 			continue
-			
+		
 		outText .= entry "`n"
 	}
+	
+	if (index1 > 1)
+		Sort, outText, U
 }
 
-Sort, outText, U
 FileDelete, % outFile
 FileAppend, % outText, % outFile
 ExitApp

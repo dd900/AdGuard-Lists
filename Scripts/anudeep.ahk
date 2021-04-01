@@ -2,8 +2,8 @@
 FileEncoding, UTF-8-RAW
 
 
-ini := A_ScriptDir "\combo list.ini"
-outFile := "C:\Users\Too DementiaNull\Documents\GitHub\adblock\Combo Lists\anudeep.txt"
+ini := ".\combo list.ini"
+outFile := "..\Combo Lists\anudeep.txt"
 outText := ""
 
 

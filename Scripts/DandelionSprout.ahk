@@ -2,8 +2,8 @@
 FileEncoding, UTF-8-RAW
 
 
-ini := A_ScriptDir "\combo list.ini"
-outFile := "C:\Users\Too DementiaNull\Documents\GitHub\adblock\Combo Lists\DandelionSprout.txt"
+ini := ".\combo list.ini"
+outFile := "..\Combo Lists\DandelionSprout.txt"
 outText := ""
 
 
@@ -42,26 +42,7 @@ Loop, Parse, % IniRead(ini, "DandelionSprout"), `n, `r
 		if (name_url[1] = "CompilationList.IP")
 			entry := InStr(entry, "#") ? "||" Trim(StrSplit(entry, "#")[1]) "^" : "||" Trim(entry) "^"
 		
-		if (InStr(entry, "^^"))
-			entry := StrReplace(entry, "^^", "^")
-		
-		if (InStr(entry, "|^"))
-			entry := StrReplace(entry, "|^", "^")
-		
-		if (StartsWith(entry, "|||"))
-			entry := StrReplace(entry, "|||", "||")­­­­­­­­­­­­­­­
-		
-		if (StartsWith(entry, "@@http"))
-			entry := StrReplace(entry, "@@http", "@@||http")
-		
-		if (StartsWith(entry, "@@:"))
-			entry := StrReplace(entry, "@@:", "@@||:")
-		
-		if (StartsWith(entry, "@@."))
-			entry := StrReplace(entry, "@@.", "@@||*.")
-		
-		if (StartsWith(entry, "@@www"))
-			entry := StrReplace(entry, "@@www", "@@||www")
+		entry := FixEntry(entry)
 		
 		if (!entry || entry = "||^" || entry = "||​*^" || entry = "||­*^")
 			continue
