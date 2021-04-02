@@ -2,20 +2,14 @@
 
 #-------Allow-------#
 @@||s.youtube.com^$important
-@@||ionomy.com^$important
 @@||bittrex.com^$important
 @@||coinbase.com^$important
 @@||binance.us^$important
 @@||hitbtc.com^$important
-@@||tracking.epicgames.com^$important
-@@||placehold.it^$important
-@@||placeholdit.imgix.net^$important
 @@||dl.dropboxusercontent.com^$important
 @@||ns1.dropbox.com^$important
 @@||ns2.dropbox.com^$important
-@@||assets.adobedtm.com^$important
 @@||nexus.ensighten.com^$important
-@@||tracking-protection.cdn.mozilla.net^$important
 @@||files.catbox.moe^$important
 @@||link.us.blu.com^$important
 @@||images2.imgbox.com\*.gif^$important
