@@ -145,6 +145,7 @@
 @@||mqtt-mini.facebook.com^$important
 @@||mqtt.c10r.facebook.com^$important
 @@||msftncsi.com^$important
+@@||mtalk.google.com^$important
 @@||my.plexapp.com^$important
 @@||nexusrules.officeapps.live.com^$important
 @@||nine.plugins.plexapp.com^$important
