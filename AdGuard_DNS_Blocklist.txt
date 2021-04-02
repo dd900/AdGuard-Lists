@@ -1,4 +1,5 @@
 # AdGuard DNS Blocklist
 
-||dc.dqa.samsung.com^$important
+||firebaselogging-pa.googleapis.com^
+||dc.dqa.samsung.com^
 /^wpad($|\.)/
