@@ -201,6 +201,7 @@
 @@||secure.surveymonkey.com^$important
 @@||services.sonarr.tv^$important
 @@||skyhook.sonarr.tv^$important
+@@||sockets.cryptohopper.com^$important
 @@||sparkfun.com^$important
 @@||spclient.wg.spotify.com^$important
 @@||ssl.p.jwpcdn.com^$important
