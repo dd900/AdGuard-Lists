@@ -22,15 +22,19 @@ Loop, Parse, % IniRead(ini, "anudeep"), `n, `r
 	{
 		entry := A_LoopField
 				
-		if (!entry || StartsWith(entry, "//") || StartsWith(entry, "#") || StartsWith(entry, "!") || !StartsWith(entry, "0.0.0.0"))
+		if (!entry || StartsWith(entry, "//") || StartsWith(entry, "#") || StartsWith(entry, "!"))
 				continue
 		
-		entry := StrReplace(entry, "0.0.0.0", "")
-		entry := InStr(entry, "#") 
-			? "||" Trim(StrSplit(entry, "#")[1]) "^"
-			: "||" Trim(entry) "^"
-			
-		if (!entry || entry = "||^")
+		entry := InStr(entry, "#") ? StrSplit(entry, "#")[1] : entry
+		
+		if (name_url[1] = "whitelist")
+			entry := "@@||" Trim(entry) "^"
+		else if (name_url[1] != "whitelist" && StartsWith(entry, "0.0.0.0"))
+			entry := FixEntry("||" Trim(StrReplace(entry, "0.0.0.0", "")) "^")
+		else
+			continue
+		
+		if (!entry || entry = "||^" || entry = "@@||^")
 			continue
 			
 		outText .= entry "`n"
