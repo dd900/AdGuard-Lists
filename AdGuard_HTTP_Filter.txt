@@ -1,4 +1,4 @@
-# AdGuard Filter Whitelist
+# AdGuard HTTP Filter
 
 #-------Allow-------#
 @@||s.youtube.com^$important
