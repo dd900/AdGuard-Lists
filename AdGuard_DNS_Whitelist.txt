@@ -3,9 +3,6 @@
 
 #####-- Google/Android --#####
 @@/clients[0-9].google.com/
-@@||*.docs.google.com^
-@@||*.drive.google.com^
-@@||*.googleusercontent.com^
 @@||0.client-channel.google.com^
 @@||2.android.pool.ntp.org^
 @@||android.clients.google.com^
@@ -16,11 +13,13 @@
 @@||connectivitycheck.gstatic.com^
 @@||content.googleapis.com^
 @@||dl.google.com^
+@@||docs.google.com^
+@@||drive.google.com^
 @@||firebasestorage.googleapis.com^
 @@||fonts.gstatic.com^
 @@||googleapis.l.google.com^
 @@||googledrive.com^
-@@||googleusercontent.com^$domain=google.com
+@@||googleusercontent.com^
 @@||gstatic.com^$domain=google.com
 @@||gstaticadssl.l.google.com^
 @@||mtalk.google.com^
@@ -107,7 +106,6 @@
 @@||report.binance.im^
 @@||sockets.cryptohopper.com^
 @@||uniswap.org^
-
 
 
 #####-- Reddit --#####
