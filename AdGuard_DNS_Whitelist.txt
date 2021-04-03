@@ -1,27 +1,60 @@
 #####-- DD900 Whitelist --#####
 
 
-#####-- Google --#####
-@@||mtalk.google.com^
+#####-- Google/Android --#####
+@@/clients[0-9].google.com/
 @@||*.docs.google.com^
 @@||*.drive.google.com^
 @@||*.googleusercontent.com^
+@@||0.client-channel.google.com^
+@@||2.android.pool.ntp.org^
+@@||android.clients.google.com^
+@@||appsbackup-pa.clients6.google.com^
+@@||appsbackup-pa.googleapis.com^
+@@||cloud.google.com^
+@@||connectivitycheck.android.com^
+@@||connectivitycheck.gstatic.com^
+@@||content.googleapis.com^
+@@||dl.google.com^
 @@||firebasestorage.googleapis.com^
+@@||fonts.gstatic.com^
+@@||googleapis.l.google.com^
+@@||googledrive.com^
+@@||googleusercontent.com^$domain=google.com
+@@||gstatic.com^$domain=google.com
+@@||gstaticadssl.l.google.com^
+@@||mtalk.google.com^
+@@||redirector.gvt1.com^
 @@||sites.google.com^
 @@||storage.googleapis.com^
+@@||youtube.com^$domain=google.com
+
+
+#####-- YouTube --#####
+@@||googlevideo.com^$domain=youtube.com
+@@||gstatic.com^$domain=youtube.com
+@@||s.youtube.com^
+@@||s.ytimg.com^$domain=youtube.com
+@@||s2.youtube.com^$domain=youtube.com
+@@||video-stats.l.google.com^
+@@||youtu.be^
+@@||youtube-nocookie.com^
+@@||ytimg.com^$domain=youtube.com
 
 
 #####-- Facebook --#####
 @@||api.facebook.com^
+@@||business.facebook.com^
 @@||connect.facebook.net^
 @@||edge-chat.facebook.com^
 @@||edge-chat.messenger.com^
 @@||edge-mqtt.facebook.com^
-!# @@||external-arn2-1.xx.fbcdn.net^
-!# @@||external-cph2-1.xx.fbcdn.net^
-!# @@||external-ort2-1.xx.fbcdn.net^
 @@||external-*-*.xx.fbcdn.net^
 @@||external.xx.fbcdn.net^
+@@||fbcdn*.akamaihd.net^$domain=facebook.com
+@@||fbcdn.net^$domain=facebook.com
+@@||fbexternal-a.akamaihd.net^$domain=facebook.com
+@@||fbstatic-a.akamaihd.net^$domain=facebook.com
 @@||graph.facebook.com^
 @@||l.facebook.com^
 @@||lm.facebook.com^
@@ -31,9 +64,6 @@
 @@||mqtt.c10r.facebook.com^
 @@||portal.fb.com^
 @@||rupload.facebook.com^
-!# @@||scontent-arn2-1.xx.fbcdn.net^
-!# @@||scontent-cph2-1.xx.fbcdn.net^
-!# @@||scontent-ort2-1.xx.fbcdn.net^
 @@||scontent-*-*.xx.fbcdn.net^
 @@||scontent.xx.fbcdn.net^
 @@||star-mini.c10r.facebook.com^
@@ -41,7 +71,6 @@
 @@||star.facebook.com^
 @@||static.xx.fbcdn.net^
 @@||upload.messenger.com^
-!# @@||video-cph2-1.xx.fbcdn.net^
 @@||video-*-*.xx.fbcdn.net^
 @@||video.xx.fbcdn.net^
 @@||web.facebook.com^
@@ -50,17 +79,64 @@
 
 
 #####-- Crypto --#####
+@@||binance.com^
+@@||binance.us^
+@@||bitcoin.com^
+@@||bitfinex.com^
 @@||bittrex.com^
+@@||blockchain.com^
+@@||blockchain.info^
+@@||cardano.org^
+@@||cardanoscan.io^
+@@||coinbase.com^
+@@||coinmarketcap.com^
+@@||crypto.com^
+@@||cryptokitties.co^
+@@||eos.io^
+@@||eosflare.io^
+@@||eosstudio.io^
+@@||ethereum.org^
+@@||etherscan.com^
+@@||etherscan.io^
+@@||ethscan.org^
+@@||hash-to-coins.com^
 @@||hitbtc.com^
 @@||ionomy.com^
-@@||sockets.cryptohopper.com^
+@@||kraken.com^
+@@||pro.coinbase.com^
 @@||report.binance.im^
+@@||sockets.cryptohopper.com^
+@@||uniswap.org^
+
 
 
 #####-- Reddit --#####
 @@||i.reddit.com^
+@@||imgur.com^$third-party,domain=reddit.com
 @@||redd.it^
 @@||reddit.com^
+@@||redditmedia.com$domain=reddit.com
+@@||redditstatic.com^$domain=reddit.com
+@@||redditstatic.s3.amazonaws.com^$domain=reddit.com
+
+
+#####-- Github --#####
+@@||github.com^
+@@||github.io^
+@@||raw.githubusercontent.com^
+
+
+#####-- Netflix --#####
+@@||api-global.netflix.com^
+@@||appboot.netflix.com^
+@@||uiboot.netflix.com^
+
+
+#####-- Dropbox --#####
+@@||dl.dropbox.com^
+@@||dl.dropboxusercontent.com^
+@@||ns1.dropbox.com^
+@@||ns2.dropbox.com^
 
 
 #####-- ImgBox --#####
@@ -70,13 +146,14 @@
 
 
 #####-- Tenor/Giphy --#####
+@@||giphy.com^
+@@||limited-prod.giphy.map.fastly.net^
 @@||media.tenor.co^
 @@||media0.giphy.com^
 @@||media1.giphy.com^
 @@||media2.giphy.com^
 @@||media3.giphy.com^
 @@||media4.giphy.com^
-@@||limited-prod.giphy.map.fastly.net^
 
 
 #####-- Weather Channel --#####
@@ -85,117 +162,124 @@
 
 
 #####-- CDN --#####
+@@||cdn.cloudflare.net^
+@@||cdn.embedly.com^
 @@||cdn.fbsbx.com^
+@@||cdn.optimizely.com^
 @@||cdn.plyr.io^
+@@||cdn2.optimizely.com^
+@@||cdn3.optimizely.com^
+@@||cdnjs.cloudflare.com^
+@@||vimeocdn.com^$domain=vimeo.com
 
 
 #####-- Games --#####
-@@||minecraftprod.rtep.msgamestudios.com^
-@@||tracking.epicgames.com^
-@@||sdk-os.mpsdk.easebar.com^
 @@||assets1.xboxlive.com^
+@@||cert.mgt.xboxlive.com^
+@@||device.auth.xboxlive.com^
+@@||facepunch.io^
+@@||minecraft-schematics.com^
+@@||minecraftprod.rtep.msgamestudios.com^
+@@||sdk-os.mpsdk.easebar.com^
+@@||title.auth.xboxlive.com^
+@@||title.mgt.xboxlive.com^
+@@||tracking.epicgames.com^
 
 
 #####-- Shopping --#####
+@@||ebayrtm.com^$domain=ebay.com
+@@||ebaystatic.com^$domain=ebay.com
+@@||images-amazon.com^$domain=amazon.co.uk
+@@||images-amazon.com^$domain=amazon.com
+@@||images-amazon.com^$domain=amazon.es
 @@||link.us.blu.com^
 @@||sparkfun.com^
+@@||ssl-images-amazon.com^$domain=amazon.co.uk
+@@||ssl-images-amazon.com^$domain=amazon.com
+@@||ssl-images-amazon.com^$domain=amazon.es
 
 
 #####-- Other --#####
-@@||*.0rz.tw^
-@@||*.1drv.ms^
-@@||*.4shared.com^
-@@||*.archive.org^
-@@||*.arpa^
-@@||*.backblazeb2.com^
-@@||*.bit.do^
-@@||*.bit.ly^
-@@||*.bitly.com^
-@@||*.cl.ly^
-@@||*.cloud.answerhub.com^
-@@||*.cloud.ovh.net^
-@@||*.cutt.ly^
-@@||*.discordapp.com^
-@@||*.docs.zoho.com^
-@@||*.downloads.intercomcdn.com^
-@@||*.dropbox.com^
-@@||*.dropboxusercontent.com^
-@@||*.evernote.com^
-@@||*.file-upload.com^
-@@||*.filefactory.com^
-@@||*.files.1drv.com^
-@@||*.files.cloud.orange.fr^
-@@||*.forms.gle^
-@@||*.ghostbin.co^
-@@||*.github.com^
-@@||*.githubusercontent.com^
-@@||*.gitlab.com^
+@@/_udp\.(.*)?\\/
 @@||*.gov^
-@@||*.imagebam.com^
-@@||*.imagehosting.biz^
-@@||*.imgbox.com^
-@@||*.imgur.com^
-@@||*.inc.com^
-@@||*.is.gd^
-@@||*.j.mp^
-@@||*.jsdelivr.net^
-@@||*.lenta.ru^
-@@||*.linktr.ee^
-@@||*.lnky.in^
-@@||*.mail.naver.com^
-@@||*.maven.org^
-@@||*.mediafire.com^
-@@||*.mega.nz^
-@@||*.on24.com^
-@@||*.onedrive.live.com^
-@@||*.ow.ly^
-@@||*.paste.ee^
-@@||*.pastebin.com^
-@@||*.pasteboard.co^
-@@||*.pastelink.net^
-@@||*.postimg.cc^
-@@||*.pxlme.me^
-@@||*.rb.gy^
-@@||*.rebrand.ly^
-@@||*.reurl.cc^
-@@||*.s.id^
-@@||*.send.firefox.com^
-@@||*.sendspace.com^
-@@||*.smartsheet.com^
-@@||*.snip.ly^
-@@||*.thepiratebay.org^
-@@||*.thumbsnap.com^
-@@||*.tiny.cc^
-@@||*.tinypic.com^
-@@||*.tinyurl.com^
-@@||*.wetransfer.com^
-@@||*.wixstatic.com^
-@@||*.xpixl.me^
-@@||*.zdusercontent.com^
-@@||*.zippyshare.com^
-@@||ae01.alicdn.com^
+@@||4shared.com^
+@@||://192.168.1.*^
 @@||api.nuget.org^
-@@||app.link^
+@@||api.opensubtitles.org^
+@@||api.recaptcha.net^
+@@||archive.org^
+@@||arpa^
+@@||bit.do^
+@@||bit.ly^
 @@||bitbucket.org^
-@@||ddns.net^
+@@||bitly.com^
+@@||cloudfront.net$domain=instagram.com
+@@||clouds.archive.ubuntu.com^
+@@||content.newegg.com
+@@||discordapp.com^
+@@||dl.pcgamestorrents.com^
+@@||download.adguard.com^
+@@||downloads.intercomcdn.com^
+@@||downloads.oneplus.com^
+@@||evernote.com^
+@@||file-upload.com^
+@@||filefactory.com^
+@@||files.1drv.com^
 @@||files.catbox.moe^
+@@||files.cloud.orange.fr^
 @@||files.slack.com^
-@@||geo2.adobe.com^
-@@||get3.adobe.com^
-@@||hopto.org^
-@@||mailchi.mp^
-@@||mandrillapp.com^
+@@||ghostbin.co^
+@@||gitlab.com^
+@@||imagebam.com^
+@@||imagehosting.biz^
+@@||imgbox.com^
+@@||imgur.com^
+@@||injections.adguard.com^
+@@||jquery.com^
+@@||linktr.ee^
+@@||lnky.in^
+@@||local.adguard.org^
+@@||mediafire.com^
+@@||mega.nz^
+@@||onedrive.live.com^
+@@||ow.ly^
+@@||paste.ee^
+@@||pastebin.com^
+@@||pasteboard.co^
+@@||pastelink.net^
+@@||placehold.it^
+@@||placeholdit.imgix.net^
+@@||postimg.cc^
+@@||pxlme.me^
+@@||rb.gy^
+@@||rebrand.ly^
+@@||reurl.cc^
+@@||router.asus.com^
+@@||routerlogin.com^
+@@||routerlogin.net^
+@@||sendspace.com^
 @@||simp.ly^
-@@||sytes.net^
-@@||teslarati-com-edge.ntv.io^
+@@||snip.ly^
+@@||sstatic.net^$domain=stackoverflow.com
+@@||themoviedb.com^
+@@||thepiratebay.org^
+@@||thetvdb.com^
+@@||thumbsnap.com^
+@@||tiny.cc^
+@@||tinypic.com^
+@@||tinyurl.com^
 @@||tracking-protection.cdn.mozilla.net^
-@@||uiboot.netflix.com^
+@@||twimg.com^$domain=twitter.com
+@@||twvid.com^$domain=twitter.com
 @@||vidmax.com^
 @@||weebly.com^
-@@||zapto.org
+@@||yimg.com^$domain=yahoo.com
+@@||yimg.jp^$domain=yahoo.co.jp
+@@||zippyshare.com^
 
 
 #####-- Amazonaws --#####
+@@||amazonaws.com^
 @@||s3-af-south-1.amazonaws.com^
 @@||s3-ap-east-1.amazonaws.com^
 @@||s3-ap-northeast-1.amazonaws.com^
