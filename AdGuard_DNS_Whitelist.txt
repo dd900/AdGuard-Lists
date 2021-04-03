@@ -140,6 +140,7 @@
 
 
 #####-- ImgBox --#####
+@@||imgbox.com^
 @@||images2.imgbox.com\*.gif^
 @@||images2.imgbox.com\*.jpg^
 @@||images2.imgbox.com\*.png^
@@ -237,7 +238,6 @@
 @@||gitlab.com^
 @@||imagebam.com^
 @@||imagehosting.biz^
-@@||imgbox.com^
 @@||imgur.com^
 @@||jquery.com^
 @@||linktr.ee^
@@ -277,7 +277,6 @@
 @@||vidmax.com^
 @@||weebly.com^
 @@||yimg.com^$domain=yahoo.com
-@@||yimg.jp^$domain=yahoo.co.jp
 @@||zippyshare.com^
 
 
