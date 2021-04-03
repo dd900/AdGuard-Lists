@@ -316,10 +316,6 @@
 @@||facepunch.io^
 @@||fairhash.org^
 @@||fakaofo.tk^
-@@||fbcdn*.akamaihd.net^$domain=facebook.com
-@@||fbcdn.net^$domain=facebook.com
-@@||fbexternal-a.akamaihd.net^$domain=facebook.com
-@@||fbstatic-a.akamaihd.net^$domain=facebook.com
 @@||feed.adrelayer.com^
 @@||filegrade.com^
 @@||filejoker.net^
@@ -393,7 +389,6 @@
 @@||hodlhodl.com^
 @@||href.li
 @@||href.li^
-@@||https://business.facebook.com^
 @@||hugeota.d.miui.com^$important
 @@||huntington.com^
 @@||huobi.com^
