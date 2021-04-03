@@ -162,6 +162,12 @@
 @@||v.w-x.co^
 
 
+#####-- AdGuard --#####
+@@||download.adguard.com^
+@@||injections.adguard.com^
+@@||local.adguard.org^
+
+
 #####-- CDN --#####
 @@||cdn.cloudflare.net^
 @@||cdn.embedly.com^
@@ -219,7 +225,6 @@
 @@||content.newegg.com
 @@||discordapp.com^
 @@||dl.pcgamestorrents.com^
-@@||download.adguard.com^
 @@||downloads.intercomcdn.com^
 @@||downloads.oneplus.com^
 @@||evernote.com^
@@ -235,11 +240,9 @@
 @@||imagehosting.biz^
 @@||imgbox.com^
 @@||imgur.com^
-@@||injections.adguard.com^
 @@||jquery.com^
 @@||linktr.ee^
 @@||lnky.in^
-@@||local.adguard.org^
 @@||mediafire.com^
 @@||mega.nz^
 @@||onedrive.live.com^
