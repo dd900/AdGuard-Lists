@@ -3,6 +3,7 @@
 /^wpad($|\.)/
 ||firebaselogging-pa.googleapis.com^
 ||dc.dqa.samsung.com^
+||gateway.facebook.com^
 
 
 #####---- 2o7.net ----#####
