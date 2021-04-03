@@ -174,7 +174,6 @@
 @@||btc.free-crypto.ru^
 @@||budterence.tk^
 @@||burzowo.info^
-@@||business.facebook.com^
 @@||buyad.bi-xenon.cn^
 @@||bybit.com^
 @@||c.s-microsoft.com^
@@ -383,9 +382,6 @@
 @@||hashing.mine.nu^
 @@||hashvault.pro^
 @@||hb.afl.rakuten.co.jp^
-@@||hbbtv.prosieben.de^
-@@||hbbtv.redbutton.de^
-@@||hbbtv.zdf.de^
 @@||healthyadvertising.es^
 @@||hellominer.com^
 @@||help.ui.xboxlive.com^
@@ -397,6 +393,7 @@
 @@||hodlhodl.com^
 @@||href.li
 @@||href.li^
+@@||https://business.facebook.com^
 @@||hugeota.d.miui.com^$important
 @@||huntington.com^
 @@||huobi.com^
@@ -422,7 +419,6 @@
 @@||imgur.com^$third-party,domain=reddit.com
 @@||inege.gq^
 @@||info-matin.ml^
-@@||infolink.pavv.co.kr^
 @@||ingdirect.com.au^
 @@||injections.adguard.com^
 @@||instantmessaging-pa.googleapis.com^
@@ -486,10 +482,6 @@
 @@||meta-db-worker02.pop.ric.plex.bz^
 @@||meta.plex.bz^
 @@||meta.plex.tv^
-@@||mhc-ajax-eu-s2.myhomescreen.tv^
-@@||mhc-ajax-eu.myhomescreen.tv^
-@@||mhc-xpana-eu-s2.myhomescreen.tv^
-@@||mhc-xpana-eu.myhomescreen.tv^
 @@||microsoftonline.com^
 @@||minecraft-schematics.com^
 @@||minergate.com^
@@ -561,7 +553,6 @@
 @@||ooodesi.com^
 @@||opensea.io^
 @@||optout.networkadvertising.org^
-@@||osb-ussvc.samsungqbe.com^
 @@||ospserver.net^$important
 @@||ota*.*.coloros.com^$important
 @@||ota*.*.oppomobile.com^$important

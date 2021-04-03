@@ -1,4 +1,4 @@
-/(://^)[a-z0-9-]{30,}\..*\.elasticbeanstalk\.com(/|$)/
+/(://|^)[a-z0-9-]{30,}\..*\.elasticbeanstalk\.com(/|$)/
 /(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{5,22}[0-9]{1,8}\.(icu|life|live)/
 /://(www\.)?cunt[a-z]{3,8}\.com(/|$)/
 /\\/
@@ -1955,7 +1955,7 @@
 ||://ww7.^
 ||://ww8.^
 ||://ww9.^
-||[Adblock Plus 3.4]^
+||[Adblock Plus 3.6]^
 ||a-ads.com^
 ||a-akamaihd.com^
 ||a-calc.com^
@@ -3049,7 +3049,6 @@
 ||adpron.com^
 ||adprotected.com^
 ||adprovi.de^
-||adproxy.ndmdhs.com^
 ||adproxy2.com^
 ||adprs.net^
 ||adpub.eu^
@@ -4507,7 +4506,6 @@
 ||anbiarfehxyz.com^
 ||ancedir.ru^
 ||ancesethod.top^
-||ancuut.xyz^
 ||andantask.online^
 ||andarcair.club^
 ||andarmair.club^
@@ -4825,7 +4823,6 @@
 ||arbourspankappetite.com^
 ||arbtds.pro^
 ||arbxtrack.com^
-||arc.msn.com^$ctag=~device_pc|~os_windows
 ||arcadebannerexchange.org^
 ||arcadebanners.com^
 ||arcadebe.com^
@@ -10522,7 +10519,6 @@
 ||discoverapp.xyz^
 ||discovernative.com^
 ||discovery-ptp.eu^
-||discovery.olv.nintendo.net^
 ||discussedresidentutilities.com^
 ||discussiab.club^
 ||discussneatglobe.com^
@@ -10588,7 +10584,6 @@
 ||diversepeacehush.com^
 ||divertura.com^
 ||dividedscientific.com^
-||divinorosso.be^
 ||divisionap.top^
 ||diwamugh.net^
 ||diwanee.net^
@@ -15677,7 +15672,6 @@
 ||home4loans.info^
 ||homeads.de^
 ||homeblogger.ru^
-||homegreen.tv^
 ||homenick.biz^
 ||homesicktitanic.com^
 ||homework.ru^
@@ -16167,7 +16161,7 @@
 ||icyrd.com^
 ||icyyapemu.com^
 ||id.kbmg.cz^
-||id.server^
+||id.server|^
 ||id5.ru^
 ||id9uep.ru^
 ||idancer.eu^
@@ -17907,7 +17901,6 @@
 ||keeicgjfnjws.com^
 ||keeload.com^
 ||keenravenousabsorbed.com^
-||keep-it-simple.me^
 ||keepaira.net^
 ||keepass.com^
 ||keepass.es^
@@ -20015,7 +20008,6 @@
 ||manughl.de^
 ||manwm.ru^
 ||maomaotang.com^
-||maowaotodowoo.net^
 ||mapcrayonmiss.com^
 ||maphuahin.com^
 ||mappealist.club^
@@ -20560,7 +20552,6 @@
 ||merciconseil.com^
 ||merciselyancies.site^
 ||mercuras.com^
-||mercury.dl.playstation.net^
 ||mercy.ga^
 ||mercyusuallylikewise.com^
 ||meried.co^
@@ -20605,7 +20596,6 @@
 ||metosk.com^
 ||metricfast.com^
 ||metrics.io^
-||metrobankonline-security.xyz^
 ||meubonus.com^
 ||meuzxiejun.com^
 ||mewnetwag.site^
@@ -22663,7 +22653,6 @@
 ||nozago.ru^
 ||nozzorli.com^
 ||npbnj.com^
-||npdl.cdn.nintendowifi.net^
 ||npjqjgiskte.com^
 ||nplexmedia.com^
 ||npmpecd.com^
@@ -22744,8 +22733,6 @@
 ||nstructhow.top^
 ||nsvfl7p9.com^
 ||nswnseld.com^
-||nsx-e.np.dl.playstation.net^
-||nsx.np.dl.playstation.net^
 ||nsx3g.ru^
 ||nsxawdatuetbq.com^
 ||nta1vb6cdlrl.com^
@@ -26701,7 +26688,6 @@
 ||rackcorp.com^
 ||ractcogniser.top^
 ||racticeretre.club^
-||rad.msn.com^
 ||radchesruno.club^
 ||radeant.com^
 ||radiancethedevice.com^

@@ -12,37 +12,41 @@
 
 
 #####-- Facebook --#####
+@@||api.facebook.com^
 @@||connect.facebook.net^
 @@||edge-chat.facebook.com^
 @@||edge-chat.messenger.com^
 @@||edge-mqtt.facebook.com^
-@@||external-arn2-1.xx.fbcdn.net^
-@@||external-cph2-1.xx.fbcdn.net^
-@@||external-ort2-1.xx.fbcdn.net^
+!# @@||external-arn2-1.xx.fbcdn.net^
+!# @@||external-cph2-1.xx.fbcdn.net^
+!# @@||external-ort2-1.xx.fbcdn.net^
+@@||external-*-*.xx.fbcdn.net^
 @@||external.xx.fbcdn.net^
-@@||facebook.com^
 @@||graph.facebook.com^
 @@||l.facebook.com^
 @@||lm.facebook.com^
 @@||m.facebook.com^
+@@||messenger.com^
 @@||mqtt-mini.facebook.com^
 @@||mqtt.c10r.facebook.com^
-@@||web.facebook.com^
-@@||www.facebook.com^
-@@||www.messenger.com^
+@@||portal.fb.com^
 @@||rupload.facebook.com^
-@@||scontent-arn2-1.xx.fbcdn.net^
-@@||scontent-cph2-1.xx.fbcdn.net^
-@@||scontent-ort2-1.xx.fbcdn.net^
+!# @@||scontent-arn2-1.xx.fbcdn.net^
+!# @@||scontent-cph2-1.xx.fbcdn.net^
+!# @@||scontent-ort2-1.xx.fbcdn.net^
+@@||scontent-*-*.xx.fbcdn.net^
 @@||scontent.xx.fbcdn.net^
 @@||star-mini.c10r.facebook.com^
 @@||star.c10r.facebook.com^
 @@||star.facebook.com^
 @@||static.xx.fbcdn.net^
-@@||messenger.com^
 @@||upload.messenger.com^
-@@||video-cph2-1.xx.fbcdn.net^
+!# @@||video-cph2-1.xx.fbcdn.net^
+@@||video-*-*.xx.fbcdn.net^
 @@||video.xx.fbcdn.net^
+@@||web.facebook.com^
+@@||www.facebook.com^
+@@||www.messenger.com^
 
 
 #####-- Crypto --#####
