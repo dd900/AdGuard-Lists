@@ -98,11 +98,6 @@
 
 
 #####-- Other --#####
-@@||api.nuget.org^
-@@||files.catbox.moe^
-@@||tracking-protection.cdn.mozilla.net^
-@@||uiboot.netflix.com^
-@@||vidmax.com^
 @@||*.0rz.tw^
 @@||*.1drv.ms^
 @@||*.4shared.com^
@@ -113,6 +108,7 @@
 @@||*.bit.ly^
 @@||*.bitly.com^
 @@||*.cl.ly^
+@@||*.cloud.answerhub.com^
 @@||*.cloud.ovh.net^
 @@||*.cutt.ly^
 @@||*.discordapp.com^
@@ -130,13 +126,16 @@
 @@||*.github.com^
 @@||*.githubusercontent.com^
 @@||*.gitlab.com^
+@@||*.gov^
 @@||*.imagebam.com^
 @@||*.imagehosting.biz^
 @@||*.imgbox.com^
 @@||*.imgur.com^
+@@||*.inc.com^
 @@||*.is.gd^
 @@||*.j.mp^
 @@||*.jsdelivr.net^
+@@||*.lenta.ru^
 @@||*.linktr.ee^
 @@||*.lnky.in^
 @@||*.mail.naver.com^
@@ -158,7 +157,9 @@
 @@||*.s.id^
 @@||*.send.firefox.com^
 @@||*.sendspace.com^
+@@||*.smartsheet.com^
 @@||*.snip.ly^
+@@||*.thepiratebay.org^
 @@||*.thumbsnap.com^
 @@||*.tiny.cc^
 @@||*.tinypic.com^
@@ -168,14 +169,24 @@
 @@||*.xpixl.me^
 @@||*.zdusercontent.com^
 @@||*.zippyshare.com^
+@@||ae01.alicdn.com^
+@@||api.nuget.org^
+@@||app.link^
 @@||bitbucket.org^
 @@||ddns.net^
+@@||files.catbox.moe^
 @@||files.slack.com^
+@@||geo2.adobe.com^
+@@||get3.adobe.com^
 @@||hopto.org^
 @@||mailchi.mp^
 @@||mandrillapp.com^
 @@||simp.ly^
 @@||sytes.net^
+@@||teslarati-com-edge.ntv.io^
+@@||tracking-protection.cdn.mozilla.net^
+@@||uiboot.netflix.com^
+@@||vidmax.com^
 @@||weebly.com^
 @@||zapto.org
 
