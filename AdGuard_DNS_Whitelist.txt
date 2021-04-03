@@ -51,7 +51,6 @@
 @@||edge-mqtt.facebook.com^
 @@||external-*-*.xx.fbcdn.net^
 @@||external.xx.fbcdn.net^
-@@||facebook.com^
 @@||fbcdn*.akamaihd.net^$domain=facebook.com
 @@||fbcdn.net^$domain=facebook.com
 @@||fbexternal-a.akamaihd.net^$domain=facebook.com
