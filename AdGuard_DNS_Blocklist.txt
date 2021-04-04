@@ -1,38 +1,38 @@
 # AdGuard DNS Blocklist
 
 /^wpad($|\.)/
-||firebaselogging-pa.googleapis.com^
 ||dc.dqa.samsung.com^
+||firebaselogging-pa.googleapis.com^
 ||gateway.facebook.com^
 
 
 #####---- 2o7.net ----#####
-||2o7.net^
-||*.2o7.net^
-||*.*.2o7.net^
 ||*.*.*.2o7.net^
-||112.2o7.net^
-||122.2o7.net^
-||*.112.2o7.net^
-||*.122.2o7.net^
 ||*.*.112.2o7.net^
 ||*.*.122.2o7.net^
+||*.*.2o7.net^
+||*.112.2o7.net^
+||*.122.2o7.net^
+||*.2o7.net^
+||112.2o7.net^
+||122.2o7.net^
+||2o7.net^
 
 
 #####---- omtrdc.net ----#####
-||omtrdc.net^
-||*.omtrdc.net^
-||*.*.omtrdc.net^
 ||*.*.*.omtrdc.net^
+||*.*.hb.omtrdc.net^
+||*.*.insight.omtrdc.net^
+||*.*.omtrdc.net^
+||*.*.sc.omtrdc.net^
+||*.*.tt.omtrdc.net^
+||*.hb.omtrdc.net^
+||*.insight.omtrdc.net^
+||*.omtrdc.net^
+||*.sc.omtrdc.net^
+||*.tt.omtrdc.net^
 ||hb.omtrdc.net^
+||insight.omtrdc.net^
+||omtrdc.net^
 ||sc.omtrdc.net^
 ||tt.omtrdc.net^
-||insight.omtrdc.net^
-||*.hb.omtrdc.net^
-||*.tt.omtrdc.net^
-||*.sc.omtrdc.net^
-||*.insight.omtrdc.net^
-||*.*.hb.omtrdc.net^
-||*.*.tt.omtrdc.net^
-||*.*.sc.omtrdc.net^
-||*.*.insight.omtrdc.net^
