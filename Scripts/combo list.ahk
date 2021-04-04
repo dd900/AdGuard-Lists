@@ -42,8 +42,11 @@ Loop, Parse, bigList, `n, `r
 	else if (IsIPEntry(A_LoopField))
 		ipOutText .= A_LoopField "`n"
 	else if (InStr(A_LoopField, "^$") && InStr(A_LoopField, "third-party"))
-		thirdpartyOutText .= A_LoopField "`n"
+		thirdpartyOutText .= StrReplace(A_LoopField, StrSplit(A_LoopField, "$")[2], "third-party,script,popup") "`n"
 	else {
+		if (!StartsWith(A_LoopField, "||") && !EndsWith(A_LoopField, "^"))
+			continue
+	
 		outTextArray.Push(A_LoopField)
 		
 		if (outTextArray.Length() = 300000) {
@@ -68,6 +71,7 @@ FileDelete, % iplistOutFile
 FileAppend, % ipOutText, % iplistOutFile
 ipOutText := ""
 
+Sort, thirdpartyOutText, U
 FileDelete, % thirdpartylistOutFile
 FileAppend, % thirdpartyOutText, % thirdpartylistOutFile
 thirdpartyOutText := ""
