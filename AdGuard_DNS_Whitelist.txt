@@ -2,7 +2,8 @@
 
 
 #####-- Google/Android --#####
-@@/clients[0-9].google.com/
+@@/clients[1-9].google.com/
+@@/path[1-9].xtracloud.net/
 @@||0.client-channel.google.com^
 @@||2.android.pool.ntp.org^
 @@||android.clients.google.com^
