@@ -240,6 +240,7 @@
 @@||jquery.com^
 @@||linktr.ee^
 @@||lnky.in^
+@@||media-imdb.com^$domain=imdb.com
 @@||mediafire.com^
 @@||mega.nz^
 @@||onedrive.live.com^
