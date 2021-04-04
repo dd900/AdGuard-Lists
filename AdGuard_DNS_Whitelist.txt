@@ -2,7 +2,7 @@
 
 
 #####-- Google/Android --#####
-@@/^clients[0-9].google.com/
+@@/^clients[0-9]\.google\.com/
 @@||0.client-channel.google.com^
 @@||2.android.pool.ntp.org^
 @@||android.clients.google.com^

@@ -10,12 +10,14 @@ theBigListFile := comboListDir "\The Big List.txt"
 regexOutFile := "..\" fileName " - Regex Blocklist.txt"
 whitelistOutFile := "..\" fileName " - Whitelist.txt"
 iplistOutFile := "..\" fileName " - IP Blocklist.txt"
+thirdpartylistOutFile := "..\" fileName " - Third-Party Blocklist.txt"
 
 
 bigList := ""
 whitelistOutText := ""
 regexOutText := ""
 ipOutText := ""
+thirdpartyOutText := ""
 outArray := []
 outTextArray := []
 
@@ -39,6 +41,8 @@ Loop, Parse, bigList, `n, `r
 		regexOutText .= A_LoopField "`n"
 	else if (IsIPEntry(A_LoopField))
 		ipOutText .= A_LoopField "`n"
+	else if (InStr(A_LoopField, "^$") && InStr(A_LoopField, "third-party"))
+		thirdpartyOutText .= A_LoopField "`n"
 	else {
 		outTextArray.Push(A_LoopField)
 		
@@ -63,6 +67,10 @@ regexOutText := ""
 FileDelete, % iplistOutFile
 FileAppend, % ipOutText, % iplistOutFile
 ipOutText := ""
+
+FileDelete, % thirdpartylistOutFile
+FileAppend, % thirdpartyOutText, % thirdpartylistOutFile
+thirdpartyOutText := ""
 
 FileDelete, % theBigListFile
 FileAppend, % bigList, % theBigListFile
