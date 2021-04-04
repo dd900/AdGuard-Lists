@@ -17,6 +17,7 @@
 @@||drive.google.com^
 @@||firebasestorage.googleapis.com^
 @@||fonts.gstatic.com^
+@@||geomobileservices-pa.googleapis.com^
 @@||googleapis.l.google.com^
 @@||googledrive.com^
 @@||googleusercontent.com^
@@ -26,6 +27,7 @@
 @@||redirector.gvt1.com^
 @@||sites.google.com^
 @@||storage.googleapis.com^
+@@||userlocation.googleapis.com^
 @@||youtube.com^$domain=google.com
 
 
