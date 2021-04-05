@@ -1,0 +1,5 @@
+||customer.yoga^
+||freelancer.yoga^
+||jumper.yoga^
+||lingerie.yoga^
+||topic.yoga^

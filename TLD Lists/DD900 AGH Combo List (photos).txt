@@ -1,0 +1,5 @@
+||adobe-acrobat-dc.photos^
+||danac.photos^
+||gmann.photos^
+||timestamp.photos^
+||www.danac.photos^

@@ -1,0 +1,5 @@
+||adservice.google.berlin^
+||operngala.berlin^
+||terra.berlin^
+||venue123.berlin^
+||www.terra.berlin^

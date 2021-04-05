@@ -1,0 +1,14 @@
+||amz-jobs-careers.wiki^
+||docs.idc.wiki^
+||free-amazon.wiki^
+||help.idc.wiki^
+||lilong.wiki^
+||medium.wiki^
+||sberbank-online.wiki^
+||ton-info.wiki^
+||www.eulerian.wiki^
+||www.free-amazon.wiki^
+||www.lilong.wiki^
+||www.medium.wiki^
+||www.sberbank-online.wiki^
+||www.ton-info.wiki^

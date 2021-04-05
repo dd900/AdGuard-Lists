@@ -1,0 +1,8 @@
+||fms.limited^
+||paypal-summary.limited^
+||paypal.com.webscr-validationlogin.limited^
+||poloniex.limited^
+||ripplenet.limited^
+||users.limited^
+||www.paypal-summary.limited^
+||www.ripplenet.limited^

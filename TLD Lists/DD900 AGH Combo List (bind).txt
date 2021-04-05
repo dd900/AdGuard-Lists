@@ -1,0 +1,2 @@
+||hostname.bind^
+||version.bind^

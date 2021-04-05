@@ -1,0 +1,2 @@
+||ads.diamonds^
+||gale.diamonds^

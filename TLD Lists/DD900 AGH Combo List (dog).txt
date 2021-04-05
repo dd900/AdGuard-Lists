@@ -1,0 +1,6 @@
+||cn.dogecoin.dog^
+||covidwatch.dog^
+||news.dogecoin.dog^
+||tell.dog^
+||www.dogecoin.dog^
+||www.dogx.dog^

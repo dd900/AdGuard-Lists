@@ -4,15 +4,8 @@
 @@||5471782.fls.doubleclick.net^
 @@||a.adwolf.ru^
 @@||a.sellpoint.net^
-@@||ad.10010.com^
-@@||ad.abchina.com^
-@@||ad.kazakinfo.com^
-@@||ad.ourgame.com^
-@@||adcdn.pingan.com^
 @@||addons.cdn.mozilla.net^$domain=addons.mozilla.org
 @@||admin.dable.io^
-@@||ads.tdbank.com^
-@@||advert.kf5.com^
 @@||alicdn.com^$domain=alibaba.com
 @@||aliexpress.com^$domain=alibaba.com
 @@||aliimg.com^$domain=alibaba.com
@@ -24,8 +17,6 @@
 @@||api-global.netflix.com^
 @@||api-global.netflix.com^$important
 @@||api-merchants.skimlinks.com^
-@@||api.ads.tvb.com^
-@@||app-advertise.zhihuishu.com^
 @@||app.adjust.com^
 @@||appboot.netflix.com^
 @@||appboot.netflix.com^$important
@@ -57,10 +48,8 @@
 @@||blogsmithmedia.com^$domain=engadget.com
 @@||bloks.io^
 @@||boltz.exchange^
-@@||buyad.bi-xenon.cn^
 @@||bybit.com^
 @@||c3pool.com^
-@@||captcha.su.baidu.com^
 @@||cardano.org^
 @@||cardanoscan.io^
 @@||cbsistatic.com^$domain=cnet.com
@@ -119,6 +108,7 @@
 @@||feed.adrelayer.com^
 @@||flypool.org^
 @@||fonts.gstatic.com^
+@@||fonts.gstatic.com^ 
 @@||forum.notebookreview.com^
 @@||foundation.app^
 @@||fsdn.com^$domain=slashdot.org
@@ -138,10 +128,10 @@
 @@||gstatic.com^$domain=google.es
 @@||gstatic.com^$domain=youtube.com
 @@||guardian.co.uk^$domain=theguardian.com
-@@||guce.advertising.com^
 @@||guim.co.uk^$domain=theguardian.com
 @@||gumtree.com^
 @@||gvt1.com^
+@@||gvt1.com^ 
 @@||gvt1.com^$important
 @@||h-sdk.online-metrix.net^
 @@||hash-to-coins.com^
@@ -166,7 +156,6 @@
 @@||images-amazon.com^$domain=amazon.com
 @@||images-amazon.com^$domain=amazon.es
 @@||imasdk.googleapis.com^
-@@||img.ads.tvb.com^
 @@||imgur.com^$third-party,domain=reddit.com
 @@||intercom.io^
 @@||intercomcdn.com^
@@ -203,7 +192,6 @@
 @@||nanorep.com^
 @@||neo4j.com^
 @@||netlord.de^
-@@||newad.mail.wo.cn^
 @@||nftm.art^
 @@||nftshowroom.com^
 @@||nineto5mac-d.openx.net^

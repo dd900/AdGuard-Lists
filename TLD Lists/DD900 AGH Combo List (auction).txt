@@ -1,0 +1,3 @@
+||bittrex.auction^
+||netflix.auction^
+||www.netflix.auction^

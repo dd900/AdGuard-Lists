@@ -774,7 +774,6 @@
 ||a.telus.com^$third-party,script,popup
 ||a.tovarro.com^$third-party,script,popup
 ||a.ucoz.net^$third-party,script,popup
-||a.vdo.ai^$third-party,script,popup
 ||a.w3techs.com^$third-party,script,popup
 ||a013.com^$third-party,script,popup
 ||a02342.andoveradvertiser.co.uk^$third-party,script,popup
@@ -979,7 +978,6 @@
 ||aadajnnn133.xyz^$third-party,script,popup
 ||aaddcount.com^$third-party,script,popup
 ||aaddzz.com^$third-party,script,popup
-||aadvertismentt.com^$third-party,script,popup
 ||aafdcq.com^$third-party,script,popup
 ||aagmbroxruno.com^$third-party,script,popup
 ||aam.gumtree.com.au^$third-party,script,popup
@@ -1210,7 +1208,6 @@
 ||ad-vortex.com^$third-party,script,popup
 ||ad-wheel.com^$third-party,script,popup
 ||ad.about.co.kr^$third-party,script,popup
-||ad.adriver.ru^$third-party,script,popup
 ||ad.aloodo.com^$third-party,script,popup
 ||ad.aquamediadirect.com^$third-party,script,popup
 ||ad.bitbay.net^$third-party,script,popup
@@ -1218,28 +1215,19 @@
 ||ad.daum.net^$third-party,script,popup
 ||ad.doubleclick.net^$third-party,script,popup
 ||ad.edugram.com^$third-party,script,popup
-||ad.flux.com^$third-party,script,popup
-||ad.foxnetworks.com^$third-party,script,popup
 ||ad.gt^$third-party,script,popup
 ||ad.itweb.co.za^$third-party,script,popup
 ||ad.jamba.net^$third-party,script,popup
 ||ad.kddi-fs.com^$third-party,script,popup
 ||ad.khan.co.kr^$third-party,script,popup
-||ad.linkstorms.com^$third-party,script,popup
 ||ad.linksynergy.com^$third-party,script,popup
-||ad.livere.co.kr^$third-party,script,popup
 ||ad.mail.ru^$third-party,script,popup
 ||ad.masteranime.es^$third-party,script,popup
-||ad.mesomorphosis.com^$third-party,script,popup
 ||ad.mox.tv^$third-party,script,popup
-||ad.netcommunities.com^$third-party,script,popup
 ||ad.netmedia.hu^$third-party,script,popup
-||ad.openmultimedia.biz^$third-party,script,popup
 ||ad.outsidehub.com^$third-party,script,popup
-||ad.pickple.net^$third-party,script,popup
 ||ad.reklamport.com^$third-party,script,popup
 ||ad.search.ch^$third-party,script,popup
-||ad.sensismediasmart.com.au^$third-party,script,popup
 ||ad.smartmediarep.com^$third-party,script,popup
 ||ad.spreaker.com^$third-party,script,popup
 ||ad.style^$third-party,script,popup
@@ -1255,6 +1243,7 @@
 ||ad1rtb.com^$third-party,script,popup
 ||ad20.net^$third-party,script,popup
 ||ad2adnetwork.biz^$third-party,script,popup
+||ad2links.com^$third-party,script,popup
 ||ad2up.com^$third-party,script,popup
 ||ad4980.kr^$third-party,script,popup
 ||ad4989.co.kr^$third-party,script,popup
@@ -1413,6 +1402,7 @@
 ||adfclick1.com^$third-party,script,popup
 ||adfeedstrk.com^$third-party,script,popup
 ||adfill.me^$third-party,script,popup
+||adfoc.us^$third-party,script,popup
 ||adfootprints.com^$third-party,script,popup
 ||adforgames.com^$third-party,script,popup
 ||adforgeinc.com^$third-party,script,popup
@@ -1695,7 +1685,6 @@
 ||adquantix.com^$third-party,script,popup
 ||adquest3d.com^$third-party,script,popup
 ||adqy6rzwcs.com^$third-party,script,popup
-||adr-*.vindicosuite.com^$third-party,script,popup
 ||adrank24.de^$third-party,script,popup
 ||adrcdn.com^$third-party,script,popup
 ||adreach.me^$third-party,script,popup
@@ -1733,7 +1722,6 @@
 ||ads.cc^$third-party,script,popup
 ||ads.leovegas.com^$third-party,script,popup
 ||ads.linkedin.com^$third-party,script,popup
-||ads.mp.mydas.mobi^$third-party,script,popup
 ||ads.playground.xyz^$third-party,script,popup
 ||ads.rd.linksynergy.com^$third-party,script,popup
 ||ads.servebom.com^$third-party,script,popup
@@ -1857,7 +1845,6 @@
 ||adsrvmedia.com^$third-party,script,popup
 ||adsrvmedia.net^$third-party,script,popup
 ||adsrvr.org^$third-party,script,popup
-||adss.dotdo.net^$third-party,script,popup
 ||adss.yahoo.com^$third-party,script,popup
 ||adssend.net^$third-party,script,popup
 ||adstarget.net^$third-party,script,popup
@@ -2025,7 +2012,6 @@
 ||advertur.ru^$third-party,script,popup
 ||advfeeds.com^$third-party,script,popup
 ||advg.jp^$third-party,script,popup
-||advice-ads-cdn.vice.com^$third-party,script,popup
 ||advideum.com^$third-party,script,popup
 ||advinci.club^$third-party,script,popup
 ||advinci.co^$third-party,script,popup
@@ -2150,8 +2136,6 @@
 ||aff-jp.dxlive.com^$third-party,script,popup
 ||aff-online.com^$third-party,script,popup
 ||aff.biz^$third-party,script,popup
-||aff.bstatic.com^$third-party,script,popup
-||aff.marathonbet.com^$third-party,script,popup
 ||aff1xstavka.com^$third-party,script,popup
 ||affableindigestionstruggling.com^$third-party,script,popup
 ||affairexcuses.com^$third-party,script,popup
@@ -2169,7 +2153,6 @@
 ||affilate.hh.ru^$third-party,script,popup
 ||affilbox.cz^$third-party,script,popup
 ||affili.st^$third-party,script,popup
-||affiliate-api.ti-media.net^$third-party,script,popup
 ||affiliate-b.com^$third-party,script,popup
 ||affiliate-robot.com^$third-party,script,popup
 ||affiliate.com^$third-party,script,popup
@@ -2190,16 +2173,12 @@
 ||affiliatelounge.com^$third-party,script,popup
 ||affiliatemembership.com^$third-party,script,popup
 ||affiliatenetwork.co.za^$third-party,script,popup
-||affiliateprogram.keywordspy.com^$third-party,script,popup
 ||affiliates.allposters.com^$third-party,script,popup
-||affiliates.bookdepository.co.uk^$third-party,script,popup
 ||affiliates.cupidplc.com^$third-party,script,popup
 ||affiliates.galapartners.co.uk^$third-party,script,popup
 ||affiliates.genealogybank.com^$third-party,script,popup
 ||affiliates.goodvibes.com^$third-party,script,popup
-||affiliates.homestead.com^$third-party,script,popup
 ||affiliates.londonmarketing.com^$third-party,script,popup
-||affiliates.lynda.com^$third-party,script,popup
 ||affiliates.mgmmirage.com^$third-party,script,popup
 ||affiliates.minglematch.com^$third-party,script,popup
 ||affiliates.mozy.com^$third-party,script,popup
@@ -2213,7 +2192,6 @@
 ||affiliatesmedia.sbobet.com^$third-party,script,popup
 ||affiliatewindow.com^$third-party,script,popup
 ||affiliation-france.com^$third-party,script,popup
-||affiliation.filestube.com^$third-party,script,popup
 ||affiliation.fotovista.com^$third-party,script,popup
 ||affiliation.planethoster.info^$third-party,script,popup
 ||affiliationcash.com^$third-party,script,popup
@@ -2243,7 +2221,6 @@
 ||afftrack.pro^$third-party,script,popup
 ||afftracks.online^$third-party,script,popup
 ||afftrk.online^$third-party,script,popup
-||affutdmedia.com^$third-party,script,popup
 ||afgr1.com^$third-party,script,popup
 ||afgr10.com^$third-party,script,popup
 ||afgr11.com^$third-party,script,popup
@@ -2409,6 +2386,7 @@
 ||akatracking.esearchvision.com^$third-party,script,popup
 ||akavita.com^$third-party,script,popup
 ||akingsslativ.club^$third-party,script,popup
+||aklglpwljiv.com^$third-party,script,popup
 ||akrazappi.com^$third-party,script,popup
 ||aksb-a.akamaihd.net^$third-party,script,popup
 ||akstat.com^$third-party,script,popup
@@ -7240,6 +7218,7 @@
 ||despitalyt.club^$third-party,script,popup
 ||desr.fkapi.net^$third-party,script,popup
 ||destinationurl.com^$third-party,script,popup
+||deswhatlike.biz^$third-party,script,popup
 ||detailyesgrip.com^$third-party,script,popup
 ||detect.ergebnis-dienst.de^$third-party,script,popup
 ||detectdiscovery.com^$third-party,script,popup
@@ -13262,6 +13241,7 @@
 ||layouttransparent.com^$third-party,script,popup
 ||layshyjar.com^$third-party,script,popup
 ||lazy8krti.com^$third-party,script,popup
+||lbaetmvw.com^$third-party,script,popup
 ||lbgchljyhjmev.com^$third-party,script,popup
 ||lbnwrunyfupe.com^$third-party,script,popup
 ||lcaiwpcktosp.com^$third-party,script,popup
@@ -16323,6 +16303,7 @@
 ||nojscontainer.pepperjam.com^$third-party,script,popup
 ||nokaut.link^$third-party,script,popup
 ||nol.yahoo.com^$third-party,script,popup
+||nomadpertexcess.com^$third-party,script,popup
 ||nomicidenti.top^$third-party,script,popup
 ||nompakru.click^$third-party,script,popup
 ||nonerr.com^$third-party,script,popup
@@ -18188,6 +18169,7 @@
 ||polydarth.com^$third-party,script,popup
 ||polymorphicads.jp^$third-party,script,popup
 ||pompeyperspire.com^$third-party,script,popup
+||pomposityretainerparish.com^$third-party,script,popup
 ||ponchowafesargb.com^$third-party,script,popup
 ||ponderaura.com^$third-party,script,popup
 ||ponyo.cheriefm.fr^$third-party,script,popup
@@ -18494,6 +18476,7 @@
 ||probanzfbbdix.com^$third-party,script,popup
 ||probtn.com^$third-party,script,popup
 ||processaryen.site^$third-party,script,popup
+||processlockdownagree.com^$third-party,script,popup
 ||processor.asccommunications.com^$third-party,script,popup
 ||proclivitysystems.com^$third-party,script,popup
 ||prod.demand.intelsecurity.com^$third-party,script,popup
@@ -20135,6 +20118,7 @@
 ||rtk.io^$third-party,script,popup
 ||rtmark.net^$third-party,script,popup
 ||rtn.thestar.com^$third-party,script,popup
+||rtnaticama.fun^$third-party,script,popup
 ||rtnews.pro^$third-party,script,popup
 ||rtoaster.jp^$third-party,script,popup
 ||rtogethele.club^$third-party,script,popup

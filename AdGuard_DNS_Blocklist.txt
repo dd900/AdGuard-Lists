@@ -1,5 +1,7 @@
 # AdGuard DNS Blocklist
 
+/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
+/^stat(s|istics)?[0-9]*[_.-]/
 /^track(er|ing)?[0-9]*[_.-]/
 /^wpad($|\.)/
 ||dc.dqa.samsung.com^

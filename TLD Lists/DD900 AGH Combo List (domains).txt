@@ -1,0 +1,13 @@
+||1000.domains^
+||apple-secur.onet.domains^
+||boaforcliant.onet.domains^
+||box2037.temp.domains^
+||brandedshort.domains^
+||emirates.domains^
+||marisacleveland.georgetown.domains^
+||paypal-verif.onet.domains^
+||www.1000.domains^
+||www.apple-secur.onet.domains^
+||www.boaforcliant.onet.domains^
+||www.paypal-verif.onet.domains^
+||yzhu.georgetown.domains^

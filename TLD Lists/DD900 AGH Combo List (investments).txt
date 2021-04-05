@@ -1,0 +1,7 @@
+||airdrops.investments^
+||folk.investments^
+||poloniex.investments^
+||serge.investments^
+||www.airdrops.investments^
+||www.folk.investments^
+||www.rockwall.investments^

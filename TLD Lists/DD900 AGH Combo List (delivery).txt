@@ -1,0 +1,17 @@
+||airdrop.delivery^
+||airdrops.delivery^
+||binance.delivery^
+||dev.imps.monu.delivery^
+||dev.monu.delivery^
+||dev.video.monu.delivery^
+||docusign.delivery^
+||geotest.gcp.monu.delivery^
+||imps.monu.delivery^
+||ipeu.monu.delivery^
+||ipwatch.monu.delivery^
+||olx.pl-getsafe.delivery^
+||spacex.delivery^
+||tienda.delivery^
+||video.monu.delivery^
+||www.airdrops.delivery^
+||www.olx.pl-getsafe.delivery^

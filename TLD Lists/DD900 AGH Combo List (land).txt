@@ -1,0 +1,13 @@
+||atwo.powersms.land^
+||blacklist.powersms.land^
+||client.blacklist.powersms.land^
+||hoj.land^
+||launch.land^
+||powersms.land^
+||red.powersms.land^
+||stats.twilio.powersms.land^
+||tiande.land^
+||vinhomescangio.viethomes.land^
+||www.powersms.land^
+||www.tiande.land^
+||www.vinhomescangio.viethomes.land^

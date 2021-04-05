@@ -1,0 +1,17 @@
+||adservice.google.qa^
+||bre.com.qa^
+||farmersmarket.qa^
+||fishstore.qa^
+||guidelineservices.com.qa^
+||hcg.com.qa^
+||healthassistance.qa^
+||itqan.qa^
+||jib.qa^
+||lezzet.com.qa^
+||mail.citylink.qa^
+||oya.qa^
+||qdcl.qa^
+||ssquared.qa^
+||www.cms.qa^
+||www.guidelineservices.com.qa^
+||www.healthassistance.qa^

@@ -1,0 +1,6 @@
+||covid.training^
+||covidsafecertified.training^
+||estimating.training^
+||onlinehandgun.training^
+||www.applemac.training^
+||www.onlinehandgun.training^

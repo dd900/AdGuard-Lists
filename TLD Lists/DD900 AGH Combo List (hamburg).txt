@@ -1,0 +1,5 @@
+||adservice.google.hamburg^
+||bewerbungsfotos.hamburg^
+||flex.hamburg^
+||smaato.hamburg^
+||zukunftslotse.hamburg^

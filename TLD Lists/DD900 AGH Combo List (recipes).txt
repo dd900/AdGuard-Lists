@@ -1,0 +1,6 @@
+||buckwheat.recipes^
+||cabbage.recipes^
+||mushroom.recipes^
+||novelcoronavirusattention.recipes^
+||sichuancuisine.recipes^
+||www.sichuancuisine.recipes^

@@ -8,7 +8,7 @@ outFile := "..\Combo Lists\AdGuardFormatLists.txt"
 outText := ""
 
 
-Loop, Parse, % IniRead(ini, "AG"), `n, `r
+Loop, Parse, % IniRead(ini, "AdGuard"), `n, `r
 {
 	name_url := StrSplit(A_LoopField, "=")
 	string := UrlToVar(Trim(name_url[2]))

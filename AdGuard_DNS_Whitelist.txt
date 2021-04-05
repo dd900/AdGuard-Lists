@@ -211,6 +211,7 @@
 @@||://192.168.1.*^
 @@||api.nuget.org^
 @@||api.opensubtitles.org^
+@@||api.picsart.com^
 @@||api.recaptcha.net^
 @@||archive.org^
 @@||arpa^
