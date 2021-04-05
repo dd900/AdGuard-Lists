@@ -1,3 +1,0 @@
-||dct.taxi^
-||heathrowairport.taxi^
-||www.arenda.taxi^

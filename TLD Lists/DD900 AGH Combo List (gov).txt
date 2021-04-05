@@ -1,6 +1,0 @@
-||adgallery.whitehousedrugpolicy.gov^
-||searchstats.usa.gov^
-||sstats.sfwmd.gov^
-||stats.ssa.gov^
-||telemetry.consumersentinel.gov^
-||www.dbo.ca.gov^

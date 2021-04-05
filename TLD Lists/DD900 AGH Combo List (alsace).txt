@@ -1,2 +1,0 @@
-||adservice.google.alsace^
-||houssiere.daniel.formations-web.alsace^

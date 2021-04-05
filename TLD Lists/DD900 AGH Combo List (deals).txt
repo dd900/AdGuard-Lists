@@ -1,8 +1,0 @@
-||canddi.deals^
-||coinone.deals^
-||hotelbooking.deals^
-||poloniex.deals^
-||proxy.deals^
-||www.allegrolokalnie.deals^
-||www.hotelbooking.deals^
-||www.olxpl.deals^

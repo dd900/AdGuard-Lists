@@ -1,6 +1,0 @@
-||delivery.olx.oferta.contact^
-||olx.order-pl.contact^
-||www.delivery.olx.oferta.contact^
-||www.dostawa-olx-pl.contact^
-||www.olx-oferta.contact^
-||www.olx.order-pl.contact^

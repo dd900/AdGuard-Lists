@@ -1,6 +1,0 @@
-||create.place^
-||olx.pl-logowanie.place^
-||poloniex.place^
-||scotts.co.place^
-||www.olx.pl-logowanie.place^
-||www.scotts.co.place^

@@ -1,3 +1,0 @@
-||avira.fashion^
-||payment.fashion^
-||skill.fashion^

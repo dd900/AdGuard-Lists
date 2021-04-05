@@ -1,3 +1,0 @@
-||intranet.hudson.quebec^
-||karabu.quebec^
-||platinium.quebec^

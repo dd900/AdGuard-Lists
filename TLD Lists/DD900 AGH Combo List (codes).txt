@@ -1,7 +1,0 @@
-||iig.codes^
-||language.codes^
-||ns2.ayd.codes^
-||oraclecode.codes^
-||selim.codes^
-||www.allegrolokalnie.codes^
-||www.language.codes^

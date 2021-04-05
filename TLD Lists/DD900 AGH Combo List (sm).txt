@@ -1,3 +1,0 @@
-||id.google.sm^
-||yapi.awe.sm^
-||ywidgets.awe.sm^

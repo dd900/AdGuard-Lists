@@ -1,5 +1,0 @@
-||compurent.boostlocal.vegas^
-||kennedy.boostlocal.vegas^
-||noticeu.development.vegas^
-||tigard.boostlocal.vegas^
-||trafficticket.vegas^

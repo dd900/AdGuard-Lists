@@ -1,9 +1,0 @@
-||ankarafilo.rent^
-||bengaluru.rent^
-||bhopal.rent^
-||oneway.rent^
-||paypal.rent^
-||www.ankarafilo.rent^
-||www.bengaluru.rent^
-||www.bhopal.rent^
-||www.paypal.rent^

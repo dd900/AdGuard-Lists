@@ -1,4 +1,0 @@
-||bitcoin.auto^
-||sberbank.auto^
-||www.bitcoin.auto^
-||www.sberbank.auto^

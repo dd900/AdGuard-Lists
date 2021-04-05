@@ -1,4 +1,0 @@
-||amazon-mail.pictures^
-||imagescaptures.pictures^
-||nandri.pictures^
-||projects.bigprint.pictures^

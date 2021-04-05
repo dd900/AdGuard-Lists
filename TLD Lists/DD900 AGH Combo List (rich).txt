@@ -1,7 +1,0 @@
-||auth.n.rich^
-||get.n.rich^
-||n.rich^
-||vesta.n.rich^
-||webinar.n.rich^
-||www.n.rich^
-||www.vesta.n.rich^

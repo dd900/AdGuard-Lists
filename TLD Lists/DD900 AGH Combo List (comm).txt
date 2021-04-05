@@ -1,4 +1,0 @@
-||deploy.propellerads.comm^
-||gmail.comm^
-||outlook.comm^
-||pls.marketo.comm^

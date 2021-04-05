@@ -1,2 +1,0 @@
-||exchange.node.wien^
-||magicstyle.wien^

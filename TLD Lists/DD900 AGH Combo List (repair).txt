@@ -1,8 +1,0 @@
-||apple.com-service-id.repair^
-||appletech.repair^
-||ms-outlook.repair^
-||screentec.repair^
-||tekkys.repair^
-||www.apple.com-service-id.repair^
-||www.appletech.repair^
-||www.ms-outlook.repair^

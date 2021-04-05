@@ -1,2 +1,0 @@
-||amazon-mail.fail^
-||covid.fail^

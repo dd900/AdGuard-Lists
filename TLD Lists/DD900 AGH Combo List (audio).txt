@@ -1,5 +1,0 @@
-||compilando.audio^
-||sagame.audio^
-||smrgh-studio.audio^
-||www.compilando.audio^
-||www.smrgh-studio.audio^

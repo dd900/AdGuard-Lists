@@ -1,9 +1,0 @@
-||floridalakefront.properties^
-||mandevillela.properties^
-||precellent.properties^
-||propertiespage54356434.properties^
-||relative.properties^
-||standout.properties^
-||www.mandevillela.properties^
-||www.relative.properties^
-||www.standout.properties^

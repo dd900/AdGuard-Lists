@@ -14,8 +14,7 @@ regexOutFile := "..\" fileName " - Regex Blocklist.txt"
 whitelistOutFile := "..\" fileName " - Whitelist.txt"
 iplistOutFile := "..\" fileName " - IP Blocklist.txt"
 thirdpartylistOutFile := "..\" fileName " - Third-Party Blocklist.txt"
-C# := FileToVar(cs)
-asm := CLR_CompileC#(C#, "System.dll | System.Linq.dll | System.Collections.dll | System.Core.dll")
+asm := CLR_CompileC#(FileToVar(cs), "System.dll | System.Linq.dll | System.Collections.dll | System.Core.dll")
 filter := CLR_CreateObject(asm, "Filter")
 
 
@@ -30,14 +29,18 @@ outTextArray := []
 tldObj := {}
 
 
-doNotCopyList .= UrlToVar("https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt")
-doNotCopyList .= UrlToVar("https://raw.githubusercontent.com/dd900/AdGuard-Lists/master/AdGuard_DNS_Blocklist.txt")
-Sort, doNotCopyList, U
 doNotCopyList .= UrlToVar("https://abp.oisd.nl/")
+doNotCopyList .= UrlToVar("https://block.energized.pro/basic/formats/filter")
 Sort, doNotCopyList, U
 doNotCopyList .= UrlToVar("https://abl.arapurayil.com/filters/main.txt")
 Sort, doNotCopyList, U
-doNotCopyList .= UrlToVar("https://block.energized.pro/basic/formats/filter")
+doNotCopyList .= UrlToVar("https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt")
+Sort, doNotCopyList, U
+doNotCopyList .= UrlToVar("https://raw.githubusercontent.com/dd900/AdGuard-Lists/master/AdGuard_DNS_Blocklist.txt")
+Sort, doNotCopyList, U
+doNotCopyList .= FileToVar(comboListDir "\Crap.txt")
+Sort, doNotCopyList, U
+doNotCopyList .= FileToVar("..\AdGuard_DNS_Whitelist.txt")
 Sort, doNotCopyList, U
 
 Loop, Files, % comboListDir "\*.txt"
@@ -68,13 +71,19 @@ Loop, Parse, bigList, `n, `r
 		if (!StartsWith(A_LoopField, "||") || !EndsWith(A_LoopField, "^"))
 			continue
 		
+		/*
 		_Array := StrSplit(A_LoopField, ".", "|^")
-		tld := _Array[_Array.Length()]
 		
-		if (!tldObj.HasKey(tld))
-			tldObj[tld] := []
+		if (_Array.Length() > 1) {
+			tld := _Array[_Array.Length() - 1] "." _Array[_Array.Length()]
+		
+			if (!tldObj.HasKey(tld))
+				tldObj[tld] := []
+		}
 	
 		tldObj[tld].Push(A_LoopField)
+		*/
+		
 		outTextArray.Push(A_LoopField)
 		
 		if (outTextArray.Length() = 300000) {
@@ -86,6 +95,10 @@ Loop, Parse, bigList, `n, `r
 
 outArray.Push(outTextArray)
 outTextArray := ""
+
+FileDelete, % theBigListFile
+FileAppend, % bigList, % theBigListFile
+bigList := ""
 
 FileDelete, % whitelistOutFile
 FileAppend, % whitelistOutText, % whitelistOutFile
@@ -104,11 +117,13 @@ FileDelete, % thirdpartylistOutFile
 FileAppend, % thirdpartyOutText, % thirdpartylistOutFile
 thirdpartyOutText := ""
 
-FileDelete, % theBigListFile
-FileAppend, % bigList, % theBigListFile
-bigList := ""
-
+/*
 for key, arr in tldObj {
+	if (arr.Length() < 100) {
+		tldObj.Delete(key)
+		continue
+	}
+
 	outText := ""
 	outFile := tldListDir "\" fileName " (" key ").txt"
 
@@ -117,7 +132,9 @@ for key, arr in tldObj {
 	
 	FileDelete, % outFile
 	FileAppend, % outText, % outFile
+	tldObj.Delete(key)
 }
+*/
 
 for index, arr in outArray {
 	outText := ""
@@ -128,6 +145,7 @@ for index, arr in outArray {
 	
 	FileDelete, % outFile
 	FileAppend, % outText, % outFile
+	outArray[index] := ""
 }
 
 ExitApp

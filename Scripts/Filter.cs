@@ -9,8 +9,6 @@ class Filter
 		var l1 = list1.Replace("\r", "").Split(new char[] { '\n' }, StringSplitOptions.RemoveEmptyEntries);
 		var l2 = list2.Replace("\r", "").Split(new char[] { '\n' }, StringSplitOptions.RemoveEmptyEntries);
 
-		var l3 = l1.Except(l2);
-
-		return string.Join("\n", l3);
+		return string.Join("\n", l1.Except(l2));
 	}
 }

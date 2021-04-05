@@ -1,9 +1,0 @@
-||facebooklive.chat^
-||facebookmessenger.chat^
-||facebookmessengerbot.chat^
-||meet-me.chat^
-||paxful.chat^
-||www.facebooklive.chat^
-||www.facebookmessenger.chat^
-||www.facebookmessengerbot.chat^
-||www.meet-me.chat^
