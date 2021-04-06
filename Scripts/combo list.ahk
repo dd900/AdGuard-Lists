@@ -10,6 +10,7 @@ comboListDir := "..\Combo Lists"
 tldListDir := "..\TLD Lists"
 fileName := "DD900 AGH Combo List"
 theBigListFile := comboListDir "\The Big List.txt"
+theBigCleanListFile := comboListDir "\The Big Clean List.txt"
 regexOutFile := "..\" fileName " - Regex Blocklist.txt"
 whitelistOutFile := "..\" fileName " - Whitelist.txt"
 iplistOutFile := "..\" fileName " - IP Blocklist.txt"
@@ -18,6 +19,7 @@ asm := CLR_CompileC#(FileToVar(cs), "System.dll | System.Linq.dll | System.Colle
 filter := CLR_CreateObject(asm, "Filter")
 
 
+wwwList := ""
 doNotCopyList := ""
 bigList := ""
 whitelistOutText := ""
@@ -26,6 +28,7 @@ ipOutText := ""
 thirdpartyOutText := ""
 outArray := []
 outTextArray := []
+outTextArrayIndex := 1
 tldObj := {}
 
 
@@ -59,6 +62,15 @@ doNotCopyList := ""
 
 Loop, Parse, bigList, `n, `r
 {
+	if (!StartsWith(A_LoopField, "||www."))
+		wwwList .= StrReplace(A_LoopField, "||www.", "||") "`n"
+}
+
+bigList .= wwwList
+Sort, bigList, U
+
+Loop, Parse, bigList, `n, `r
+{
 	if (StartsWith(A_LoopField, "@@"))
 		whitelistOutText .= A_LoopField "`n"
 	else if (StartsWith(A_LoopField, "/"))
@@ -69,6 +81,9 @@ Loop, Parse, bigList, `n, `r
 		thirdpartyOutText .= StrReplace(A_LoopField, StrSplit(A_LoopField, "$")[2], "third-party,script,popup") "`n"
 	else {
 		if (!StartsWith(A_LoopField, "||") || !EndsWith(A_LoopField, "^"))
+			continue
+		
+		if (StartsWith(A_LoopField, "||www."))
 			continue
 		
 		/*
@@ -84,16 +99,19 @@ Loop, Parse, bigList, `n, `r
 		tldObj[tld].Push(A_LoopField)
 		*/
 		
-		outTextArray.Push(A_LoopField)
+		outTextArray[outTextArrayIndex] := A_LoopField
 		
-		if (outTextArray.Length() = 300000) {
+		if (outTextArrayIndex = 300000) {
 			outArray.Push(outTextArray)
 			outTextArray := []
-		}
+			outTextArrayIndex := 1
+		} else
+			outTextArrayIndex += 1
 	}
 }
 
 outArray.Push(outTextArray)
+_l := outTextArray.Length()
 outTextArray := ""
 
 FileDelete, % theBigListFile
@@ -136,6 +154,8 @@ for key, arr in tldObj {
 }
 */
 
+FileDelete, % theBigCleanListFile
+
 for index, arr in outArray {
 	outText := ""
 	outFile := "..\" fileName " (" index ").txt"
@@ -145,6 +165,7 @@ for index, arr in outArray {
 	
 	FileDelete, % outFile
 	FileAppend, % outText, % outFile
+	FileAppend, % outText, % theBigCleanListFile
 	outArray[index] := ""
 }
 

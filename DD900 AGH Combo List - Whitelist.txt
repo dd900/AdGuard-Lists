@@ -4,6 +4,7 @@
 @@||5471782.fls.doubleclick.net^
 @@||a.adwolf.ru^
 @@||a.sellpoint.net^
+@@||ad.nl^
 @@||addons.cdn.mozilla.net^$domain=addons.mozilla.org
 @@||admin.dable.io^
 @@||alicdn.com^$domain=alibaba.com
@@ -88,6 +89,7 @@
 @@||go.scorptec.com.au^
 @@||google.com^$domain=youtube.com
 @@||googleadapis.l.google.com^
+@@||googleadservices.com^
 @@||googleusercontent.com^$domain=google.com
 @@||gravity.tech^
 @@||grp07.ias.rakuten.co.jp^
@@ -121,6 +123,7 @@
 @@||intercomcdn.com^
 @@||intersport.peerius.com^
 @@||iota.coloros.com^$important
+@@||jdoqocy.com^
 @@||koinal.io^
 @@||launches.appsflyer.com^
 @@||licdn.com^$domain=linkedin.com
