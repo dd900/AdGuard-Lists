@@ -20,7 +20,6 @@ filter := CLR_CreateObject(asm, "Filter")
 
 
 wwwList := ""
-doNotCopyList := ""
 bigList := ""
 whitelistOutText := ""
 regexOutText := ""
@@ -32,19 +31,11 @@ outTextArrayIndex := 1
 tldObj := {}
 
 
-doNotCopyList .= UrlToVar("https://abp.oisd.nl/")
-doNotCopyList .= UrlToVar("https://block.energized.pro/basic/formats/filter")
-Sort, doNotCopyList, U
-doNotCopyList .= UrlToVar("https://abl.arapurayil.com/filters/main.txt")
-Sort, doNotCopyList, U
-doNotCopyList .= UrlToVar("https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt")
-Sort, doNotCopyList, U
-doNotCopyList .= UrlToVar("https://raw.githubusercontent.com/dd900/AdGuard-Lists/master/AdGuard_DNS_Blocklist.txt")
-Sort, doNotCopyList, U
-doNotCopyList .= FileToVar(comboListDir "\Crap.txt")
-Sort, doNotCopyList, U
-doNotCopyList .= FileToVar("..\AdGuard_DNS_Whitelist.txt")
-Sort, doNotCopyList, U
+doNotCopyList := Sort2(UrlToVar("https://abp.oisd.nl/"), UrlToVar("https://block.energized.pro/basic/formats/filter"))
+doNotCopyList := Sort2(doNotCopyList, UrlToVar("https://abl.arapurayil.com/filters/main.txt"))
+doNotCopyList := Sort2(doNotCopyList, UrlToVar("https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"))
+doNotCopyList := Sort2(doNotCopyList, FileToVar("..\AdGuard_DNS_Blocklist.txt"))
+doNotCopyList := Sort2(doNotCopyList, FileToVar("..\AdGuard_DNS_Whitelist.txt"))
 
 Loop, Files, % comboListDir "\*.txt"
 {
@@ -66,8 +57,8 @@ Loop, Parse, bigList, `n, `r
 		wwwList .= StrReplace(A_LoopField, "||www.", "||") "`n"
 }
 
-bigList .= wwwList
-Sort, bigList, U
+bigList := Sort2(bigList, wwwList)
+wwwList := ""
 
 Loop, Parse, bigList, `n, `r
 {
@@ -88,9 +79,9 @@ Loop, Parse, bigList, `n, `r
 		
 		/*
 		_Array := StrSplit(A_LoopField, ".", "|^")
-		
-		if (_Array.Length() > 1) {
-			tld := _Array[_Array.Length() - 1] "." _Array[_Array.Length()]
+		_l := _Array.Length()
+		if (_l > 1) {
+			tld := _Array[_l - 1] "." _Array[_l]
 		
 			if (!tldObj.HasKey(tld))
 				tldObj[tld] := []
@@ -170,3 +161,10 @@ for index, arr in outArray {
 }
 
 ExitApp
+
+
+Sort2(list1, list2) {
+	list := list1 list2
+	Sort, list, U
+	return list
+}
