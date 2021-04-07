@@ -11,6 +11,7 @@ tldListDir := "..\TLD Lists"
 fileName := "DD900 AGH Combo List"
 theBigListFile := comboListDir "\The Big List.txt"
 theBigCleanListFile := comboListDir "\The Big Clean List.txt"
+crapFile := comboListDir "\Crap.txt"
 regexOutFile := "..\" fileName " - Regex Blocklist.txt"
 whitelistOutFile := "..\" fileName " - Whitelist.txt"
 iplistOutFile := "..\" fileName " - IP Blocklist.txt"
@@ -21,6 +22,7 @@ filter := CLR_CreateObject(asm, "Filter")
 
 wwwList := ""
 bigList := ""
+crapList := ""
 whitelistOutText := ""
 regexOutText := ""
 ipOutText := ""
@@ -31,38 +33,48 @@ outTextArrayIndex := 1
 tldObj := {}
 
 
-doNotCopyList := Sort2(UrlToVar("https://abp.oisd.nl/"), UrlToVar("https://block.energized.pro/basic/formats/filter"))
-doNotCopyList := Sort2(doNotCopyList, UrlToVar("https://abl.arapurayil.com/filters/main.txt"))
-doNotCopyList := Sort2(doNotCopyList, UrlToVar("https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"))
-doNotCopyList := Sort2(doNotCopyList, FileToVar("..\AdGuard_DNS_Blocklist.txt"))
-doNotCopyList := Sort2(doNotCopyList, FileToVar("..\AdGuard_DNS_Whitelist.txt"))
+doNotCopyList := Distinct(UrlToVar(IniRead(ini, "InUse", "oisd")), UrlToVar(IniRead(ini, "InUse", "energized")))
+doNotCopyList := Distinct(doNotCopyList, UrlToVar(IniRead(ini, "InUse", "abl")))
+doNotCopyList := Distinct(doNotCopyList, UrlToVar(IniRead(ini, "InUse", "adguard")))
+doNotCopyList := Distinct(doNotCopyList, FileToVar("..\AdGuard_DNS_Blocklist.txt"))
+doNotCopyList := Distinct(doNotCopyList, FileToVar("..\AdGuard_DNS_Whitelist.txt"))
+doNotCopyList := Distinct(doNotCopyList, crapText := FileToVar(crapFile))
 
 Loop, Files, % comboListDir "\*.txt"
 {
-	if (A_LoopFileName = "The Big List.txt")
+	if (A_LoopFileName = "The Big List.txt" || A_LoopFileName = "The Big Clean List.txt" || A_LoopFileName = "Crap.txt")
 		continue
 	
 	bigList .= FileToVar(A_LoopFilePath)
-	
-	if (A_Index > 1)
-		Sort, bigList, U
 }
+
+Sort, bigList, U
+FileDelete, % theBigListFile
+FileAppend, % bigList, % theBigListFile
 
 bigList := filter.FilterList(bigList, doNotCopyList)
 doNotCopyList := ""
 
 Loop, Parse, bigList, `n, `r
 {
-	if (!StartsWith(A_LoopField, "||www."))
+	if (StartsWith(A_LoopField, "||www.")) {
+		crapList .= A_LoopField "`n"
 		wwwList .= StrReplace(A_LoopField, "||www.", "||") "`n"
+	}
 }
 
-bigList := Sort2(bigList, wwwList)
+bigList := Distinct(bigList, wwwList)
 wwwList := ""
+
+if (crapList != "") {
+	FileDelete, % crapFile
+	FileAppend, % Distinct(crapText, crapList), % crapFile
+	crapText := crapList := ""
+}
 
 Loop, Parse, bigList, `n, `r
 {
-	if (StartsWith(A_LoopField, "@@"))
+	if (StartsWith(A_LoopField, "@@") && EndsWith(A_LoopField, "^"))
 		whitelistOutText .= A_LoopField "`n"
 	else if (StartsWith(A_LoopField, "/"))
 		regexOutText .= A_LoopField "`n"
@@ -70,15 +82,15 @@ Loop, Parse, bigList, `n, `r
 		ipOutText .= A_LoopField "`n"
 	else if (InStr(A_LoopField, "^$") && InStr(A_LoopField, "third-party"))
 		thirdpartyOutText .= StrReplace(A_LoopField, StrSplit(A_LoopField, "$")[2], "third-party,script,popup") "`n"
-	else {
-		if (!StartsWith(A_LoopField, "||") || !EndsWith(A_LoopField, "^"))
-			continue
+	else if (StartsWith(A_LoopField, "||") && EndsWith(A_LoopField, "^")) {
+		urlArray := StrSplit(A_LoopField, ".", "|^")
+		urlArrayLength := urlArray.Length()
 		
-		if (StartsWith(A_LoopField, "||www."))
-			continue
-		
+		if (urlArrayLength = 2) {
+			
+		}
+	
 		/*
-		_Array := StrSplit(A_LoopField, ".", "|^")
 		_l := _Array.Length()
 		if (_l > 1) {
 			tld := _Array[_l - 1] "." _Array[_l]
@@ -98,33 +110,41 @@ Loop, Parse, bigList, `n, `r
 			outTextArrayIndex := 1
 		} else
 			outTextArrayIndex += 1
+	} else {
+		crapList .= A_LoopField "`n"
+		continue
 	}
 }
 
 outArray.Push(outTextArray)
 _l := outTextArray.Length()
 outTextArray := ""
-
-FileDelete, % theBigListFile
-FileAppend, % bigList, % theBigListFile
 bigList := ""
 
 FileDelete, % whitelistOutFile
-FileAppend, % whitelistOutText, % whitelistOutFile
-whitelistOutText := ""
+if (whitelistOutText != "") {
+	FileAppend, % whitelistOutText, % whitelistOutFile
+	whitelistOutText := ""
+}
 
 FileDelete, % regexOutFile
-FileAppend, % regexOutText, % regexOutFile
-regexOutText := ""
+if (regexOutText != "") {
+	FileAppend, % regexOutText, % regexOutFile
+	regexOutText := ""
+}
 
 FileDelete, % iplistOutFile
-FileAppend, % ipOutText, % iplistOutFile
-ipOutText := ""
+if (ipOutText != "") {
+	FileAppend, % ipOutText, % iplistOutFile
+	ipOutText := ""
+}
 
-Sort, thirdpartyOutText, U
-FileDelete, % thirdpartylistOutFile
-FileAppend, % thirdpartyOutText, % thirdpartylistOutFile
-thirdpartyOutText := ""
+if (thirdpartyOutText != "") {
+	Sort, thirdpartyOutText, U
+	FileDelete, % thirdpartylistOutFile
+	FileAppend, % thirdpartyOutText, % thirdpartylistOutFile
+	thirdpartyOutText := ""
+}
 
 /*
 for key, arr in tldObj {
@@ -163,8 +183,21 @@ for index, arr in outArray {
 ExitApp
 
 
-Sort2(list1, list2) {
-	list := list1 list2
+Distinct(list1, list2) {
+	list := list1
+	list .= list2
 	Sort, list, U
 	return list
+}
+
+ComArray() {
+	arr := ComObjArray(8, 2)
+	arr[0] := "string 1"
+	arr[1] := "string 2"
+	param := COM_Parameter(0x2008, ComObjValue(arr))
+}
+
+COM_Parameter(typ, prm := "", nam := "")
+{
+	Return	IsObject(prm)?prm:Object("typ_",typ,"prm_",prm,"nam_",nam)
 }

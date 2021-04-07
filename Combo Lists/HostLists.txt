@@ -62489,7 +62489,6 @@
 ||syndication.optimizesrv.com^
 ||syndication.traffichaus.com^
 ||syndication.trafficreps.com^
-||syndication.twitter.com^
 ||syndigonetworks.com^
 ||synergiareklama.pl^
 ||synoviz.com^
@@ -87831,7 +87830,6 @@
 ||xxx18.ucoz.com^
 ||xxxa.aikeapp.com^
 ||xxxcounter.com^
-||xxxlutz.de^
 ||xxxmyself.com^
 ||xxxreactor.com^
 ||xxxwebtraffic.com^
