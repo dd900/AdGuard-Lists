@@ -27,6 +27,7 @@
 @@||sites.google.com^
 @@||storage.googleapis.com^
 @@||youtube.com^$domain=google.com
+@@||gvt1.com^
 
 
 #####-- YouTube --#####
@@ -221,6 +222,7 @@
 @@||content.newegg.com
 @@||discordapp.com^
 @@||dl.pcgamestorrents.com^
+@@||download.visualstudio.microsoft.com^
 @@||downloads.intercomcdn.com^
 @@||downloads.oneplus.com^
 @@||evernote.com^
