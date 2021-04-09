@@ -1,0 +1,10 @@
+/^(catv|dsl){1}[0-9a-z]*\.pool\.t-online\.hu/
+/^[0-9a-z]*\.(catv|dsl){1}\.pool\.telekom\.hu/
+/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
+/^amig0slivechat(s|x)?[0-9]*\.blogspot\.com/
+/^freeregister(s)?[0-9]*\.blogspot\.com/
+/^messages[0-9]*\.com/
+/^stat(s|istics)?[0-9]*[_.-]/
+/^track(er|ing)?[0-9]*[_.-]/
+/^wpad($|\.)/
+/^yahoo([0-9]*|mail[0-9]*)(.*?)\.godaddysites\.com/

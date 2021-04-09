@@ -1,23 +1,14 @@
 # AdGuard DNS Blocklist
 
 
-#####-----Regex-----#####
-/^(catv|dsl){1}[0-9a-z]*\.pool\.t-online\.hu/
-/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
-/^stat(s|istics)?[0-9]*[_.-]/
-/^track(er|ing)?[0-9]*[_.-]/
-/^wpad($|\.)/
-/^amig0slivechat(s|x)?[0-9]*\.blogspot\.com/
-/^amigos-by-orkut[0-9]*\.blogspot\.com/
-/^freeregister(s)?[0-9]*\.blogspot\.com/
-/^yahoo([0-9]*|mail[0-9]*)(.*?)\.godaddysites\.com/
-/^[0-9a-z]*\.(catv|dsl){1}\.pool\.telekom\.hu/
-
-
 #####-----WildCard-----#####
 ||*-accesspoint-*.spotify.com^
 ||a*-*-*-*.cpe.netcabo.pt^
+||ace*.bazar^
+||alerte-*.win^
+||amigos-by-orkut*.blogspot.com^
 ||audio-*.spotify.com^
+||blox*.info^
 ||chinese*.duckdns.org^
 ||gew1-*.spotify.com^
 ||habbo*.blogspot.com^

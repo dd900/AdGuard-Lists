@@ -58,8 +58,8 @@
 @@||coinb.in^
 @@||coinminerz.com^
 @@||coinswitch.co^
-@@||crypto-pool.fr^
 @@||cryptonote.social^
+@@||crypto-pool.fr^
 @@||cs.silverpop.com^
 @@||cutcaptcha.com^
 @@||dapp.com^
@@ -96,9 +96,7 @@
 @@||guardian.co.uk^$domain=theguardian.com
 @@||guim.co.uk^$domain=theguardian.com
 @@||gumtree.com^
-@@||gvt1.com^
 @@||gvt1.com^$important
-@@||h-sdk.online-metrix.net^
 @@||hashcity.org^
 @@||hashing.mine.nu^
 @@||hashvault.pro^
@@ -109,6 +107,7 @@
 @@||hive.io^
 @@||hodlhodl.com^
 @@||href.li^
+@@||h-sdk.online-metrix.net^
 @@||hugeota.d.miui.com^$important
 @@||huobi.com^
 @@||i.stack.imgur.com^$domain=stackoverflow.com
@@ -190,12 +189,12 @@
 @@||reutersmedia.net^$domain=reuters.com
 @@||revolutionchain.it^
 @@||romfs.foreign.oppomobile.com^$important
-@@||s-microsoft.com^$domain=microsoft.com
-@@||s-msn.com^$domain=msn.com
 @@||secak-fota-dn.samsungdm.com^$important
 @@||shapeshift.com^
 @@||sideshift.ai^
 @@||skypool.org^
+@@||s-microsoft.com^$domain=microsoft.com
+@@||s-msn.com^$domain=msn.com
 @@||solana.com^
 @@||solanabeach.io^
 @@||solflare.com^
