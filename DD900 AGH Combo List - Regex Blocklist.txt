@@ -3,7 +3,7 @@
 /^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
 /^amig0slivechat(s|x)?[0-9]*\.blogspot\.com/
 /^freeregister(s)?[0-9]*\.blogspot\.com/
-/^messages[0-9]*\.com/
+/^messages[0-9]+\.(com|net|info|org)/
 /^stat(s|istics)?[0-9]*[_.-]/
 /^track(er|ing)?[0-9]*[_.-]/
 /^wpad($|\.)/
