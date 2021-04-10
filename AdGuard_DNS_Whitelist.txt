@@ -21,7 +21,6 @@
 @@||googledrive.com^
 @@||googleusercontent.com^
 @@||gstatic.com^$domain=google.com
-@@||mtalk.google.com^
 @@||sites.google.com^
 @@||storage.googleapis.com^
 @@||youtube.com^$domain=google.com

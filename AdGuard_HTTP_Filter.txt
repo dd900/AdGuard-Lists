@@ -1,22 +1,8 @@
 # AdGuard HTTP Filter
 
 #-------Allow-------#
-@@||s.youtube.com^$important
-@@||bittrex.com^$important
-@@||coinbase.com^$important
-@@||binance.us^$important
-@@||hitbtc.com^$important
-@@||dl.dropboxusercontent.com^$important
-@@||ns1.dropbox.com^$important
-@@||ns2.dropbox.com^$important
-@@||nexus.ensighten.com^$important
-@@||files.catbox.moe^$important
-@@||link.us.blu.com^$important
-@@||images2.imgbox.com\*.gif^$important
-@@||images2.imgbox.com\*.png^$important
-@@||images2.imgbox.com\*.jpg^$important
-@@||sparkfun.com^$important
-@@||vidmax.com^$important
+
+
 
 #-------Block-------#
 ||facebook.com/security/hsts-pixel.gif^
