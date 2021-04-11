@@ -44,3 +44,4 @@
 /^stat(s|istics)?[0-9]*[_.-]/
 /^track(er|ing)?[0-9]*[_.-]/
 /^wpad($|\.)/
+||dc.dqa.samsung.com^
