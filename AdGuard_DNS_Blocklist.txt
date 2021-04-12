@@ -43,4 +43,14 @@
 /^stat(s|istics)?[0-9]*[_.-]/
 /^track(er|ing)?[0-9]*[_.-]/
 /^wpad($|\.)/
+||cdp.cloud.unity3d.com^
+||config.uca.cloud.unity3d.com^
+||data-optout-service.uca.cloud.unity3d.com^
 ||dc.dqa.samsung.com^
+||perf-events.cloud.unity3d.com^
+||prd-geolookup.mgo.com^
+||prd-lender.cdp.internal.unity3d.com^
+||remote-config-proxy-prd.uca.cloud.unity3d.com^
+||thind-gke-usc.prd.data.corp.unity3d.com^
+||thind-prd-knob.data.ie.unity3d.com^
+||ureca.samsungapps.com^
