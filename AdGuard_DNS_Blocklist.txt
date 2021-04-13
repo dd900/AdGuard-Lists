@@ -37,12 +37,15 @@
 /^(.*\.)?unityads(|\.co)\.com/
 /^(.*\.)?w55c(\.\w{2}\.\w{2}|\.\w{2,4})/
 /^(.*\.)?yieldmanager(\.\w{2}\.\w{2}|\.\w{2,4})/
-/^.*\.g[0-9]+\..*/
+/^hk2sch[0-9]*\.wns\.windows\.com/
+/^xn--+?[0-9a-z_.-]*/
+/^somni(stats|t|ture)?\..*\..*/
+/^(.*\.)?g[0-9]+\..*/
 /^0\.0\.0\.0.*/
 /^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
-/^stat(s|istics)?[0-9]*[_.-]/
-/^track(er|ing)?[0-9]*[_.-]/
-/^wpad($|\.)/
+/^(.*\.)?stat(s|istics)?[0-9]*[_.-]/
+/^(.*\.)?track(er|ing)?[0-9]*[_.-]/
+/^(.*\.)?wpad($|\.)/
 ||cdp.cloud.unity3d.com^
 ||config.uca.cloud.unity3d.com^
 ||data-optout-service.uca.cloud.unity3d.com^
@@ -54,3 +57,5 @@
 ||thind-gke-usc.prd.data.corp.unity3d.com^
 ||thind-prd-knob.data.ie.unity3d.com^
 ||ureca.samsungapps.com^
+||bukkautohaz.hu^
+||100procentmarjolijn.nl^
