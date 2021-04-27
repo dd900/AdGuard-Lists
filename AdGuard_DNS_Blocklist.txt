@@ -63,6 +63,8 @@
 ||data-optout-service.uca.cloud.unity3d.com^
 ||dc.dqa.samsung.com^
 ||hk2sch*.wns.windows.com^
+||inbox-production.esports.clashroyale.com^
+||inbox.clashroyale.com^
 ||msadcenter.*.com^
 ||myshn.net^
 ||nocontent-*.velocityhub.com^
@@ -71,7 +73,10 @@
 ||prd-lender.cdp.internal.unity3d.com^
 ||remote-config-proxy-prd.uca.cloud.unity3d.com^
 ||restauracja*.pl^
+||rewards.brave.com^
+||s2dbox.xyz^
 ||sublytics-*.com^
+||supercell.helpshift.com^
 ||thind-gke-usc.prd.data.corp.unity3d.com^
 ||thind-prd-knob.data.ie.unity3d.com^
 ||ureca.samsungapps.com^
