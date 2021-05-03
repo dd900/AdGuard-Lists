@@ -51,7 +51,10 @@
 /^help((ing)?-?)?(.+|.+\..+)\.([a-z]{2}|tech|club|info|rest)$/
 /^mkt[0-9]{5}\.com/
 /^pizz.*\.[a-z]{2}$/
+/^prostastream.*\..*/
+/^prostitutki.*\..*/
 /^somni(stats|t|ture)?\..+\..+/
+/^true[0-9]+\.space/
 /^xn--+[0-9a-z_.-]*/
 ||100procentmarjolijn.nl^
 ||analytics.console.aws.a2z.com^
@@ -62,6 +65,7 @@
 ||creatives-adserver.*.com^
 ||data-optout-service.uca.cloud.unity3d.com^
 ||dc.dqa.samsung.com^
+||gits.net.th^
 ||hk2sch*.wns.windows.com^
 ||inbox-production.esports.clashroyale.com^
 ||inbox.clashroyale.com^
@@ -75,9 +79,11 @@
 ||restauracja*.pl^
 ||rewards.brave.com^
 ||s2dbox.xyz^
+||snackbar*.nl^
 ||sublytics-*.com^
 ||supercell.helpshift.com^
 ||thind-gke-usc.prd.data.corp.unity3d.com^
 ||thind-prd-knob.data.ie.unity3d.com^
+||txxx.com^
 ||ureca.samsungapps.com^
 ||youdao.com
