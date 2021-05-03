@@ -1,9 +1,0 @@
-# AdGuard HTTP Filter
-
-#-------Allow-------#
-
-
-
-#-------Block-------#
-||facebook.com/security/hsts-pixel.gif^
-||vid8.poal.co/favicon.ico^
