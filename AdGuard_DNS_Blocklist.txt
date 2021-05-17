@@ -60,7 +60,7 @@
 /^prostitutki.*\..*/
 /^somni(stats|t|ture)?\..+\..+/
 /^true[0-9]+\.space/
-/^www[0-9]*?\..*\.[a-z]{2,3}$/
+/^www[0-9]+?\..*\.[a-z]{2,3}$/
 ||100procentmarjolijn.nl^
 ||analytics.console.aws.a2z.com^
 ||becisp.be^
