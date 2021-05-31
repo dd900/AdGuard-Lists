@@ -59,6 +59,7 @@
 /^prostastream.*\..*/
 /^prostitutki.*\..*/
 /^somni(stats|t|ture)?\..+\..+/
+/^stat(s|istics)?[0-9]*[_.-]/
 /^true[0-9]+\.space/
 /^www[0-9]+?\..*\.[a-z]{2,3}$/
 ||100procentmarjolijn.nl^
