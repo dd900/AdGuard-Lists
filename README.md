@@ -10,4 +10,4 @@ More regex and wildcard filters will be added to "AdGuard_DNS_Blocklist.txt" ove
 - Filters that are already in the list as a shorter filter are removed. Ex `||a.b.c.d` would be replaced if `||b.c.d` or `||c.d` exists
 - Whitelisted items from original files are preserved with duplicates removed
 
-list [url](https://raw.githubusercontent.com/dd900/AdGuard-Lists/master/DD900%20AGH%20Combo%20List.txt) 
+list [url](https://raw.githubusercontent.com/dd900/AdGuard-Lists/master/blocklist.txt) 
