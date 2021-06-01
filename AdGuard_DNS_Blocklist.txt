@@ -52,7 +52,6 @@
 /^broodj.*\.[a-z]{2}$/
 /^consent\..*\.[a-z]{2}$/
 /^covid-?19.*/
-/^d3[0-9a-z]{12}\.cloudfront\.net/
 /^help((ing)?-?)?(.+|.+\..+)\.[a-z]{2,4}$/
 /^mkt[0-9]{5}\.com/
 /^pizz.*\.[a-z]{2}$/
