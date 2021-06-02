@@ -20,7 +20,7 @@
 /^(.*\.)?global\.ard\.yahoo\.com/
 /^(.*\.)?googlesyndication(\.\w{2}\.\w{2}|\.\w{2,4})/
 /^(.*\.)?info\.yahoo\.com/
-/^(.*\.)?jp-[0-9a-z]{40}\.ph
+/^(.*\.)?jp-[0-9a-z]{40}\.ph/
 /^(.*\.)?logs?[0-9]*[_.-]/
 /^(.*\.)?match\.com/
 /^(.*\.)?mathtag(\.\w{2}\.\w{2}|\.\w{2,4})/
