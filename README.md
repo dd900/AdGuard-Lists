@@ -1,7 +1,7 @@
 # AdGuard-Lists
 
 The goal is to combine these great lists and make it as small as possible.
-More regex and wildcard filters will be added to "AdGuard_DNS_Blocklist.txt" over time to make the list smaller
+More regex and wildcard filters will be added to "AdGuard_DNS_List.txt" over time to make the list smaller
 "whitelist.old" is obsolete but contains many commonly whitelisted items if you would like to use them.
 
 - Duplicates Removed
