@@ -64,7 +64,6 @@
 @@||66de8cbce68d.cdn4.forter.com^
 @@||74651e72f5f947528ff4ffd21ddb0d63-66de8cbce68d.cdn.forter.com^
 @@||accounts.youtube.com^
-@@||amazon.com^
 @@||api.nuget.org^
 @@||auth.crowdtwist.com^
 @@||banggood.com^
@@ -73,7 +72,6 @@
 @@||emumovies.com^
 @@||events-service.coinbase.com^
 @@||fonts.gstatic.com^
-@@||rewards.brave.com^
 @@||hash-to-coins.com^
 @@||i.ibb.co^
 @@||ionomy.com^
@@ -81,6 +79,7 @@
 @@||news.yahoo.com^
 @@||nuget.org^
 @@||report.binance.im^
+@@||rewards.brave.com^
 @@||s.click.aliexpress.com^
 @@||s.youtube.com^
 @@||static-assets.coinbase.com^
@@ -88,10 +87,10 @@
 @@||u7300262.ct.sendgrid.net^
 @@||update.code.visualstudio.com^
 @@||v.w-x.co^
-@@||amazon.com^
-@@||americanthinker.com^
-@@||forbes.com^
-@@||mlive.com^
+@@||www.amazon.com^
+@@||www.americanthinker.com^
+@@||www.forbes.com^
+@@||www.mlive.com^
 ||100procentmarjolijn.nl^
 ||360.cn^
 ||360safe.com^
