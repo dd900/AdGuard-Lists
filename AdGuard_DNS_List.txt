@@ -64,6 +64,7 @@
 @@||66de8cbce68d.cdn4.forter.com^
 @@||74651e72f5f947528ff4ffd21ddb0d63-66de8cbce68d.cdn.forter.com^
 @@||accounts.youtube.com^
+@@||anti-ad.net^
 @@||api.nuget.org^
 @@||auth.crowdtwist.com^
 @@||banggood.com^
