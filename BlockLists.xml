@@ -56,6 +56,11 @@
     <Url>https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt</Url>
   </Blocklist>
   <Blocklist>
+    <Name>anti-AD</Name>
+    <Type>AdGuard</Type>
+    <Url>https://anti-ad.net/easylist.txt</Url>
+  </Blocklist>
+  <Blocklist>
     <Name>Lightswitch05</Name>
     <Type>Host</Type>
     <Url>https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt</Url>
