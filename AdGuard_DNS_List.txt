@@ -81,6 +81,7 @@
 @@||nuget.org^
 @@||report.binance.im^
 @@||rewards.brave.com^
+@@||rumble.com^
 @@||s.click.aliexpress.com^
 @@||s.youtube.com^
 @@||static-assets.coinbase.com^
