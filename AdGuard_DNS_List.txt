@@ -70,6 +70,7 @@
 @@||banggood.com^
 @@||blu.com^
 @@||cdn.crowdtwist.com^
+@@||commonwealthofaustraliastatesassembly.com^
 @@||emumovies.com^
 @@||events-service.coinbase.com^
 @@||fonts.gstatic.com^
@@ -79,6 +80,7 @@
 @@||myaccount.google.com^
 @@||news.yahoo.com^
 @@||nuget.org^
+@@||prod.intellicode.vsengsaas.visualstudio.com^
 @@||report.binance.im^
 @@||rewards.brave.com^
 @@||rumble.com^
