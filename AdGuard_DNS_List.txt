@@ -61,6 +61,7 @@
 /^stat(s|istics)?[0-9]*[_.-]/
 /^true[0-9]+\.space/
 /^www[0-9]+?\..*\.[a-z]{2,3}$/
+@@||13wham.com^
 @@||66de8cbce68d.cdn4.forter.com^
 @@||74651e72f5f947528ff4ffd21ddb0d63-66de8cbce68d.cdn.forter.com^
 @@||accounts.youtube.com^
@@ -93,6 +94,7 @@
 @@||v.w-x.co^
 @@||www.amazon.com^
 @@||www.americanthinker.com^
+@@||www2.dnr.state.*.us^
 @@||www.forbes.com^
 @@||www.mlive.com^
 ||100procentmarjolijn.nl^
