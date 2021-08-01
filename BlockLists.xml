@@ -11,11 +11,6 @@
     <Url>https://abp.oisd.nl/</Url>
   </Blocklist>
   <Blocklist>
-    <Name>Energized Basic</Name>
-    <Type>AdGuard</Type>
-    <Url>https://block.energized.pro/basic/formats/filter</Url>
-  </Blocklist>
-  <Blocklist>
     <Name>ABL</Name>
     <Type>AdGuard</Type>
     <Url>https://abl.arapurayil.com/filters/main.txt</Url>
