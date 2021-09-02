@@ -68,6 +68,12 @@
     <HostIP>0.0.0.0</HostIP>
   </Blocklist>
   <Blocklist>
+    <Name>The_Quantum_Alpha</Name>
+    <Type>Host</Type>
+    <Url>https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/For%20hosts%20file/The_Quantum_Ad-List.txt</Url>
+    <HostIP>0.0.0.0</HostIP>
+  </Blocklist>
+  <Blocklist>
     <Name>Samsung SmartTV</Name>
     <Type>Domain</Type>
     <Url>https://v.firebog.net/hosts/static/SamsungSmart.txt</Url>
