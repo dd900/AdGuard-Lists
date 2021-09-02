@@ -59,6 +59,8 @@
 /^stat(s|istics)?[0-9]*[_.-]/
 /^true[0-9]+\.space/
 /^www[0-9]+?\..*\.[a-z]{2,3}$/
+/^downioad-requlred-{3}\.gdn/
+/^net-{3,4}\.(org|stream)/
 @@||13wham.com^
 @@||66de8cbce68d.cdn4.forter.com^
 @@||74651e72f5f947528ff4ffd21ddb0d63-66de8cbce68d.cdn.forter.com^
@@ -126,6 +128,12 @@
 @@||yandex.com^
 @@||yandex.ru^
 @@||yastatic.net^
+||*cz.cc^
+||*hispeed.ch^
+||*xiazaijia.net^
+||*cdnxiazai.com^
+||*dyn.user.ono.com^
+||*tnp.pl^
 ||100procentmarjolijn.nl^
 ||360.cn^
 ||360safe.com^
