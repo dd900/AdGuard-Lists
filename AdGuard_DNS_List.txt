@@ -1,5 +1,3 @@
-# AdGuard DNS List
-
 /^(.*\.)?(ads|logs|cloudservices)\.roku\.com/
 /^(.*\.)?.doubleclick(\.\w{2}\.\w{2}|\.\w{2,4})/
 /^(.*\.)?adnxs(\.\w{2}\.\w{2}|\.\w{2,4})/
@@ -78,6 +76,8 @@
 @@||coinbase.com^
 @@||commonwealthofaustraliastatesassembly.com^
 @@||content.discovercard.com^
+@@||cryptokitties.co^
+@@||daisy.ubuntu.com^
 @@||emumovies.com^
 @@||events-service.coinbase.com^
 @@||fonts.gstatic.com^
