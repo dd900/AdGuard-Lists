@@ -1,0 +1,93 @@
+ipv4_servers = true
+ipv6_servers = false
+require_dnssec = true
+require_nolog = true
+require_nofilter = true
+block_ipv6 = true
+force_tcp = false
+server_names = ['odoh-cloudflare' , 'odoh-crypto-sx', 'odoh-ibksturm', 'odoh-koki-ams', 'odoh-resolver4.dns.openinternet.io', 'odoh-meganerd', 'odoh-koki-se', 'odoh-koki-es', 'odoh-jp.tiarap.org']
+disabled_server_names = ['odoh-jp.tiarap.org']
+listen_addresses = ['127.0.0.1:5354', '[::1]:5354']
+max_clients = 250
+#user_name = '0'
+dnscrypt_servers = false
+doh_servers = false
+odoh_servers = true
+timeout = 5000
+keepalive = 30
+netprobe_timeout = -1
+log_level = 2
+log_file = '/data/user/0/pan.alexander.tordnscrypt/logs/DnsCrypt.log'
+use_syslog = false
+cert_refresh_delay = 240
+dnscrypt_ephemeral_keys = false
+tls_disable_session_tickets = false
+bootstrap_resolvers = ['9.9.9.10:53']
+netprobe_address = '9.9.9.10:53'
+block_unqualified = true
+block_undelegated = true
+reject_ttl = 600
+ignore_system_dns = true
+log_files_max_size = 1
+log_files_max_age = 7
+log_files_max_backups = 1
+cache = true
+cache_size = 4096
+cache_min_ttl = 2400
+cache_max_ttl = 86400
+cache_neg_ttl = 60
+cache_neg_max_ttl = 600
+forwarding_rules = 'forwarding-rules.txt'
+cloaking_rules = 'cloaking-rules.txt'
+#proxy = 'socks5://127.0.0.1:9050'
+[captive_portals]
+map_file = 'captive-portals.txt'
+[local_doh]
+#listen_addresses = ['127.0.0.1:3000']
+#path = '/dns-query'
+#cert_file = 'localhost.pem'
+#cert_key_file = 'localhost.pem'
+[query_log]
+format = 'tsv'
+file = '/data/user/0/pan.alexander.tordnscrypt/cache/query.log'
+ignored_qtypes = ['DNSKEY', 'NS']
+[nx_log]
+format = 'tsv'
+#file = '/data/user/0/pan.alexander.tordnscrypt/cache/nx.log'
+[blocked_names]
+blocked_names_file = ''
+[blocked_ips]
+blocked_ips_file = ''
+[allowed_names]
+allowed_names_file = 'whitelist.txt'
+[sources]
+[sources.odoh-servers]
+urls = ['https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v3/odoh-servers.md', 'https://download.dnscrypt.info/resolvers-list/v3/odoh-servers.md', 'https://ipv6.download.dnscrypt.info/resolvers-list/v3/odoh-servers.md']
+cache_file = 'odoh-servers.md'
+minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
+refresh_delay = 24
+prefix = ''
+[sources.odoh-relays]
+urls = ['https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v3/odoh-relays.md', 'https://download.dnscrypt.info/resolvers-list/v3/odoh-relays.md', 'https://ipv6.download.dnscrypt.info/resolvers-list/v3/odoh-relays.md']
+cache_file = 'odoh-relays.md'
+minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
+refresh_delay = 24
+prefix = ''
+[sources.'public-resolvers']
+urls = ['https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v3/public-resolvers.md', 'https://download.dnscrypt.info/resolvers-list/v3/public-resolvers.md', 'https://ipv6.download.dnscrypt.info/resolvers-list/v3/public-resolvers.md', 'https://download.dnscrypt.net/resolvers-list/v3/public-resolvers.md']
+minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
+cache_file = 'public-resolvers.md'
+refresh_delay = 72
+prefix = ''
+[sources.'relays']
+urls = ['https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v3/relays.md', 'https://download.dnscrypt.info/resolvers-list/v3/relays.md', 'https://ipv6.download.dnscrypt.info/resolvers-list/v3/relays.md', 'https://download.dnscrypt.net/resolvers-list/v3/relays.md']
+cache_file = 'relays.md'
+minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
+refresh_delay = 72
+prefix = ''
+[broken_implementations]
+fragments_blocked = ['cisco', 'cisco-ipv6', 'cisco-familyshield', 'cisco-familyshield-ipv6', 'cleanbrowsing-adult', 'cleanbrowsing-family-ipv6', 'cleanbrowsing-family', 'cleanbrowsing-security']
+[anonymized_dns]
+skip_incompatible = true
+routes = [{server_name='odoh-cloudflare', via=['odohrelay-crypto-sx', 'odohrelay-surf', 'odohrelay-koki-ams']}, { server_name='odoh-crypto-sx', via=['odohrelay-crypto-sx', 'odohrelay-surf', 'odohrelay-koki-ams']}, { server_name='odoh-ibksturm', via=['odohrelay-koki-se', 'odohrelay-koki-bcn', 'odohrelay-ibksturm']}, { server_name='odoh-koki-ams', via=['odohrelay-surf', 'odohrelay-koki-ams', 'odohrelay-koki-se', 'odohrelay-koki-bcn']}, { server_name='odoh-resolver4.dns.openinternet.io', via=['odohrelay-crypto-sx', 'odohrelay-surf', 'odohrelay-koki-ams', 'odohrelay-ibksturm']}, { server_name='odoh-meganerd', via=['odohrelay-crypto-sx', 'odohrelay-surf', 'odohrelay-koki-ams']}, { server_name='odoh-koki-se', via=['odohrelay-surf', 'odohrelay-koki-ams', 'odohrelay-koki-se', 'odohrelay-koki-bcn']}, { server_name='odoh-koki-es', via=['odohrelay-surf', 'odohrelay-koki-ams', 'odohrelay-koki-se', 'odohrelay-koki-bcn']}, { server_name='odoh-jp.tiarap.org', via=['odohrelay-surf', 'odohrelay-koki-ams', 'odohrelay-koki-se', 'odohrelay-koki-bcn', 'odohrelay-ibksturm']}]
+[static]
