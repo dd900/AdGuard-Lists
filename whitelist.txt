@@ -1,10 +1,12 @@
 @@/^(.*\.)?ff-0[0-9]{1}\.com/
 @@||123movies.ag^
 @@||a.pomf.cat^
+@@||account.asus.com^
 @@||accounts.youtube.com^
 @@||anti-ad.net^
 @@||api-secure.solvemedia.com^
 @@||api.nuget.org^
+@@||api.saasexch.org^
 @@||app.launchdarkly.com^
 @@||apps.google.com^
 @@||audioknigi.club^
@@ -34,6 +36,7 @@
 @@||gus.host^
 @@||hans.pr0gramm.com^
 @@||help.dottoro.com^
+@@||help.nextcloud.com^
 @@||hurensohn.pr0gramm.com^
 @@||img.pr0gramm.com^
 @@||infoevent.startappservice.com^
@@ -92,6 +95,7 @@
 @@||www.engadget.com^
 @@||www.forbes.com^
 @@||www.gus.host^
+@@||www.msn.com^
 @@||www.newsbreak.com^
 @@||www.pr0gramm.com^
 @@||www8.zippyshare.com^
