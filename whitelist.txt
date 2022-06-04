@@ -7,6 +7,8 @@
 @@||api-secure.solvemedia.com^
 @@||api.nuget.org^
 @@||api.saasexch.org^
+@@||api.weather.com^
+@@||app.adjust.com^|
 @@||app.launchdarkly.com^
 @@||apps.google.com^
 @@||audioknigi.club^
@@ -14,11 +16,14 @@
 @@||balena-io.github.io^
 @@||bitcoin.org^
 @@||blog.amusedia.com^
+@@||captive.apple.com^
 @@||catbox.moe^
 @@||chrome.google.com^
+@@||connectivity-check.ubuntu.com^
 @@||codeload.github.com^
 @@||colab.research.google.com^
 @@||dl.driverpack.io^
+@@||dns.msftncsi.com^
 @@||download.amd.com^
 @@||download.sysinternals.com^
 @@||download.visualstudio.microsoft.com^
@@ -27,12 +32,14 @@
 @@||events.launchdarkly.com^
 @@||explorer.ark.io^
 @@||fitgirl-repacks.site^
+@@||fonts.gstatic.com^
 @@||github.com^
 @@||githubusercontent.com^
 @@||gitlab.com^
 @@||gitlab.io^
 @@||go.cb-w.com^
 @@||google.gus.host^
+@@||gvt1.com^
 @@||gus.host^
 @@||hans.pr0gramm.com^
 @@||help.dottoro.com^
@@ -73,6 +80,7 @@
 @@||path2.xtracloud.net^
 @@||path3.xtracloud.net^
 @@||player.h-cdn.com^
+@@||pool.ntp.org^
 @@||pr0gramm.com^
 @@||qf97.app.link^
 @@||raw.githubusercontent.com^
@@ -80,6 +88,7 @@
 @@||rumble.com^
 @@||s.gus.host^
 @@||s.youtube.com^
+@@||samsungnewsapi.picks.my^
 @@||socket.io^
 @@||softonic.com^
 @@||source.android.com^
@@ -89,6 +98,8 @@
 @@||thewashingtoncountyauditor.com^
 @@||thumb.pr0gramm.com^
 @@||translate.google.com^
+@@||unpkg.com^
+@@||vas.samsungapps.com^
 @@||vid.pr0gramm.com^
 @@||vsassets.io^
 @@||ww38.wpf.ria-labs.com^
@@ -98,7 +109,7 @@
 @@||www.msn.com^
 @@||www.newsbreak.com^
 @@||www.pr0gramm.com^
-@@||www8.zippyshare.com^
+@@||www.reddit.com^
 @@||xtrapath1.izatcloud.net^
 @@||xtrapath2.izatcloud.net^
 @@||xtrapath3.izatcloud.net^
