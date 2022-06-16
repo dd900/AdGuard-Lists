@@ -13437,7 +13437,7 @@
 ||adsrv.wtf^
 ||adsrv2.swidnica24.pl^
 ||adsrv4k.com^
-||adsrvmedia.adk2.co^$important
+||adsrvmedia.adk2.co^
 ||adsrvmedia.com^
 ||adsrvmedia.net^
 ||adsrvr.io^
@@ -24943,7 +24943,6 @@
 ||bet-prognoz.com^
 ||bet.ch^
 ||bet.championat.com^
-||bet.championat.com^$important
 ||bet.hb.omtrdc.net^
 ||bet20.bet^
 ||bet29.club^
@@ -39001,7 +39000,7 @@
 ||cyberable.com^
 ||cyberacademy.ac.zm^
 ||cyberanalytics.nl^
-||cyberark.com^$important
+||cyberark.com^
 ||cyberbike.free.fr^
 ||cyberbounty.com^
 ||cybercloud.info^
@@ -41542,7 +41541,6 @@
 ||deloplen.com^
 ||delosnetwork.it^
 ||deloton.com^
-||deloton.com$important
 ||delta.com/datacollect
 ||delta.mediafort.ru^
 ||deltacapita.net.daraz.com^
@@ -47208,7 +47206,7 @@
 ||ehair4u.com^
 ||eharmony.ca/fd/
 ||eharmony.co.uk/bd/
-||ehawk.com^$important
+||ehawk.com^
 ||ehbbeikveqgmtj.com^
 ||ehd.baike.com^
 ||ehentai.wiki^
@@ -48172,7 +48170,7 @@
 ||embed.tonews.org^
 ||embed.usersmagic.com^
 ||embeddedanalytics.com^
-||embeddedassistant.googleapis.com^$important
+||embeddedassistant.googleapis.com^
 ||embedle.com^
 ||embedly.com/widgets/xcomm.html$third-party
 ||embedplayerbooyah.com^
@@ -61185,7 +61183,6 @@
 ||graph.fbpigeon.com^
 ||graph.gcloud.bluecava.com^
 ||graph.instagram.com^
-||graph.instagram.com^$important
 ||graph.microsoft.com^
 ||graph.oculus.com^
 ||graph.windows.net^
@@ -83630,8 +83627,8 @@
 ||mc8wm8c7pn0ltnhf6w05.net.daraz.com^
 ||mca4climate.info^
 ||mcad.mods-clinic.com^
-||mcafee.com^$important
-||mcafeewebadvisor.com^$important
+||mcafee.com^
+||mcafeewebadvisor.com^
 ||mcaril.com^
 ||mcaspkd.cn^
 ||mcc.engineering.northwestern.edu^
@@ -93849,7 +93846,6 @@
 ||ocio365.com^
 ||oclaserver.com^
 ||oclasrv.com^
-||oclasrv.com$important
 ||oclgbmykr.com^
 ||ocloudfronta.app.net.zooplus.it^
 ||oclus.com^
@@ -97729,7 +97725,7 @@
 ||pagead-tpc.l.google.com^
 ||pagead.google.com^
 ||pagead.googlesyndication.com^
-||pagead.l.doubleclick.net^$important
+||pagead.l.doubleclick.net^
 ||pagead.l.google.com^
 ||pagead2.googleadservices.com^
 ||pagead2.googlesyndication.com^
@@ -100356,7 +100352,6 @@
 ||pixel.widgetly.com^
 ||pixel.wp.com^
 ||pixel.wp.pl^
-||pixel.wp.pl^$important
 ||pixel.yabidos.com^
 ||pixel.yola.com^
 ||pixel.zumby.io^
@@ -103448,7 +103443,6 @@
 ||privatesextapes.com^
 ||privatesociety.com^
 ||privatestats.whatsapp.net^
-||privatestats.whatsapp.net^$important
 ||privateteenvideo.com^
 ||privatevideotube.com^
 ||privatewebcams.com^
@@ -125759,7 +125753,6 @@
 ||tags.creativille.co.uk^
 ||tags.creditkarma.com^
 ||tags.crwdcntrl.net^
-||tags.crwdcntrl.net^$important
 ||tags.digital-metric.com^
 ||tags.experian.co.uk^
 ||tags.globo.com^
@@ -126219,7 +126212,7 @@
 ||tck.photobox.com^
 ||tck.transavia.com^
 ||tckn-code.com^
-||tclclouds.com^$important
+||tclclouds.com^
 ||tcmall.me^
 ||tcmdz.com^
 ||tcms.psmcdn.net^
@@ -146668,7 +146661,6 @@
 ||www.goodyporn.com^
 ||www.google-analytics.com^
 ||www.googleadservices.com^
-||www.googleadservices.com^$important
 ||www.googletagmanager.com^
 ||www.gopjn.com^
 ||www.gopornvideos.com^
