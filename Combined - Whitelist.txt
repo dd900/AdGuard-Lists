@@ -430,7 +430,9 @@
 @@||log.mmstat.com^|
 @@||logentries.com^|
 @@||login-ishare.iask.com.cn^
+@@||login.live.com^
 @@||login.sendpulse.com^|
+@@||logincdn.msauth.net^
 @@||luminapool.io^
 @@||luno.com^
 @@||m.pr0gramm.com^
