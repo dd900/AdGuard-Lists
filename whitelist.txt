@@ -52,6 +52,8 @@
 @@||kiwifarms.net^
 @@||lib.ru.ec^
 @@||location.services.mozilla.com^
+@@||login.live.com^
+@@||logincdn.msauth.net^
 @@||m.pr0gramm.com^
 @@||myaccount.google.com^
 @@||news.yahoo.com^
