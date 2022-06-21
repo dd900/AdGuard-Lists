@@ -307,7 +307,6 @@
 ||ichnaea-*.geo.netflix.com^
 ||ichnaea-*.netflix.com^
 ||iflyad.*.openstorage.cn^
-||img*.hc360.com^*.swf
 ||imglnk*.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
@@ -355,7 +354,6 @@
 ||mads-*.amazon.com^
 ||mapi-log.qoo*.jp^
 ||marketplace-*.hyprmx.com^
-||marketplace-ios-*.hyprmx.com^
 ||mas-ext-*.amazon.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
