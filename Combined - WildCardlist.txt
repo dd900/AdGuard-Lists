@@ -66,6 +66,7 @@
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||aax-*.amazon.com^
+||ablen*.tk^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.msn.com^
@@ -345,6 +346,7 @@
 ||log*.happymod.com^
 ||log*.interactive-circle.jp^
 ||log*.molitv.cn^
+||log*.vietnamplus.vn^
 ||logger-*.dailymotion.com^
 ||login*-paypal.com^
 ||logs*.smithsonian.museum^
