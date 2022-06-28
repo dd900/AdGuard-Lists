@@ -64,6 +64,7 @@
 @@||android.prod.ftl.netflix.com^
 @@||anti-ad.net^
 @@||antpool.com^
+@@||anwb.webpower.eu^|
 @@||api-glb-euw*b.smoot.apple.com^
 @@||api-global.netflix.com^
 @@||api-global.netflix.com^|
