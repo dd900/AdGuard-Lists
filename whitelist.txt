@@ -19,12 +19,12 @@
 @@||captive.apple.com^
 @@||catbox.moe^
 @@||chrome.google.com^
-@@||connectivity-check.ubuntu.com^
 @@||codeload.github.com^
 @@||colab.research.google.com^
-@@||windowsupdate.com^
+@@||connectivity-check.ubuntu.com^
 @@||dl.driverpack.io^
 @@||dns.msftncsi.com^
+@@||dotnet.microsoft.com^
 @@||download.amd.com^
 @@||download.sysinternals.com^
 @@||download.visualstudio.microsoft.com^
@@ -40,11 +40,12 @@
 @@||gitlab.io^
 @@||go.cb-w.com^
 @@||google.gus.host^
-@@||gvt1.com^
 @@||gus.host^
+@@||gvt1.com^
 @@||hans.pr0gramm.com^
 @@||help.dottoro.com^
 @@||help.nextcloud.com^
+@@||help.ubuntu.com^
 @@||hurensohn.pr0gramm.com^
 @@||img.pr0gramm.com^
 @@||infoevent.startappservice.com^
@@ -92,6 +93,7 @@
 @@||s.gus.host^
 @@||s.youtube.com^
 @@||samsungnewsapi.picks.my^
+@@||shell.windows.com^
 @@||socket.io^
 @@||softonic.com^
 @@||source.android.com^
@@ -105,6 +107,7 @@
 @@||vas.samsungapps.com^
 @@||vid.pr0gramm.com^
 @@||vsassets.io^
+@@||windowsupdate.com^
 @@||ww38.wpf.ria-labs.com^
 @@||www.engadget.com^
 @@||www.forbes.com^
