@@ -175,6 +175,7 @@
 @@||cdn.snapcraftcontent.com^
 @@||cdn*.signal.org^
 @@||cdn*.smoot.apple.com^
+@@||cdnbc-wup.hsbc.com.hk^|
 @@||cent.co^
 @@||center-h5api.m.taobao.com^
 @@||centos.melbourneitmirror.net^
@@ -618,6 +619,7 @@
 @@||psyada.com^
 @@||psychadalias.com^
 @@||pt.afl.rakuten.co.jp^|
+@@||public-cis.exponea.com^|
 @@||publicassets.cdn-apple.com^
 @@||publishers.adsterra.com^|
 @@||pylons.tech^
