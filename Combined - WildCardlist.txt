@@ -358,6 +358,7 @@
 ||marketplace-*.hyprmx.com^
 ||mas-ext-*.amazon.com^
 ||matomo.*.vn^
+||mautic.*.com.vn^
 ||mautic.*.vn^
 ||mcc.*.miui.com^
 ||mcdp-*.outbrain.com^
@@ -399,12 +400,12 @@
 ||pijama.*.elasticbeanstalk.com^
 ||ping.*.sogou.com^
 ||pingfore*.*^
+||piwik.*.com.vn^
 ||piwik.*.vn^
 ||pixel.archive.*^
 ||pixel*.spotify.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||play*.videos.vidto.me^
-||po*.877zw.com^
 ||pointroll.*^
 ||production-adserver-*.amazonaws.com^
 ||proxy-*.*.mi.com^
