@@ -11,11 +11,14 @@
 @@||a.files.bbci.co.uk^
 @@||a.pomf.cat^
 @@||a.sellpoint.net^|
+@@||a0.ortho.tiles.virtualearth.net^
 @@||a1801.dscv.akamai.net^
 @@||ac.ebis.ne.jp^|
 @@||account.asus.com^
+@@||account.live.com^
 @@||account.netflix.com^
 @@||accounts.youtube.com^
+@@||acctcdn.msauth.net^
 @@||acidpools.com^
 @@||actiontoad.canonical.com^
 @@||ad-gone.com^
@@ -74,6 +77,7 @@
 @@||api.amazonvideo.com^
 @@||api.huangye.miui.com^
 @@||api.nuget.org^
+@@||api.saasexch.com^
 @@||api.saasexch.org^
 @@||api.snapcraft.io^
 @@||api.telegram.org^
@@ -194,6 +198,7 @@
 @@||citiintl.122.2o7.net^|
 @@||cj.dotomi.com^|
 @@||classliving.lpages.co^|
+@@||click.appcast.io^|
 @@||click.simba.taobao.com^|
 @@||click.trafficguard.ai^|
 @@||click.virt.exacttarget.com^|
@@ -221,6 +226,7 @@
 @@||connectivitycheck.android.com^
 @@||connectivitycheck.grapheneos.network^
 @@||connectivitycheck.gstatic.com^
+@@||content.govdelivery.com^
 @@||contentproxy.signal.org^
 @@||contents*.00110.citi.com^|
 @@||core.crazyegg.com^|
@@ -267,6 +273,7 @@
 @@||dns.quad9.net^
 @@||dns9.quad9.net^
 @@||dogeminingpool.com^
+@@||dotnet.microsoft.com^
 @@||dotscanner.com^
 @@||download.amd.com^
 @@||download.opensuse.org^
@@ -381,6 +388,7 @@
 @@||help-advertisers.adsterra.com^|
 @@||help.dottoro.com^
 @@||help.nextcloud.com^
+@@||help.ubuntu.com^
 @@||herominers.com^
 @@||hive.io^
 @@||hodlhodl.com^
@@ -417,6 +425,7 @@
 @@||koinal.io^
 @@||kraken.com^
 @@||kryptoids.monster^
+@@||lakeviewalleycatbarandgrill.com^
 @@||lambdastake.com^
 @@||ledger.com^
 @@||lib.ru.ec^
@@ -511,8 +520,8 @@
 @@||nault.cc^
 @@||netatmo.commander1.com^|
 @@||netlord.de^
-@@||newad.mail.wo.cn^
 @@||news-app.abumedia.yql.yahoo.com^
+@@||news.banggood.com^
 @@||news.yahoo.com^
 @@||newspunch.com^
 @@||nflxso.net^
@@ -663,6 +672,7 @@
 @@||security.ubuntu.com^
 @@||settings-win.data.microsoft.com^
 @@||shapeshift.com^
+@@||shell.windows.com^
 @@||sideshift.ai^
 @@||sienna.network^
 @@||sigmaverse.io^
@@ -790,6 +800,7 @@
 @@||www.forbes.com^
 @@||www.googleadservices.com^|
 @@||www.gus.host^
+@@||www.instagram.com^
 @@||www.jdoqocy.com^|
 @@||www.msftconnecttest.com^
 @@||www.msn.com^
