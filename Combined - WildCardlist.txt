@@ -256,7 +256,6 @@
 ||eum*.instana.io^
 ||event.*.mi.com^
 ||event.*.oppomobile.com^
-||event*.hk01.com^
 ||events-*.op.hicloud.com^
 ||events-api*.outfit7.com^
 ||events*.cre.ma^
@@ -269,6 +268,7 @@
 ||fls-*.amazon.*^
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
+||fp-*it*.fengkongcloud.com^
 ||fpb*.51edu.com^
 ||freecontent.*^
 ||freestats.*^
@@ -343,8 +343,6 @@
 ||log.*.miui.com^
 ||log*-misc-lf.amemv.com^
 ||log*.aliyuncs.com^
-||log*.happymod.com^
-||log*.interactive-circle.jp^
 ||log*.molitv.cn^
 ||log*.vietnamplus.vn^
 ||logger-*.dailymotion.com^
