@@ -1,11 +1,15 @@
 @@/^(.*\.)?ff-0[0-9]{1}\.com/
 @@||123movies.ag^
 @@||a.pomf.cat^
+@@||a0.ortho.tiles.virtualearth.net^
 @@||account.asus.com^
+@@||account.live.com^
 @@||accounts.youtube.com^
+@@||acctcdn.msauth.net^
 @@||anti-ad.net^
 @@||api-secure.solvemedia.com^
 @@||api.nuget.org^
+@@||api.saasexch.com^
 @@||api.saasexch.org^
 @@||api.weather.com^
 @@||app.adjust.com^|
@@ -22,6 +26,7 @@
 @@||codeload.github.com^
 @@||colab.research.google.com^
 @@||connectivity-check.ubuntu.com^
+@@||content.govdelivery.com^
 @@||dl.driverpack.io^
 @@||dns.msftncsi.com^
 @@||dotnet.microsoft.com^
@@ -51,12 +56,14 @@
 @@||infoevent.startappservice.com^
 @@||joyreactor.cc^
 @@||kiwifarms.net^
+@@||lakeviewalleycatbarandgrill.com^
 @@||lib.ru.ec^
 @@||location.services.mozilla.com^
 @@||login.live.com^
 @@||logincdn.msauth.net^
 @@||m.pr0gramm.com^
 @@||myaccount.google.com^
+@@||news.banggood.com^
 @@||news.yahoo.com^
 @@||newspunch.com^
 @@||oladblock.me^
@@ -112,6 +119,7 @@
 @@||www.engadget.com^
 @@||www.forbes.com^
 @@||www.gus.host^
+@@||www.instagram.com^
 @@||www.msn.com^
 @@||www.newsbreak.com^
 @@||www.pr0gramm.com^
