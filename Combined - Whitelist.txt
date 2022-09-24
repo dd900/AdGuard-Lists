@@ -430,6 +430,7 @@
 @@||ledger.com^
 @@||lib.ru.ec^
 @@||licensing.mp.microsoft.com^
+@@||link.morningbrew.com^|
 @@||links.e.theatlantic.com^|
 @@||links.getblueshift.com^|
 @@||liquid.net^
@@ -444,6 +445,7 @@
 @@||login.live.com^
 @@||login.sendpulse.com^|
 @@||logincdn.msauth.net^
+@@||logo.clearbit.com^
 @@||luminapool.io^
 @@||luno.com^
 @@||m.pr0gramm.com^
