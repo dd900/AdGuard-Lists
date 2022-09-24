@@ -30,6 +30,7 @@
 ||beacons4.gvt2.com^
 ||beacons5.gvt2.com^
 ||beacons5.gvt3.com^
+||brave-core-ext.s3.brave.com^
 ||c.amazon-adsystem.com^
 ||c00.adobe.com^
 ||capi.samsungcloud.com^
@@ -38,6 +39,7 @@
 ||cloudservices.roku.com^
 ||coinpot.co^
 ||combine.urbanairship.com^
+||community.brave.com^
 ||config.edge.skype.com^
 ||config.inmobi.com^
 ||config.unityads.unity3d.com^
@@ -75,6 +77,7 @@
 ||improving.duckduckgo.com^
 ||ip-info.ff.avast.com^
 ||iplogger.org^
+||laptop-updates.brave.com^
 ||log.100workingmod.com^
 ||log.particlenews.com^
 ||logx.optimizely.com^
@@ -86,14 +89,17 @@
 ||ocmaintenance.netgear.com^
 ||ogs.google.com^
 ||p.typekit.net^
+||p3a.brave.com^
 ||ping.chartbeat.net^
 ||probe.twitter.com^
 ||prod.telemetry.ros.rockstargames.com^
 ||profile.localytics.com^
 ||remote-data.urbanairship.com^
 ||req.startappservice.com^
+||rewards.brave.com^
 ||rt.applovin.com^
 ||rt.applvn.com^
+||safebrowsing.brave.com^
 ||scribe.logs.roku.com^
 ||secure.insightexpressai.com^
 ||securepubads.g.doubleclick.net^
@@ -105,10 +111,12 @@
 ||ssl.google-analytics.com^
 ||startup-iobit-com.us-east-1.elasticbeanstalk.com^
 ||startup.iobit.com^
+||static.brave.com
 ||static.cloudflareinsights.com^
 ||static.hotjar.com^
 ||static.narrativ.com^
 ||static.trafficjunky.com^
+||static1.brave.com^
 ||stats.lineageos.org^
 ||syndication.twitter.com^
 ||tag.researchnow.com^
@@ -122,6 +130,7 @@
 ||tps.doubleverify.com^
 ||ucoz.com^
 ||userlocation.googleapis.com^
+||variations.brave.com^
 ||visualstudio-devdiv-c2s.msedge.net^
 ||vortex.data.microsoft.com^
 ||wd.adcolony.com^
