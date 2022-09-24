@@ -272,7 +272,6 @@
 ||fpb*.51edu.com^
 ||freecontent.*^
 ||freestats.*^
-||g*.biqugetv.com^
 ||gcw*.2liang.cn^
 ||geo.frty*.com^
 ||geo*.ggpht.com^
@@ -343,6 +342,7 @@
 ||log.*.miui.com^
 ||log*-misc-lf.amemv.com^
 ||log*.aliyuncs.com^
+||log*.byteoversea.com^
 ||log*.molitv.cn^
 ||log*.vietnamplus.vn^
 ||logger-*.dailymotion.com^
@@ -451,7 +451,6 @@
 ||sptag*.com^
 ||spynet*.microsoft.akadns.net^
 ||spynet*.microsoft.com^
-||ssc.southpark*^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat.*.*.xiaomi.com^
@@ -506,7 +505,6 @@
 ||usp*.baidu.com^
 ||v.newsportal*.ru^
 ||v.tzbox*.xyz^
-||v*.denakop.com^
 ||v*.sitecounter.site^
 ||vegaoo*.*^
 ||vente-unique.*^
