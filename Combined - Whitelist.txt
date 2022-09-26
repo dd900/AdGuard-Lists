@@ -7,6 +7,7 @@
 @@||21ada.ca^
 @@||5471782.fls.doubleclick.net^|
 @@||79423.analytics.edgekey.net^|
+@@||9.rarbg.com^
 @@||a.adwolf.ru^|
 @@||a.files.bbci.co.uk^
 @@||a.pomf.cat^
@@ -173,6 +174,7 @@
 @@||cardanokidz.com^
 @@||cardanoscan.io^
 @@||catbox.moe^
+@@||cdn.branch.io^
 @@||cdn.registerdisney.go.com^
 @@||cdn.rozetka.com.ua^|
 @@||cdn.snapcraft.io^
@@ -276,6 +278,7 @@
 @@||dotnet.microsoft.com^
 @@||dotscanner.com^
 @@||download.amd.com^
+@@||download.microsoft.com^
 @@||download.opensuse.org^
 @@||download.spotify.com^
 @@||download.sysinternals.com^
@@ -721,6 +724,7 @@
 @@||swdownload.apple.com^
 @@||swscan.apple.com^
 @@||tags.crwdcntrl.net^|
+@@||target.microsoft.com^
 @@||terostakepool.com^
 @@||tether.to^
 @@||textsecure-service.whispersystems.org^
@@ -746,7 +750,15 @@
 @@||track.cpau.info^
 @@||track.rutarget.ru^|
 @@||track.toggl.com^
+@@||tracker.coppersurfer.tk^
 @@||tracker.eu.org^
+@@||tracker.internetwarriors.net^
+@@||tracker.leechers-paradise.org^
+@@||tracker.openbittorrent.com^
+@@||tracker.opentrackr.org^
+@@||tracker.tiny-vps.com^
+@@||tracker.torrent.eu.org^
+@@||tracker.zer0day.to^
 @@||tracking-protection.cdn.mozilla.net^
 @@||tracking.epicgames.com^
 @@||trackings.post.japanpost.jp^
@@ -796,6 +808,7 @@
 @@||windowsupdate.com^
 @@||windowsupdate.nsatc.net^
 @@||wirexapp.com^
+@@||wl.spotify.com^
 @@||wup-7b4df495.santander.cl^|
 @@||ww38.wpf.ria-labs.com^
 @@||www.engadget.com^
@@ -806,6 +819,7 @@
 @@||www.jdoqocy.com^|
 @@||www.msftconnecttest.com^
 @@||www.msn.com^
+@@||www.newgrounds.com^
 @@||www.newsbreak.com^
 @@||www.pr0gramm.com^
 @@||www.reddit.com^
