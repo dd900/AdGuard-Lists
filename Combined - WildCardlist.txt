@@ -66,6 +66,7 @@
 ||a*.chajiaotong.com^
 ||aan.amazon.*^
 ||aax-*.amazon.com^
+||ablen*.tk^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.msn.com^
