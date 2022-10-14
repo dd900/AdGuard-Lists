@@ -116,6 +116,7 @@
 ||static.hotjar.com^
 ||static.narrativ.com^
 ||static.trafficjunky.com^
+||static1.brave.com
 ||static1.brave.com^
 ||stats.lineageos.org^
 ||syndication.twitter.com^
