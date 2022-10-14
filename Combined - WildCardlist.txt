@@ -429,9 +429,7 @@
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
 ||s*.adduplex.com^
-||s*.site.flashx.cc^
 ||s*.skencituer.com^
-||s*.web.flashx.co^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||sax*.sina.
