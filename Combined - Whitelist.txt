@@ -210,6 +210,7 @@
 @@||cloud.notification-naviextras.com^|
 @@||cm-beacon.nakanohito.jp^|
 @@||cm-widget.nakanohito.jp^|
+@@||code.visualstudio.com^
 @@||codeload.github.com^
 @@||coin98.app^
 @@||coinb.in^
@@ -228,6 +229,7 @@
 @@||connectivitycheck.android.com^
 @@||connectivitycheck.grapheneos.network^
 @@||connectivitycheck.gstatic.com^
+@@||console.cloud.google.com^
 @@||content.govdelivery.com^
 @@||contentproxy.signal.org^
 @@||contents*.00110.citi.com^|
@@ -254,6 +256,7 @@
 @@||daikoku.ebis.ne.jp^|
 @@||dapp.com^
 @@||dapp.review^
+@@||davidsondrywall.business.site^
 @@||davinci.gallery^
 @@||ddzjru7vzfsxo.cloudfront.net^
 @@||deb.devuan.org^
@@ -263,6 +266,7 @@
 @@||definitionupdates.microsoft.com^
 @@||delivery.mp.microsoft.com^
 @@||detectportal.firefox.com^
+@@||developer.android.com^
 @@||disney.api.edge.bamgrid.com^
 @@||disney.connections.edge.bamgrid.com^
 @@||disney.content.edge.bamgrid.com^
@@ -389,9 +393,12 @@
 @@||health.halodoc.com^|
 @@||hellominer.com^
 @@||help-advertisers.adsterra.com^|
+@@||help.archive.org^
+@@||help.collaboraoffice.com^
 @@||help.dottoro.com^
 @@||help.nextcloud.com^
 @@||help.ubuntu.com^
+@@||helpcenter.onlyoffice.com^
 @@||herominers.com^
 @@||hive.io^
 @@||hodlhodl.com^
@@ -467,7 +474,6 @@
 @@||matic.network^
 @@||maticvigil.com^
 @@||mc.*.exacttarget.com^|
-@@||measure.ic.tver.jp^|
 @@||media.dssott.com^
 @@||meizu.coapi.moji.com^
 @@||mempool.space^
@@ -500,6 +506,7 @@
 @@||mirrors.ubuntu.com^
 @@||mirrorservice.org^
 @@||mkvtoolnix.download^
+@@||mlive.adpay.com^
 @@||monerohash.com^
 @@||moneroocean.stream^
 @@||moonlet.io^
@@ -792,6 +799,7 @@
 @@||veganpool.org^
 @@||viabtc.com^
 @@||vid.pr0gramm.com^
+@@||vidmax.com^
 @@||viewblock.io^
 @@||vod-*-uk-live.akamaized.net^
 @@||vod-*-uk-live.edgesuite.net^
