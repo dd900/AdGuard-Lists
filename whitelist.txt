@@ -32,6 +32,7 @@
 @@||console.cloud.google.com^
 @@||content.govdelivery.com^
 @@||davidsondrywall.business.site^
+@@||developer.android.com^
 @@||dl.driverpack.io^
 @@||dns.msftncsi.com^
 @@||dotnet.microsoft.com^
@@ -54,6 +55,7 @@
 @@||gus.host^
 @@||gvt1.com^
 @@||hans.pr0gramm.com^
+@@||help.archive.org^
 @@||help.collaboraoffice.com^
 @@||help.dottoro.com^
 @@||help.nextcloud.com^
@@ -131,6 +133,7 @@
 @@||unpkg.com^
 @@||vas.samsungapps.com^
 @@||vid.pr0gramm.com^
+@@||vidmax.com^
 @@||vsassets.io^
 @@||windowsupdate.com^
 @@||wl.spotify.com^
