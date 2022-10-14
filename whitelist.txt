@@ -25,10 +25,13 @@
 @@||catbox.moe^
 @@||cdn.branch.io^
 @@||chrome.google.com^
+@@||code.visualstudio.com^
 @@||codeload.github.com^
 @@||colab.research.google.com^
 @@||connectivity-check.ubuntu.com^
+@@||console.cloud.google.com^
 @@||content.govdelivery.com^
+@@||davidsondrywall.business.site^
 @@||dl.driverpack.io^
 @@||dns.msftncsi.com^
 @@||dotnet.microsoft.com^
@@ -51,9 +54,11 @@
 @@||gus.host^
 @@||gvt1.com^
 @@||hans.pr0gramm.com^
+@@||help.collaboraoffice.com^
 @@||help.dottoro.com^
 @@||help.nextcloud.com^
 @@||help.ubuntu.com^
+@@||helpcenter.onlyoffice.com^
 @@||hurensohn.pr0gramm.com^
 @@||img.pr0gramm.com^
 @@||infoevent.startappservice.com^
@@ -65,6 +70,7 @@
 @@||login.live.com^
 @@||logincdn.msauth.net^
 @@||m.pr0gramm.com^
+@@||mlive.adpay.com^
 @@||myaccount.google.com^
 @@||news.banggood.com^
 @@||news.yahoo.com^
