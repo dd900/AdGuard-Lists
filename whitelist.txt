@@ -13,9 +13,10 @@
 @@||api.saasexch.com^
 @@||api.saasexch.org^
 @@||api.weather.com^
-@@||app.adjust.com^|
+@@||app.adjust.com^
 @@||app.launchdarkly.com^
 @@||apps.google.com^
+@@||apps.microsoft.com^
 @@||audioknigi.club^
 @@||badbitcoin.org^
 @@||balena-io.github.io^
@@ -50,6 +51,7 @@
 @@||githubusercontent.com^
 @@||gitlab.com^
 @@||gitlab.io^
+@@||global.fe.mscr.io^
 @@||go.cb-w.com^
 @@||google.gus.host^
 @@||gus.host^
@@ -67,16 +69,19 @@
 @@||joyreactor.cc^
 @@||kiwifarms.net^
 @@||lakeviewalleycatbarandgrill.com^
+@@||learn.microsoft.com^
 @@||lib.ru.ec^
 @@||location.services.mozilla.com^
 @@||login.live.com^
 @@||logincdn.msauth.net^
 @@||m.pr0gramm.com^
+@@||mcr.microsoft.com^
 @@||mlive.adpay.com^
 @@||myaccount.google.com^
 @@||news.banggood.com^
 @@||news.yahoo.com^
 @@||newspunch.com^
+@@||nuget.org^
 @@||oladblock.me^
 @@||oladblock.services^
 @@||oladblock.xyz^
@@ -147,6 +152,7 @@
 @@||www.newsbreak.com^
 @@||www.pr0gramm.com^
 @@||www.reddit.com^
+@@||www.sipc.org^
 @@||xtrapath1.izatcloud.net^
 @@||xtrapath2.izatcloud.net^
 @@||xtrapath3.izatcloud.net^
