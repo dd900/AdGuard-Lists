@@ -76,6 +76,7 @@
 @@||api-v*.trbo.com^|
 @@||api.ads.tvb.com^
 @@||api.amazonvideo.com^
+@@||api.docodoco.jp^|
 @@||api.huangye.miui.com^
 @@||api.nuget.org^
 @@||api.saasexch.com^
@@ -369,7 +370,6 @@
 @@||gochain.io^
 @@||godex.io^
 @@||google.gus.host^
-@@||googleadapis.l.google.com^|
 @@||goto.target.com^|
 @@||goto.walmart.com^|
 @@||gravity.tech^
@@ -412,7 +412,6 @@
 @@||id.i2i.jp^|
 @@||ifota-*.coloros.com^
 @@||ifota-*.realmemobile.com^
-@@||imasdk.googleapis.com^|
 @@||img.ads.tvb.com^
 @@||img.pr0gramm.com^
 @@||img.samsungapps.com^
@@ -428,6 +427,7 @@
 @@||irisnet.org^
 @@||is*-ssl.mzstatic.com^
 @@||joyreactor.cc^
+@@||js.monitor.azure.com^|
 @@||kava.io^
 @@||keplr.app^
 @@||keybaseapi.com^
@@ -646,7 +646,6 @@
 @@||pylons.tech^
 @@||qf97.app.link^
 @@||query.hicloud.com^
-@@||r.sascdn.com^|
 @@||radio-services.itunes.apple.com^
 @@||radio.itunes.apple.com^
 @@||radiofrance.targetspot.com^|
