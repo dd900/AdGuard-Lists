@@ -3,6 +3,7 @@
 @@||9.rarbg.com^
 @@||a.pomf.cat^
 @@||a0.ortho.tiles.virtualearth.net^
+@@||aadcdn.msauth.net^
 @@||account.asus.com^
 @@||account.live.com^
 @@||accounts.youtube.com^
@@ -75,6 +76,7 @@
 @@||login.live.com^
 @@||logincdn.msauth.net^
 @@||m.pr0gramm.com^
+@@||management.azure.com^
 @@||mcr.microsoft.com^
 @@||mlive.adpay.com^
 @@||myaccount.google.com^
@@ -131,6 +133,7 @@
 @@||tracker.leechers-paradise.org^
 @@||tracker.openbittorrent.com^
 @@||tracker.opentrackr.org^
+@@||tracker.pirateparty.gr^
 @@||tracker.tiny-vps.com^
 @@||tracker.torrent.eu.org^
 @@||tracker.zer0day.to^
