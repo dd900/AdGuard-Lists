@@ -41,7 +41,6 @@
 ||*.telemetry.microsoft.com^
 ||*.telemetry.mozilla.org^
 ||*.trafficmanager.net^
-||*.tt.omtrdc.net^
 ||*.virtualearth.net^
 ||*.vortex.*^
 ||*.workgroup^
@@ -75,6 +74,7 @@
 ||activity.*.miui.com^
 ||activity.*.oppomobile.com^
 ||activity.hybrid.*.xiaomi.com^
+||ad-*.appacc.dbankedge.cn^
 ||ad-*.byteoversea.net^
 ||ad-*.com^
 ||ad-*.net^
@@ -135,6 +135,9 @@
 ||adv0*.msa.cdn.mediaset.net^
 ||advert.*^
 ||advertising.amazon.*^
+||adx-*.dbankcloud.
+||adx-*.dbankedge.cn^
+||adx-*.op.dbankcloud.com.edgekey.net^
 ||aeros*.tk^
 ||aff*.kolektiva.net^
 ||alexa.*.mi.com^
@@ -142,8 +145,10 @@
 ||amazon.*^$third-party,cookie
 ||amazon.*^$third-party,script
 ||analysis*.*^
+||analytics-api.dvdfab.*^
 ||analytics-collector-*.us-east-1.elb.amazonaws.com^
 ||analytics-rollout-*.amazonaws.com^
+||analytics.*.sky.com^
 ||analytics*.carambo.la^
 ||analytics*.clickdimensions.com^
 ||analytics*.prezly.com^
@@ -212,7 +217,7 @@
 ||collector-*.px-cloud.net^
 ||collector-*.pxchk.net^
 ||collector-*.tvsquared.com^
-||collector.xhamster*.desi^
+||collector.xhamster*.*^
 ||configserver*.platform.hicloud.com^
 ||count*.pconline.com.cn^
 ||counter*-yadro*-ru.unblocked.lol^
@@ -231,6 +236,7 @@
 ||darking*.tk^
 ||data.*.microsoft.com^
 ||datacollect*.abtasty.com^
+||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
 ||datadoghq*.com^
 ||dcape-*.amazon.com^
@@ -349,6 +355,7 @@
 ||logger-*.dailymotion.com^
 ||login*-paypal.com^
 ||logs*.smithsonian.museum^
+||logservice-*.platform.dbankcloud.cn^
 ||logservice*.hicloud.com^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
@@ -375,6 +382,8 @@
 ||mobads-*.baidu.com^
 ||mobile-*.baidu.com^
 ||mobileanalytics.*.amazonaws.com^
+||mon-*.tiktokv.com^
+||mon*-platform-*.tiktokv.com^
 ||mookie*.com^
 ||ms-ads.*^
 ||msads.*^
@@ -401,6 +410,7 @@
 ||piwik.*.com.vn^
 ||piwik.*.vn^
 ||pixel.archive.*^
+||pixel*.adswizz.com
 ||pixel*.spotify.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||play*.videos.vidto.me^
@@ -436,6 +446,8 @@
 ||sda*.xyz^
 ||search.*.miui.com^
 ||sec.*.miui.com^
+||sensorsdata*.read.duokan.com^
+||servo-report.dvdfab.*^
 ||smetrics.bupa.*^
 ||smetrics.citibank.*^
 ||smetrics.costco.*^
@@ -445,6 +457,7 @@
 ||snowplow-collector-*.amazonaws.com^
 ||socdm*.*^
 ||sock*-goguardian.pusher.com^
+||sp*.baidu.com^
 ||speedera.*^
 ||sptag*.com^
 ||spynet*.microsoft.akadns.net^
@@ -495,6 +508,7 @@
 ||tuiguang.*^
 ||tw*.netcore.co.in^
 ||u*.takru.com^
+||ubacollect-*.cloud.dbankcloud.cn^
 ||uc*.atobo.com^
 ||umtrack*.com^
 ||unagi-*.amazon.com^
@@ -526,3 +540,4 @@
 ||xn--xhq9mt12cf5v.*^
 ||ya*.dwstatic.com^
 ||yieldmanager.*^
+||zhizhizhizhi.oss-*.aliyuncs.com^
