@@ -14,6 +14,7 @@
 @@||a.sellpoint.net^
 @@||a0.ortho.tiles.virtualearth.net^
 @@||a1801.dscv.akamai.net^
+@@||aadcdn.msauth.net^
 @@||ac.ebis.ne.jp^
 @@||account.asus.com^
 @@||account.live.com^
@@ -158,6 +159,7 @@
 @@||btctimes.com^
 @@||buyad.bi-xenon.cn^
 @@||bybit.com^
+@@||c.office.com^
 @@||c3pool.com^
 @@||captcha.su.baidu.com^
 @@||captive-cidr.origin-apple.com.akadns.net^
@@ -291,6 +293,7 @@
 @@||dw.iask.com.cn^
 @@||dxcloud.episerver.net^
 @@||dxpool.com^
+@@||e.customeriomail.com^
 @@||e11276.dscg.akamaiedge.net^
 @@||earth.google.com^
 @@||edge-enterprise.activity.windows.com^
@@ -447,6 +450,7 @@
 @@||log.mmstat.com^
 @@||logentries.com^
 @@||login-ishare.iask.com.cn^
+@@||login.eki-net.com^
 @@||login.live.com^
 @@||login.sendpulse.com^
 @@||logincdn.msauth.net^
@@ -457,6 +461,7 @@
 @@||ma135-r.analytics.edgekey.net^
 @@||main-hamburger-pool.chickenkiller.com^
 @@||makersplace.com^
+@@||management.azure.com^
 @@||marketing.net.idealo-partner.com^
 @@||mask-api.fe.apple-dns.net^
 @@||mask-api.icloud.com^
@@ -596,6 +601,7 @@
 @@||packages.zorinos.com^
 @@||pagead.l.doubleclick.net^
 @@||paris-pool-uranus.ddns.net^
+@@||partner.everydays.de^
 @@||partners.adsterra.com^
 @@||passport.bobo.com^
 @@||path1.xtracloud.net^
@@ -721,6 +727,7 @@
 @@||support-beacon.nakanohito.jp^
 @@||support-widget.nakanohito.jp^
 @@||supportxmr.com^
+@@||surveymyopinion.researchnow.com^
 @@||sushi.com^
 @@||swcdn.apple.com^
 @@||swdist.apple.com^
@@ -759,6 +766,7 @@
 @@||tracker.leechers-paradise.org^
 @@||tracker.openbittorrent.com^
 @@||tracker.opentrackr.org^
+@@||tracker.pirateparty.gr^
 @@||tracker.tiny-vps.com^
 @@||tracker.torrent.eu.org^
 @@||tracker.zer0day.to^
