@@ -145,7 +145,6 @@
 ||amazon.*^$third-party,cookie
 ||amazon.*^$third-party,script
 ||analysis*.*^
-||analytics-api.dvdfab.*^
 ||analytics-collector-*.us-east-1.elb.amazonaws.com^
 ||analytics-rollout-*.amazonaws.com^
 ||analytics.*.sky.com^
@@ -217,7 +216,7 @@
 ||collector-*.px-cloud.net^
 ||collector-*.pxchk.net^
 ||collector-*.tvsquared.com^
-||collector.xhamster*.*^
+||collector.xhamster*.
 ||configserver*.platform.hicloud.com^
 ||count*.pconline.com.cn^
 ||counter*-yadro*-ru.unblocked.lol^
@@ -307,6 +306,7 @@
 ||host*.rvshare.com^
 ||hostingcloud.*.wasm^
 ||hostingcloud.*^
+||hstats*.hepsiburada.com^
 ||i-*.ci360.sas.com^
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
@@ -447,7 +447,6 @@
 ||search.*.miui.com^
 ||sec.*.miui.com^
 ||sensorsdata*.read.duokan.com^
-||servo-report.dvdfab.*^
 ||smetrics.bupa.*^
 ||smetrics.citibank.*^
 ||smetrics.costco.*^
@@ -512,6 +511,7 @@
 ||uc*.atobo.com^
 ||umtrack*.com^
 ||unagi-*.amazon.com^
+||unagi*.amazon.
 ||union*.365inews.com^
 ||usage*.*^
 ||usp*.baidu.com^
@@ -522,6 +522,7 @@
 ||vente-unique.*^
 ||vip.*.miui.com^
 ||vmm-satellite*.com^
+||vns86.oss-*.aliyuncs.com^
 ||voluumtrk*.com^
 ||w*statistics.info^
 ||wafmedia*.*^
