@@ -194,6 +194,7 @@
 @@||changelogs.ubuntu.com^
 @@||changenow.io^
 @@||chat.signal.org^
+@@||check2.tsb.co.uk^
 @@||cherry-stake-pool.online^
 @@||chrome.google.com^
 @@||cindyholbrook.lpages.co^
