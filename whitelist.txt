@@ -27,6 +27,7 @@
 @@||catbox.moe^
 @@||cdn.branch.io^
 @@||chrome.google.com^
+@@||client.wns.windows.com^
 @@||code.visualstudio.com^
 @@||codeload.github.com^
 @@||colab.research.google.com^
@@ -35,6 +36,7 @@
 @@||content.govdelivery.com^
 @@||davidsondrywall.business.site^
 @@||developer.android.com^
+@@||developercommunity.visualstudio.com^
 @@||dl.driverpack.io^
 @@||dns.msftncsi.com^
 @@||dotnet.microsoft.com^
@@ -79,6 +81,7 @@
 @@||management.azure.com^
 @@||mcr.microsoft.com^
 @@||mlive.adpay.com^
+@@||msdn.microsoft.com^
 @@||myaccount.google.com^
 @@||news.banggood.com^
 @@||news.yahoo.com^
@@ -153,9 +156,11 @@
 @@||www.msn.com^
 @@||www.newgrounds.com^
 @@||www.newsbreak.com^
+@@||www.postsharp.net^
 @@||www.pr0gramm.com^
 @@||www.reddit.com^
 @@||www.sipc.org^
+@@||www1.gogoanime.bid^
 @@||xtrapath1.izatcloud.net^
 @@||xtrapath2.izatcloud.net^
 @@||xtrapath3.izatcloud.net^
