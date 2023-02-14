@@ -165,6 +165,7 @@
 ||appsflyer*.*^
 ||arc*.msn.com^
 ||arcus-*.amazon.com^
+||asd8900.oss-*.aliyuncs.com^
 ||assistant.*.miui.com^
 ||assoc-amazon.*^
 ||at*.doubanio.com^
@@ -210,10 +211,8 @@
 ||collect-elb-*.amazonaws.com^
 ||collect.*.miui.com^
 ||collect.data.*.miui.com^
-||collector-*.perimeterx.net^
 ||collector-*.px-cdn.net^
 ||collector-*.px-client.net^
-||collector-*.px-cloud.net^
 ||collector-*.pxchk.net^
 ||collector-*.tvsquared.com^
 ||collector.xhamster*.
@@ -221,6 +220,7 @@
 ||count*.pconline.com.cn^
 ||counter*-yadro*-ru.unblocked.lol^
 ||counter*.freecounter.ovh^
+||counter*.stat.ovh^
 ||cprad-iad*.apple.com^
 ||cpradcnt-iad*.apple.com^
 ||cprfeed-iad*.apple.com^
@@ -328,6 +328,7 @@
 ||js.overture.*^
 ||js*.abolezi.com^
 ||jshosting.*^
+||jtbo*.nqxvevk.cn^
 ||kanoodle.*^
 ||kernellogf-*.browser.oppomobile.com^
 ||kinesis.*.amazonaws.com^
@@ -409,12 +410,14 @@
 ||pingfore*.*^
 ||piwik.*.com.vn^
 ||piwik.*.vn^
+||pixel-*.rubiconproject.com^
 ||pixel.archive.*^
 ||pixel*.adswizz.com
 ||pixel*.spotify.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||play*.videos.vidto.me^
 ||pointroll.*^
+||prebid-*.rubiconproject.com^
 ||production-adserver-*.amazonaws.com^
 ||proxy-*.*.mi.com^
 ||proxy-*.mi.com^
@@ -423,10 +426,12 @@
 ||pushmaster-*.xyz^
 ||pussl*.com^
 ||putrr*.com^
+||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
 ||q*-publick.club^
 ||qchannel*.cn^
 ||qksrv.*^
+||qpb*.sohu.com^
 ||rb*.design.ru^
 ||real*traf.ru^
 ||refund-form*.com^
@@ -492,7 +497,6 @@
 ||telemetry.*^
 ||teleriumads-*.netdna-ssl.com^
 ||thepiratebay.*^
-||toujing*.top^
 ||tr.*.espmp-*fr.net^
 ||track.*.roku.com^
 ||track.*.xiaomi.com^
