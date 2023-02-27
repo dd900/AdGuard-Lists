@@ -85,6 +85,7 @@
 ||ms.applvn.com^
 ||msedge.api.cdp.microsoft.com^
 ||net.rayjump.com^
+||nimbus.bitdefender.net^
 ||ocapi.netgear.com^
 ||ocmaintenance.netgear.com^
 ||ogs.google.com^
