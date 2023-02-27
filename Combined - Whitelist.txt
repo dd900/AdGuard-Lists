@@ -117,6 +117,7 @@
 @@||api.weather.com^
 @@||app-advertise.zhihuishu.com^
 @@||app-api.ted.com^
+@@||app-cdn.minepi.com^
 @@||app.adjust.com^
 @@||app.appsflyer.com^
 @@||app.crazyegg.com^
@@ -297,6 +298,7 @@
 @@||click.trafficguard.ai^
 @@||click.virt.exacttarget.com^
 @@||click.virt.s*.exacttarget.com^
+@@||client.wns.windows.com^
 @@||clientconfig.passport.net^
 @@||clients1.google.com^
 @@||clients2.google.com^
@@ -388,6 +390,7 @@
 @@||detectportal.firefox.com^
 @@||dev.virtualearth.net^
 @@||developer.android.com^
+@@||developercommunity.visualstudio.com^
 @@||device.auth.xboxlive.com^
 @@||deviloid.net^
 @@||discord.heihachi.pw^
@@ -719,6 +722,7 @@
 @@||moonlet.io^
 @@||morphtoken.com^
 @@||movies.zsw.ca^
+@@||msdn.microsoft.com^
 @@||msecnd.net^
 @@||msftconnecttest.com^
 @@||msftncsi.com^
@@ -898,6 +902,7 @@
 @@||prod-ripcut-delivery.disney-plus.net^
 @@||prod.do.dsp.mp.microsoft.com^
 @@||prod.http1.dradis.netflix.com^
+@@||prod.intellicode.vsengsaas.visualstudio.com^
 @@||products.office.com^
 @@||profile*.se.360.cn^
 @@||promo.gramedia.com^
@@ -1336,6 +1341,7 @@
 @@||www.newgrounds.com^
 @@||www.newsbreak.com^
 @@||www.no-ip.com^
+@@||www.postsharp.net^
 @@||www.pr0gramm.com^
 @@||www.reddit.com^
 @@||www.sipc.org^
@@ -1343,6 +1349,7 @@
 @@||www.virtualbox.org^
 @@||www.wareztorrent.com^
 @@||www.youtube-nocookie.com^
+@@||www1.gogoanime.bid^
 @@||xbox.ipv6.microsoft.com^
 @@||xboxexperiencesprod.experimentation.xboxlive.com^
 @@||xchange.me^
