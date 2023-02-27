@@ -114,6 +114,7 @@
 @@||player.h-cdn.com^
 @@||pool.ntp.org^
 @@||pr0gramm.com^
+@@||prod.intellicode.vsengsaas.visualstudio.com^
 @@||qf97.app.link^
 @@||raw.githubusercontent.com^
 @@||rawgit.com^
