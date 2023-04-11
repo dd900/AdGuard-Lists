@@ -253,6 +253,7 @@
 @@||cardanokidz.com^
 @@||cardanoscan.io^
 @@||catbox.moe^
+@@||catchup.thisisdax.com^
 @@||cdn-1.gamecoast.org^
 @@||cdn-2.gamecoast.org^
 @@||cdn.branch.io^
@@ -285,6 +286,7 @@
 @@||changenow.io^
 @@||chart-embed.service.newrelic.com^
 @@||chat.signal.org^
+@@||chathamdailynews.remembering.ca^
 @@||cherry-stake-pool.online^
 @@||chihaya.de^
 @@||chihaya.toss.li^
@@ -306,7 +308,6 @@
 @@||clients4.google.com^
 @@||clients5.google.com^
 @@||clients6.google.com^
-@@||clj.valuecommerce.com^
 @@||clk*.tradedoubler.com^
 @@||cloud.notification-naviextras.com^
 @@||cm-beacon.nakanohito.jp^
@@ -923,6 +924,7 @@
 @@||publishers.adsterra.com^
 @@||pubsub.plex.bz^
 @@||pubsub.plex.tv^
+@@||px.a8.net^
 @@||pylons.tech^
 @@||qf97.app.link^
 @@||qg.lorzl.gq^
