@@ -205,7 +205,6 @@
 @@||blockscan.com^
 @@||blockstream.info^
 @@||blog.amusedia.com^
-@@||blog.logrocket.com^
 @@||blokas.io^
 @@||bloks.io^
 @@||bluebird-hd.org^
