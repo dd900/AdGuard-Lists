@@ -56,6 +56,7 @@
 @@||gitlab.io^
 @@||global.fe.mscr.io^
 @@||go.cb-w.com^
+@@||go.microsoft.com^
 @@||google.gus.host^
 @@||gus.host^
 @@||gvt1.com^
@@ -99,8 +100,8 @@
 @@||oload.live^
 @@||oload.site^
 @@||oload.space^
-@@||oload.st^
 @@||oload.stream^
+@@||oload.st^
 @@||oload.tv^
 @@||oload.win^
 @@||oloadcdn.net^
@@ -111,6 +112,7 @@
 @@||path1.xtracloud.net^
 @@||path2.xtracloud.net^
 @@||path3.xtracloud.net^
+@@||photos.onedrive.com^
 @@||player.h-cdn.com^
 @@||pool.ntp.org^
 @@||pr0gramm.com^
@@ -118,11 +120,13 @@
 @@||qf97.app.link^
 @@||raw.githubusercontent.com^
 @@||rawgit.com^
+@@||referencesource.microsoft.com^
 @@||rumble.com^
 @@||s.gus.host^
 @@||s.youtube.com^
 @@||samsungnewsapi.picks.my^
 @@||shell.windows.com^
+@@||social.technet.microsoft.com^
 @@||socket.io^
 @@||softonic.com^
 @@||source.android.com^
@@ -142,6 +146,7 @@
 @@||tracker.torrent.eu.org^
 @@||tracker.zer0day.to^
 @@||translate.google.com^
+@@||turn.rtcp.on.epicgames.com^
 @@||unpkg.com^
 @@||vas.samsungapps.com^
 @@||vid.pr0gramm.com^
