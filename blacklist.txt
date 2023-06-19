@@ -23,6 +23,7 @@
 ||appcom.up.netgear.com^
 ||ascstats.iobit.com^
 ||assets.adobedtm.com^
+||assets.nflxext.com^
 ||beacons.gcp.gvt2.com^
 ||beacons.gvt2.com^
 ||beacons2.gvt2.com^
@@ -137,6 +138,7 @@
 ||vortex.data.microsoft.com^
 ||wd.adcolony.com^
 ||wpad.baserouter^
+||www.coinflux.net^
 ||www.google-analytics.com^
 ||www.googleadservices.com^
 ||www.googletagmanager.com^
