@@ -2,6 +2,7 @@
 ||*.a-msedge.net^
 ||*.ad.xiaomi.com^
 ||*.adbrite.*^
+||*.adcolony.*^
 ||*.adnxs.com^
 ||*.ads.*^
 ||*.ads*.msads.net^
@@ -62,7 +63,6 @@
 ||1xbet-*.com^
 ||218.26.217.*.html
 ||22betx*.com^
-||40.77.226.*^
 ||8*.tianya.cn^
 ||a*.chajiaotong.com^
 ||a*.smlog.co.kr^
@@ -152,6 +152,7 @@
 ||clk.rtpdn*.com^
 ||clog*.yuanfudao.com^
 ||collect-elb-*.amazonaws.com^
+||collect-v*.51.la^
 ||collector-*.px-cdn.net^
 ||collector-*.px-client.net^
 ||collector-*.pxchk.net^
@@ -298,6 +299,7 @@
 ||q*-publick.club^
 ||qksrv.*^
 ||qpb*.sohu.com^
+||quangcao-*.epicdn.me^
 ||rb*.design.ru^
 ||real*traf.ru^
 ||redir-pw*.com^
@@ -350,7 +352,9 @@
 ||tag-based.s3.*.amazonaws.com^
 ||tag.*^
 ||telemetry.*^
+||telemetry*.transcend.io^
 ||teleriumads-*.netdna-ssl.com^
+||tnc16-*.byteoversea.com^
 ||track.*.roku.com^
 ||tracker.*^
 ||tracking-*.trnox.com^
