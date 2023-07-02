@@ -1,0 +1,7 @@
+@@||walmart.com^$client='Krista'|'Kristas Laptop'
+@@||walmartimages.com^$client='Krista'|'Kristas Laptop'
+@@||walmartstores.com^$client='Krista'|'Kristas Laptop'
+@@||walmartappstore.com^$client='Krista'|'Kristas Laptop'
+@@||walmartlabs.com^$client='Krista'|'Kristas Laptop'
+@@||walmartcanada.ca^$client='Krista'|'Kristas Laptop'
+@@||samsclub.com^$client='Krista'|'Kristas Laptop'
