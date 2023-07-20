@@ -434,6 +434,7 @@
 @@||exploremonero.com^
 @@||extra.linuxmint.com^
 @@||extras.ubuntu.com^
+@@||ezodn.com^
 @@||f2pool.com^
 @@||fairhash.org^
 @@||fairpool.eu^
@@ -461,6 +462,7 @@
 @@||fullhdfilmizlesene.pw^
 @@||funfile.org^
 @@||g.live.com^
+@@||gate.first-id.fr^
 @@||gdmf.apple.com.akadns.net^
 @@||gdmf.apple.com^
 @@||gdmf.v.aaplimg.com^
@@ -567,6 +569,7 @@
 @@||lastfm-img2.akamaized.net^
 @@||learnbits.me^
 @@||ledger.com^
+@@||leechers-paradise.org^
 @@||libgen.pw^
 @@||licensing.mp.microsoft.com^
 @@||licensing.xboxlive.com^
