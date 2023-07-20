@@ -60,6 +60,7 @@
 ||120.27.*.html
 ||121.204.246.*.gif
 ||122.225.103.*.htm
+||192.243.58.*$network
 ||1xbet-*.com^
 ||218.26.217.*.html
 ||22betx*.com^
@@ -155,6 +156,7 @@
 ||collect-v*.51.la^
 ||collector-*.px-cdn.net^
 ||collector-*.px-client.net^
+||collector-*.px-cloud.net^
 ||collector-*.pxchk.net^
 ||collector-*.tvsquared.com^
 ||collector.xhamster*.
@@ -223,6 +225,7 @@
 ||intellitxt.*^
 ||iphone-caviar.ru*entranceId
 ||iptracker-lb-*.amazonaws.com^
+||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||ja*.gamersky.com^
 ||jessica.*.net^
 ||js.overture.*^
@@ -286,7 +289,6 @@
 ||pixel*.adswizz.com
 ||pixel*.production-public.tubi.io^
 ||pixelapi-*.cs.mysamba.tv^
-||play*.videos.vidto.me^
 ||pointroll.*^
 ||prebid-*.rubiconproject.com^
 ||production-adserver-*.amazonaws.com^
