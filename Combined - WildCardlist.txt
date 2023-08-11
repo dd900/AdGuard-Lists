@@ -181,7 +181,6 @@
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||logger-*.dailymotion.com^
-||logger*.kma.go.kr^
 ||logs*.smithsonian.museum^
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
