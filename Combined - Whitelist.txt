@@ -57,6 +57,7 @@
 @@||cj.dotomi.com^
 @@||classliving.lpages.co^
 @@||click.appcast.io^
+@@||click.cptrack.de^
 @@||click.simba.taobao.com^
 @@||click.trafficguard.ai^
 @@||click.virt.exacttarget.com^
