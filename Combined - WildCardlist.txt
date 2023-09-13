@@ -8,7 +8,6 @@
 ||*.gq^
 ||*.loan^
 ||*.ooo^
-||*.pw^
 ||*.sbs^
 ||*.top^
 ||113.17.188.*.js
@@ -29,6 +28,7 @@
 ||ad*.bilgin.pro^
 ||ad*.ettoday.net^
 ||ad*.nexage.com^
+||ad*.on.cc^
 ||ad*.tmgrup.com.tr^
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
@@ -40,6 +40,7 @@
 ||admicro*.vcmedia.vn^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||ads.livetv*.me^
+||ads*.bojijulebu.com^
 ||adserver.*.yahoodns.net^
 ||adserver*.euroweeklynews.com^
 ||adv0*.msa.cdn.mediaset.net^
@@ -250,6 +251,7 @@
 ||sarah.*.net^
 ||sauconyoutlet*
 ||sax*.sina.
+||sdk.fra-*.braze.eu^
 ||secure-0*.ddnss.ch^
 ||secure-access-*.gate23.xyz^
 ||sensorsdata*.read.duokan.com^
@@ -286,6 +288,7 @@
 ||tracking*.euroads.fi^
 ||trc.*.co^
 ||trk*.vidible.tv^
+||tupian888.*.bcebos.com^
 ||tw*.netcore.co.in^
 ||u*.takru.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
