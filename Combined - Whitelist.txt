@@ -73,6 +73,7 @@
 @@||corriente.top^
 @@||crm-cdn.peek-cloppenburg.com^
 @@||cs.silverpop.com^
+@@||cst.gdn^
 @@||cutcaptcha.com^
 @@||daikoku.ebis.ne.jp^
 @@||darkcrystal.pw^
@@ -117,6 +118,7 @@
 @@||inege.gq^
 @@||intersport.peerius.com^
 @@||js.monitor.azure.com^
+@@||kge.pw^
 @@||leechers-paradise.org^
 @@||libgen.pw^
 @@||link.morningbrew.com^
@@ -165,6 +167,7 @@
 @@||rths.cf^
 @@||shucks.top^
 @@||siteproxy.gq^
+@@||sponsor.nitropay.com^
 @@||stash.roistat.com^
 @@||static-v*.trbo.com^
 @@||str.hit.gemius.pl^
