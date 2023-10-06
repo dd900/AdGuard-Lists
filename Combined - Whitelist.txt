@@ -24,6 +24,7 @@
 @@||api-v*.trbo.com^
 @@||api.ads.tvb.com^
 @@||api.docodoco.jp^
+@@||api.karte.io^
 @@||app-advertise.zhihuishu.com^
 @@||app-cdn.minepi.com^
 @@||app.appsflyer.com^
@@ -157,6 +158,7 @@
 @@||publishers.adsterra.com^
 @@||px.a8.net^
 @@||radiofrance.targetspot.com^
+@@||real.discount^
 @@||redir.tradedoubler.com^
 @@||redirect.appmetrica.yandex.com^
 @@||remembering.ca^
