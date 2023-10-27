@@ -61,6 +61,7 @@
 ||analytics*.prezly.com^
 ||analyzer*.fc2.com^
 ||api-*.bidmachine.io^
+||api-*.hismarttv.com^
 ||api*.amplitude.com^
 ||api*.batmobi.net^
 ||api*.batmobil.net^
@@ -69,6 +70,7 @@
 ||asd8900.oss-*.aliyuncs.com^
 ||asicsoutlet*
 ||at*.doubanio.com^
+||auth-*.hismarttv.com^
 ||ax.*.ifeng.com^
 ||banner.*.tccapis.com^
 ||banner*.kinogo.by^
