@@ -29,6 +29,7 @@
 @@||app-cdn.minepi.com^
 @@||app.appsflyer.com^
 @@||app.crazyegg.com^
+@@||archive.*
 @@||artifactory.appodeal.com^
 @@||audioforyou.top^
 @@||awin1.com^
@@ -79,6 +80,8 @@
 @@||daikoku.ebis.ne.jp^
 @@||darkcrystal.pw^
 @@||data-*.herz-fuer-tiere.de^
+@@||data.digital.costco.ca^
+@@||data.digital.costco.com^
 @@||discord.gift^
 @@||dpc.pw^
 @@||e.customeriomail.com^
@@ -94,6 +97,7 @@
 @@||feed.adrelayer.com^
 @@||forum.notebookreview.com^
 @@||frcoal.cfd^
+@@||freedium.cfd^
 @@||ftp.bmp.ovh^
 @@||fullhdfilmizlesene.pw^
 @@||gate.first-id.fr^
@@ -171,6 +175,7 @@
 @@||siteproxy.gq^
 @@||sponsor.nitropay.com^
 @@||stash.roistat.com^
+@@||statcounter.com^
 @@||static-v*.trbo.com^
 @@||str.hit.gemius.pl^
 @@||strims.top^
@@ -215,5 +220,6 @@
 @@||ww9.tiki.ne.jp^
 @@||www.googleadservices.com^
 @@||www.jdoqocy.com^
+@@||www.statcounter.com^
 @@||xor.pw^
 @@||yts.monster^
