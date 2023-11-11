@@ -1,3 +1,4 @@
+||*-hb-bid-feedback.mtgglobals.com^
 ||*-trk.xyz^
 ||*.agency^
 ||*.bid^
@@ -24,9 +25,11 @@
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
+||ad-*.amazonaws.com^
 ||ad-*.appacc.dbankedge.cn^
 ||ad*.bilgin.pro^
 ||ad*.ettoday.net^
+||ad*.mtgglobals.com^
 ||ad*.nexage.com^
 ||ad*.on.cc^
 ||ad*.tmgrup.com.tr^
@@ -208,6 +211,7 @@
 ||mizunousaoutlet*
 ||mobileanalytics.*.amazonaws.com^
 ||mon-*.tiktokv.com^
+||mon*-*.tiktokv.us^
 ||mon*-platform-*.tiktokv.com^
 ||ms*.applvn.com^
 ||my-altinn*
