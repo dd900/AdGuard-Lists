@@ -51,6 +51,7 @@
 @@||catchup.thisisdax.com^
 @@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.rozetka.com.ua^
+@@||cdn.us*.exponea.com^
 @@||changlam10.top^
 @@||changlam11.top^
 @@||chillx.top^
