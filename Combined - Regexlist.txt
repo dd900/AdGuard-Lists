@@ -1,4 +1,4 @@
-/(//|\.|^)github\.[a-z]{2,20}(/|$)/$document,match-case,~com|~org|~net|~co|~blog|~community|~host|~io|~microsoft|~office|~uk|~us|~xn--fiqs8s|~dev^
+/(//|\.|^)github\.[a-z]{2,20}(/|$)/$document,match-case,~com|org|net|co|blog|community|host|io|microsoft|office|uk|us|xn--fiqs8s|dev|archive.*
 /(\.|//|^)1xslot\d{5,}\.com(/|$)/
 /(\.|//|^)linebet\d{4}\.com(/|$)/
 /(\.|//|^)linebet\d{5,}[a-z]\.com(/|$)/
