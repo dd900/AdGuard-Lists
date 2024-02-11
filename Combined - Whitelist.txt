@@ -1,4 +1,5 @@
 @@||-ds.metric.gstatic.com^
+@@||://oo*.ooo/
 @@||5471782.fls.doubleclick.net^
 @@||79423.analytics.edgekey.net^
 @@||a.adwolf.ru^
@@ -24,6 +25,7 @@
 @@||api.karte.io^
 @@||app-advertise.zhihuishu.com^
 @@||app-cdn.minepi.com^
+@@||app.adjust.com^
 @@||app.appsflyer.com^
 @@||app.crazyegg.com^
 @@||artifactory.appodeal.com^
@@ -64,7 +66,6 @@
 @@||data-*.herz-fuer-tiere.de^
 @@||data.digital.costco.ca^
 @@||data.digital.costco.com^
-@@||discord.gift^
 @@||e.customeriomail.com^
 @@||email.*.skyeng.ru^
 @@||email.awscloud.com^
@@ -104,6 +105,7 @@
 @@||ma135-r.analytics.edgekey.net^
 @@||marketing.net.idealo-partner.com^
 @@||mc.*.exacttarget.com^
+@@||media-consumer365.desigual.com^
 @@||my.tealiumiq.com^
 @@||netatmo.commander1.com^
 @@||nineto5mac-d.openx.net^
@@ -122,8 +124,11 @@
 @@||publishers.adsterra.com^
 @@||px.a8.net^
 @@||radiofrance.targetspot.com^
+@@||recommender.scarabresearch.com^
+@@||redir.ownpage.fr^
 @@||redir.tradedoubler.com^
 @@||redirect.appmetrica.yandex.com^
+@@||refer.discover.com^
 @@||remembering.ca^
 @@||sponsor.nitropay.com^
 @@||stash.roistat.com^
@@ -136,7 +141,9 @@
 @@||tags.crwdcntrl.net^
 @@||thumbnail.thench.net^
 @@||tlaol.com^
+@@||tms.capitalone.com^
 @@||torimochi.line-apps.com^
+@@||tr.rdrtr.com^
 @@||track.rutarget.ru^
 @@||validate.perfdrive.com^
 @@||vcentry3.valuecommerce.ne.jp^
