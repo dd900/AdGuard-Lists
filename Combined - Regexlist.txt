@@ -8,6 +8,7 @@
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
 /(https?:\/\/)51\.195\.31\..{100,}/
+/\.[a-z]{2,18}\/Stars\.php\?/$match-case,all,~inline-font
 /^(.*[./])?discord[a-z0-9-]{1,}\.gifts?(/|$)/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
@@ -49,6 +50,7 @@
 /^mads\./
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
+/artstation-*-[fanart]-~artstation.com
 /pgxhtogrzm-
 /pushredirect/?~malware-redirection-trains.*
 /scan-update-and-protect-your-browser.html
