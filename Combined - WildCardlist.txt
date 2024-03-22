@@ -1,13 +1,6 @@
 ||*.bid^
-||*.cf^$denyallow=google.cf|rths.cf|acap.cf|shorter.cf
-||*.cfd^$denyallow=frcoal.cfd|freedium.cfd
-||*.discount^$denyallow=real.discount
-||*.gdn^$denyallow=cst.gdn|pss.gdn
-||*.gq^$denyallow=inege.gq|tvgelive.gq|siteproxy.gq|blockly.gq
 ||*.loan^
-||*.ooo^$denyallow=toast.ooo
-||*.sbs^$denyallow=ecopulse.sbs
-||*.top^$denyallow=caitlin.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|techblog.top|changlam10.top|changlam11.top|pdcdn1.top|mastodon.top|pressplay.top|chillx.top|strims.top|thedesk.top|audioforyou.top
+||*.top^$denyallow=caitlin.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|techblog.top|changlam10.top|changlam11.top|pdcdn1.top|mastodon.top|pressplay.top|chillx.top|strims.top|thedesk.top|audioforyou.top|pegelinux.top|awavenue.top
 ||121.204.246.*.gif
 ||1xbet-*.com^
 ||22betx*.com^
@@ -135,6 +128,7 @@
 ||f-log-*.grammarly.io^
 ||fadverdirect.com^$denyallow=malware-redirection-trains.*
 ||fanpingbi*.gaokao.com^
+||faro-collector-prod-*.grafana.net^
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
 ||fp-*it*.fengkongcloud.com^
