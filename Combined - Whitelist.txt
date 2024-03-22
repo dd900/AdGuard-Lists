@@ -1,5 +1,4 @@
 @@||-ds.metric.gstatic.com^
-@@||://oo*.ooo/
 @@||5471782.fls.doubleclick.net^
 @@||79423.analytics.edgekey.net^
 @@||a.adwolf.ru^
@@ -23,6 +22,7 @@
 @@||api.ads.tvb.com^
 @@||api.docodoco.jp^
 @@||api.karte.io^
+@@||api.personaclick.com^
 @@||app-advertise.zhihuishu.com^
 @@||app-cdn.minepi.com^
 @@||app.adjust.com^
@@ -110,6 +110,7 @@
 @@||netatmo.commander1.com^
 @@||nineto5mac-d.openx.net^
 @@||oa.tr.line.me^
+@@||obituaries.therecord.com^
 @@||official.paymaya.com^
 @@||omniture.walmart.com^
 @@||omsc.kpn.com^
