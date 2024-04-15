@@ -1,6 +1,6 @@
 ||*.bid^
 ||*.loan^
-||*.top^$denyallow=caitlin.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|techblog.top|changlam10.top|changlam11.top|pdcdn1.top|mastodon.top|pressplay.top|chillx.top|strims.top|thedesk.top|audioforyou.top|pegelinux.top|awavenue.top
+||*.top^$denyallow=caitlin.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|techblog.top|changlam10.top|changlam11.top|pdcdn1.top|mastodon.top|pressplay.top|chillx.top|strims.top|thedesk.top|audioforyou.top|pegelinux.top|awavenue.top|reyhub.top
 ||121.204.246.*.gif
 ||1xbet-*.com^
 ||22betx*.com^
@@ -81,6 +81,8 @@
 ||block.s*block.com^
 ||bms*.adjarabet.com^
 ||bondzgi*.
+||booking.com-id*
+||booklng.com-*
 ||botashunter*
 ||briana.*.com^
 ||browser-intake-*-datadoghq.com^
@@ -234,6 +236,7 @@
 ||qpb*.sohu.com^
 ||quangcao-*.epicdn.me^
 ||rb*.design.ru^
+||reachableads-av.*.amazonaws.com^
 ||real*traf.ru^
 ||redirect.newprogrammatic.click^$denyallow=likely-a-malware-redirection.*
 ||redirectme.net^$denyallow=malware-redirection-trains.*
@@ -304,6 +307,7 @@
 ||xlog*-*.tiktokv.com^
 ||xparibet*.com^
 ||ya*.dwstatic.com^
+||yandex.avito.sber*
 ||ysdm*.ys137.com.cn^
 ||ytechb.com^$denyallow=had-not-updated-their-root-guides-to-reflect-a-b-partition-phones-as-of-2021.*
 ||zeroredirect5.com^$denyallow=malware-redirection-trains.*
