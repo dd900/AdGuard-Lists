@@ -22,7 +22,6 @@
 @@||api.ads.tvb.com^
 @@||api.docodoco.jp^
 @@||api.karte.io^
-@@||api.personaclick.com^
 @@||app-advertise.zhihuishu.com^
 @@||app-cdn.minepi.com^
 @@||app.adjust.com^
@@ -93,6 +92,7 @@
 @@||ia.hit.interia.pl^
 @@||id.i2i.jp^
 @@||img.ads.tvb.com^
+@@||infra-api.newrelic.com^
 @@||intersport.peerius.com^
 @@||js.monitor.azure.com^
 @@||leechers-paradise.org^
