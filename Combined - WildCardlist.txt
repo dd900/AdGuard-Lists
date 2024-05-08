@@ -1,6 +1,6 @@
 ||*.bid^
 ||*.loan^
-||*.top^$denyallow=caitlin.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|techblog.top|changlam10.top|changlam11.top|pdcdn1.top|mastodon.top|pressplay.top|chillx.top|strims.top|thedesk.top|audioforyou.top|pegelinux.top|awavenue.top|reyhub.top
+||*.top^$denyallow=caitlin.top|callmebymygender.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|techblog.top|changlam10.top|changlam11.top|pdcdn1.top|mastodon.top|pressplay.top|chillx.top|strims.top|thedesk.top|audioforyou.top|pegelinux.top|awavenue.top|reyhub.top
 ||121.204.246.*.gif
 ||1xbet-*.com^
 ||22betx*.com^
@@ -53,11 +53,11 @@
 ||analyzer*.fc2.com^
 ||androidgreek.com^$denyallow=had-not-updated-their-root-guides-to-reflect-a-b-partition-phones-as-of-2021.*
 ||androidweblog.com^$denyallow=had-not-updated-their-root-guides-to-reflect-a-b-partition-phones-as-of-2021.*
-||api-*.bidmachine.io^
 ||api-*.hismarttv.com^
 ||api*.amplitude.com^
 ||api*.batmobi.net^
 ||api*.batmobil.net^
+||api*.bidmachine.io^
 ||app-analytics-*.snapchat.com^
 ||appanalysis*.banggood.com^
 ||asd8900.oss-*.aliyuncs.com^
@@ -98,6 +98,7 @@
 ||collector-*.px-client.net^
 ||collector-*.tvsquared.com^
 ||collector.xhamster*.
+||collector*.ex.co^
 ||counter*-yadro*-ru.unblocked.lol^
 ||counter*.freecounter.ovh^
 ||counter*.stat.ovh^
