@@ -1,3 +1,5 @@
+# https://developers.google.com/static/search/apis/ipranges/googlebot.json
+
 192.178.5.0/27
 34.100.182.96/28
 34.101.50.144/28
