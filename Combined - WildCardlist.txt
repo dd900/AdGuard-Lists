@@ -12,11 +12,14 @@
 ||ac*.pingguolv.com^
 ||ad-*.amazonaws.com^
 ||ad-*.appacc.dbankedge.cn^
+||ad.*.doubleclick.net^
 ||ad*.bilgin.pro^
 ||ad*.ettoday.net^
 ||ad*.nexage.com^
 ||ad*.on.cc^
+||ad*.thisisgame.com^
 ||ad*.tmgrup.com.tr^
+||ad*.wisenut.co.kr^
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
 ||adi*.cnool.net^
@@ -24,8 +27,10 @@
 ||adidas-outlet*
 ||adidasfactoryoutlet*
 ||adidasoutlet*
+||adimg*.search.naver.net^
 ||admicro*.vcmedia.vn^
 ||ads-*-nfl.yinzcam.com^
+||ads-*.v.ssp.yahoo.com^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||ads.livetv*.me^
 ||ads*-normal-lq.zijieapi.com^
@@ -34,6 +39,7 @@
 ||ads*.textra.me^
 ||adserver.*.yahoodns.net^
 ||adserver*.euroweeklynews.com^
+||adservice.google.co.*
 ||adv0*.msa.cdn.mediaset.net^
 ||adx-*.dbankcloud.
 ||adx-*.dbankedge.cn^
@@ -166,6 +172,7 @@
 ||iphone-caviar.ru*entranceId
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
+||iwanshang*.asia^
 ||ja*.gamersky.com^
 ||jessica.*.net^
 ||js*.abolezi.com^
@@ -217,6 +224,7 @@
 ||orbit*.lun.ua^
 ||pamela.*.com^
 ||pamela.*.net^
+||pangolin*.sgsnssdk.com^
 ||parkdomainreal*.site^
 ||partner.superbahisaffiliates*.com^
 ||pijama.*.elasticbeanstalk.com^
@@ -292,6 +300,7 @@
 ||trkk4.com^$denyallow=malware-redirection-trains.*
 ||tupian888.*.bcebos.com^
 ||tw*.netcore.co.in^
+||txhfgwgkwt*.asia^
 ||u*.takru.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||uc*.atobo.com^
