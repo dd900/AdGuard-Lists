@@ -96,6 +96,7 @@
 @@||js.monitor.azure.com^
 @@||leechers-paradise.org^
 @@||link.morningbrew.com^
+@@||linka.page^
 @@||links.e.theatlantic.com^
 @@||links.getblueshift.com^
 @@||log.mmstat.com^
@@ -130,6 +131,7 @@
 @@||redirect.appmetrica.yandex.com^
 @@||refer.discover.com^
 @@||remembering.ca^
+@@||sax.sina.com.cn^
 @@||secureimage.securedataimages.com^
 @@||sponsor.nitropay.com^
 @@||stash.roistat.com^
