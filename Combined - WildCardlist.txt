@@ -80,6 +80,7 @@
 ||apple.com-*.live^
 ||asd8900.oss-*.aliyuncs.com^
 ||asicsoutlet*
+||askozvar.sk/*/amendesgouv/$all,to=~amendes.gouv.fr
 ||at*.doubanio.com^
 ||aussie-gamer.com^$denyallow=the-site-was-stolen-by-casino-link-spammers.*
 ||auth-*.hismarttv.com^
@@ -163,6 +164,7 @@
 ||dw-informer-*.newsru.com^
 ||eclog*-*.cafe24.com^
 ||edfringe.com/*.php$all
+||elementor.cloud/*/ENGHUY645/$doc,domain=~dhl.com
 ||emily.*.net^
 ||eum*.instana.io^
 ||events-*.op.hicloud.com^
@@ -170,7 +172,7 @@
 ||events*.cre.ma^
 ||ewp.live/*/pages/region.php^$doc
 ||f-log-*.grammarly.io^
-||facilitycond.protectorsistemas.com.br/--/*/Login.html^$all,to=~vrb-niederschlesien.de
+||f.digital-*.com/igit/$doc
 ||fadverdirect.com^$denyallow=malware-redirection-trains.*
 ||fan-page-*.surge.sh^$doc
 ||fanpingbi*.gaokao.com^
@@ -285,14 +287,18 @@
 ||mybluehost.me/*/csom/$doc,domain=~swisscom.ch
 ||mybluehost.me/*/dir/ca/pay/$doc,domain=~canadapost-postescanada.ca
 ||mybluehost.me/*/impo/$doc,domain=~impots.gouv.fr
+||mybluehost.me/*/itx/it/conto/$doc,domain=~intesasanpaolo.com
 ||mybluehost.me/*/MitID/$doc
 ||mybluehost.me/*/netflix/net/login.php$doc
+||mybluehost.me/*/phpmailer/src/dh/$doc,domain=~dhl.com
 ||mybluehost.me/*/swisspass/$doc,domain=~swisspass.ch
 ||mybluehost.me/*Recibir_paquete.php$doc,domain=~correos.es
 ||mybluehost.me/service/*/nkl-log.php$doc,domain=~nickel.eu
+||mybluehost.me/wp-content/12/*.php^$doc,domain=~amendes.gouv.fr
 ||no-forny*
 ||nor-pw*.com^
 ||ns*.fastthinkingdns.com^
+||odeal.fi/fr/AMA/*.php^$doc,domain=~amendes.gouv.fr
 ||ondigitalocean.app/*/index.php?cezp=$doc
 ||ondigitalocean.app/*^phone=+1-$doc
 ||orbit*.lun.ua^
@@ -317,6 +323,15 @@
 ||production-adserver-*.amazonaws.com^
 ||profile-ourtime.*.workers.dev^$doc,domain=~ourtime.com
 ||pttgov-*.top^$all,to=top|~ptt.gov.tr
+||pub-*.r2.dev/adobe2024.html^$doc
+||pub-*.r2.dev/alt_type.html^$doc,domain=~docusign.com
+||pub-*.r2.dev/auth_response.html^$doc,domain=~docusign.com
+||pub-*.r2.dev/doc_start.html^$doc,domain=~docusign.com
+||pub-*.r2.dev/docuss_3456787654324567897865433456789.html^$doc,domain=~docusign.com
+||pub-*.r2.dev/dse_sign.html^$doc,domain=~docusign.com
+||pub-*.r2.dev/owa.html^$doc
+||pub-*.r2.dev/secure_response.html^$doc,domain=~docusign.com
+||pub-*.r2.dev/utility_base.html^$doc,domain=~docusign.com
 ||pubggf*.xyz^
 ||pubggift*.xyz^
 ||putrr*.com^
@@ -413,7 +428,6 @@
 ||vns86.oss-*.aliyuncs.com^
 ||vnsendo.*^$all,to=info|shop|vip|~sendo.vn
 ||w*statistics.info^
-||wcomhost.com/*/am/3dsece.php^$doc,domain=~amendes.gouv.fr
 ||windows.net/*?bcda=$doc
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
@@ -425,6 +439,5 @@
 ||youtuberevanced.*^$all,domain=~revanced.app
 ||ysdm*.ys137.com.cn^
 ||ytechb.com^$denyallow=had-not-updated-their-root-guides-to-reflect-a-b-partition-phones-as-of-2021.*
-||zdrhuagh.elementor.cloud/*/index.html$all
 ||zeroredirect5.com^$denyallow=malware-redirection-trains.*
 ||zhizhizhizhi.oss-*.aliyuncs.com^
