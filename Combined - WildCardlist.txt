@@ -52,6 +52,7 @@
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||aff*.kolektiva.net^
+||agripro-fr-*.com^$doc,to=~agriaffaires.com
 ||air.bnb-id*.com^$all,to=~airbnb.com
 ||airpos.co.kr/.well-known/pki-validation/*/MitID/$doc
 ||alienxchain*.pages.dev^$doc,to=~alienxchain.io
@@ -97,7 +98,6 @@
 ||basvformu*.xyz^
 ||batchlogging*-eu.truecaller.com^
 ||batchlogging*-noneu.truecaller.com^
-||bcit.pro/*/Instagram$doc
 ||bd*-ys.km.com^
 ||bdcpro*.techweb.com.cn^
 ||bdlm*.hc360.com^
@@ -129,6 +129,7 @@
 ||codeanyapp.com/*/spoofi/$all
 ||codeanyapp.com/*/spotii/$all
 ||codeanyapp.com/neta/*/pay-method.php$doc
+||codeanyapp.com/Sus/*/sign.php^$doc,to=~swisspass.ch
 ||collect-elb-*.amazonaws.com^
 ||collect-v*.51.la^
 ||collector-*.tvsquared.com^
@@ -148,6 +149,7 @@
 ||csgogift*.xyz^
 ||d*.ruiwen.com^
 ||d*.xinshipu.com^
+||dailycontestportal.com/*/orange-reward-survey-1/$doc,to=~orange.fr
 ||dana-indone*.id^$doc,to=my.id|web.id|~dana.id
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
@@ -227,7 +229,6 @@
 ||hostingcloud.*.wasm^
 ||hstats*.hepsiburada.com^
 ||http://marketplace-item-details-*.zya.me^$all
-||hypnotes.net/*/aupost/$all,to=~auspost.com.au
 ||i-*.ci360.sas.com^
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
@@ -251,6 +252,7 @@
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
+||lnkdeka.standard.*.oortech.com^$doc,to=~linkedin.com
 ||log-*.epicdn.me^
 ||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
@@ -267,6 +269,7 @@
 ||m-isist-emai-nmu-ne-*.vercel.app^$all
 ||maas-*.phunware.com^
 ||magiskzip.*^$all
+||manage-administrere-swisspass-*.codeanyapp.com^$doc,to=~swisspass.ch
 ||mapi-log.qoo*.jp^
 ||marketplace-*.hyprmx.com^
 ||marketplace-item-*.000.pe^$doc
@@ -298,6 +301,8 @@
 ||ms*.applvn.com^
 ||msnoauth*.com/office-$all
 ||my-altinn*
+||my-ee-*.web.app^$doc,to=~ee.co.uk
+||mybluehost.me/*/amendes.org/$doc,to=~amendes.gouv.fr
 ||mybluehost.me/*/CHFINAL/$doc,to=~swisspass.ch
 ||mybluehost.me/*/choronopost/$doc,to=~chronopost.fr
 ||mybluehost.me/*/csom/$doc,to=~swisscom.ch
@@ -307,7 +312,9 @@
 ||mybluehost.me/*/MitID/$doc
 ||mybluehost.me/*/netflix/net/login.php$doc
 ||mybluehost.me/*/phpmailer/src/dh/$doc,to=~dhl.com
+||mybluehost.me/*/swisscom/$doc,to=~swisscom.ch
 ||mybluehost.me/*/swisspass/$doc,to=~swisspass.ch
+||mybluehost.me/*/swpassfr/$doc,to=~swisspass.ch
 ||mybluehost.me/*intesasanpaolo/$doc,to=~intesasanpaolo.com
 ||mybluehost.me/*Recibir_paquete.php$doc,to=~correos.es
 ||mybluehost.me/*unitess/$doc,to=~usps.com
@@ -336,6 +343,7 @@
 ||partner.superbahisaffiliates*.com^
 ||pay8-2v-*-gmailcom.vercel.app^$all,to=~pancakeswap.finance
 ||pemesanan*.glowz.my.id^$doc,to=~dana.id
+||phoenixvilla.rw/wp-about/*.html^$doc
 ||pijama.*.elasticbeanstalk.com^
 ||piwik.*.com.vn^
 ||piwik.*.vn^
@@ -344,7 +352,9 @@
 ||pixel*.adswizz.com
 ||pixel*.production-public.tubi.io^
 ||pixelapi-*.cs.mysamba.tv^
+||plesk.page/*--_--$doc,to=~labanquepostale.fr
 ||plesk.page/*?phone=$doc
+||powersolutions4u.com/*/WEBMAIL1.html^$doc
 ||pr-ue-ba-de-lsa-bermu-ne-*.vercel.app^$all
 ||prebid-*.rubiconproject.com^
 ||production-adserver-*.amazonaws.com^
@@ -360,6 +370,7 @@
 ||pub-*.r2.dev/docuss_3456787654324567897865433456789.html^$doc,to=~docusign.com
 ||pub-*.r2.dev/dse_sign.html^$doc,to=~docusign.com
 ||pub-*.r2.dev/gsecondcheck.html^$doc
+||pub-*.r2.dev/ledge.html^$doc,to=~ledger.com
 ||pub-*.r2.dev/onecode55.html^$doc
 ||pub-*.r2.dev/OneDrive.html^$doc
 ||pub-*.r2.dev/owa.html^$doc
@@ -385,6 +396,7 @@
 ||report.*.qq.com^
 ||report*.appmetrica.webvisor.com^
 ||request-page-violation-*.surge.sh^$all
+||romacsystems.com/*/CHFINAL/$doc,to=~swisspass.ch
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||rtbrevdirect.com^$denyallow=malware-redirection-trains.*
 ||rtbverdirect.com^$denyallow=malware-redirection-trains.*
@@ -410,6 +422,7 @@
 ||sensorsdata*.read.duokan.com^
 ||sex-is-here.com/*.shtml$doc
 ||sexall.net/*.shtml$doc
+||smrturl.co/o/*/53458494^$doc
 ||snowplow-collector-*.amazonaws.com^
 ||socalthesyndicate.com/*/adobefud/$all,to=~adobe.com
 ||sock*-goguardian.pusher.com^
@@ -427,6 +440,7 @@
 ||steancomm*$denyallow=likely-a-fake-malware-version-of-steamcommunity.com
 ||storageapi-new.fleek.co/*/yss/ind.html$all
 ||subnewss*.net^
+||suissscomee-correo*.codeanyapp.com^$doc,to=~swisspass.ch
 ||suite*.linximpulse.net^
 ||support-center-for-*.vercel.app^$all
 ||sviluppo.host/*/CHFINAL/$doc,to=~swisspass.ch
