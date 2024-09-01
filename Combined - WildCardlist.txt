@@ -35,6 +35,7 @@
 ||adimg*.search.naver.net^
 ||admicro*.vcmedia.vn^
 ||admob-app-id-*.firebaseio.com^
+||adobepd*.glitch.me^$doc,to=~adobe.com
 ||ads-*-nfl.yinzcam.com^
 ||ads-*.v.ssp.yahoo.com^
 ||ads-dmp-collect.*.karrotmarket.com^
@@ -239,7 +240,6 @@
 ||iphone-caviar.ru*entranceId
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
-||iwanshang*.asia^
 ||ja*.gamersky.com^
 ||jessica.*.net^
 ||js*.abolezi.com^
@@ -360,7 +360,7 @@
 ||production-adserver-*.amazonaws.com^
 ||profile-ourtime.*.workers.dev^$doc,to=~ourtime.com
 ||pttgov-*.top^$all,to=top|~ptt.gov.tr
-||pub-*.r2.dev/adobe2024.html^$doc
+||pub-*.r2.dev/adobe2024.html^$doc,to=~adobe.com
 ||pub-*.r2.dev/alt_type.html^$doc,to=~docusign.com
 ||pub-*.r2.dev/auth_gen.html^$doc,to=~docusign.com
 ||pub-*.r2.dev/auth_response.html^$doc,to=~docusign.com
@@ -461,7 +461,6 @@
 ||trkk4.com^$denyallow=malware-redirection-trains.*
 ||tupian888.*.bcebos.com^
 ||tw*.netcore.co.in^
-||txhfgwgkwt*.asia^
 ||u*.takru.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||uc*.atobo.com^
