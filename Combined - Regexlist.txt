@@ -130,9 +130,9 @@
 /^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{4,10}\.com\/[a-zA-Z0-9]{50,}\?[a-zA-Z0-9]{60,}$/$doc,to=com|~google.com|~microsoft.com
 /^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{4,10}\.ru\/[a-zA-Z0-9]{50,}\?[a-zA-Z0-9]{60,}$/$doc,to=ru
 /^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{4,10}\.su\/[a-zA-Z0-9]{50,}\?[a-zA-Z0-9]{60,}$/$doc,to=su
-/^https:\/\/[a-z0-9]{5}\.shop\/l\/gaz\//$1p,strict1p,match-case,to=shop
-/^https:\/\/[a-z0-9]{5}\.shop\/lead$/$doc,1p,strict1p,match-case,method=post,to=shop
-/^https:\/\/[a-z0-9]{5}\.shop\/uniq$/$xhr,1p,strict1p,match-case,method=get,to=shop
+/^https:\/\/[a-z0-9]{5,15}\.shop\/l\/gaz\//$1p,strict1p,match-case,to=shop
+/^https:\/\/[a-z0-9]{5,15}\.shop\/lead$/$doc,1p,strict1p,match-case,method=post,to=shop
+/^https:\/\/[a-z0-9]{5,15}\.shop\/uniq$/$xhr,1p,strict1p,match-case,method=get,to=shop
 /^https:\/\/allegro-\d{3,4}\.com\//$doc,to=com
 /^https:\/\/allegro[a-z]{2,}\.shop\//$doc,to=shop
 /^https:\/\/booking(-[a-z]{3,}){2}\.(?:baby|lat|lol|xyz)\//$doc,to=baby|lat|lol|xyz|~booking.com
