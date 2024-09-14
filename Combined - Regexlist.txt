@@ -109,6 +109,7 @@
 /^https:\/\/(?:seller\.)?ebay-[a-z]{8,15}\.com\//$doc,to=com
 /^https:\/\/(?:www\.)?(?:ff[-.])?member[-.]gare[a-z]+a(?:\.pro)?\.vn\//$doc,to=vn|~garena.vn
 /^https:\/\/(?:www\.)?(?:ff[-.])?men?mber[-.]garena\.vn\//$doc,to=vn|~garena.vn
+/^https:\/\/(?:www\.)?roblox(?:\.com)?\.[a-z]{2}\//$doc,to=roblox.*|~roblox.com
 /^https:\/\/(?:www\d\.)?[-a-z]{6,}\.(?:club|com|info|net|org)\/(?=[-_a-zA-Z]{0,42}\d)(?=[-_0-9a-z]{0,42}[A-Z])[-_0-9a-zA-Z]{43}\/\?(?:pub|s)id=[-_0-9a-z{}]{1,32}(?:&qs\d=\S+)?&cid=[-_0-9a-zA-Z]{10,36}(?:&s=0\.\d+)?(?:
 /^https:\/\/(?:www\d\.)?[-a-z]{6,}\.(?:club|com|info|net|org)\/(?=[-_a-zA-Z]{0,42}\d)(?=[-_0-9a-z]{0,42}[A-Z])[-_0-9a-zA-Z]{43}\/\?cid=[-_0-9a-zA-Z]{10,36}(?:&qs\d=\S+)?&(?:s|pub)id=[-_0-9a-z{}]{1,32}(?:&s=0\.\d+)?(?:
 /^https:\/\/(?:www\d\.)?[-a-z]{6,}\.(?:club|com|info|net|org)\/(?=[-_a-zA-Z]{0,42}\d)(?=[-_0-9a-z]{0,42}[A-Z])[-_0-9a-zA-Z]{43}\/\?clickID=[0-9a-f]{32}&sourceID=\d+$/$doc,match-case,to=club|com|info|net|org
@@ -127,9 +128,9 @@
 /^https:\/\/[a-z]+\.[-a-z0-9]+\.[a-z]{3,7}\/[a-z]{2,6}\.(?:[a-z]{1,8}\.)?17\d{8}\.js\?(?:revision|sr?c?|ve?r?)=6[a-f0-9]{7}$/$script,3p,match-case,to=~edu|~gov
 /^https:\/\/[a-z]+\.[-a-z0-9]+\.[a-z]{3,7}\/17\d{8}\/em\.js\?(?:revision|sr?c?|ve?r?)=6[a-f0-9]{7}$/$script,3p,match-case,to=~edu|~gov
 /^https:\/\/[a-z]+\.com\/away\.php\?url=[%0-9A-z]{100,}$/$doc
-/^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{4,10}\.com\/[a-zA-Z0-9]{50,}\?[a-zA-Z0-9]{60,}$/$doc,to=com|~google.com|~microsoft.com
-/^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{4,10}\.ru\/[a-zA-Z0-9]{50,}\?[a-zA-Z0-9]{60,}$/$doc,to=ru
-/^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{4,10}\.su\/[a-zA-Z0-9]{50,}\?[a-zA-Z0-9]{60,}$/$doc,to=su
+/^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{4,11}\.com\/[a-zA-Z0-9]{30,}\?[a-zA-Z0-9]{25,}$/$doc,to=com|~google.com|~microsoft.com
+/^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{4,11}\.ru\/[a-zA-Z0-9]{30,}\?[a-zA-Z0-9]{25,}$/$doc,to=ru
+/^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{4,11}\.su\/[a-zA-Z0-9]{30,}\?[a-zA-Z0-9]{25,}$/$doc,to=su
 /^https:\/\/[a-z0-9]{5,15}\.shop\/l\/gaz\//$1p,strict1p,match-case,to=shop
 /^https:\/\/[a-z0-9]{5,15}\.shop\/lead$/$doc,1p,strict1p,match-case,method=post,to=shop
 /^https:\/\/[a-z0-9]{5,15}\.shop\/uniq$/$xhr,1p,strict1p,match-case,method=get,to=shop
@@ -141,6 +142,7 @@
 /^https:\/\/business\.[a-z]+confii?rm\.com\/meta-community-standard\d{14,15}[^\d]?/$doc,match-case,to=com|~facebook.com
 /^https:\/\/da\d{4}\.com\//$doc,to=com|~lazada.vn
 /^https:\/\/dich-vu(?:-[a-z0-9]+){2,3}\.com\//$doc,to=com
+/^https:\/\/ee(?:-[a-z]{5,}){1,2}\.firebaseapp\.com\//$doc,to=firebaseapp.com|~ee.co.uk
 /^https:\/\/ee(?:-[a-z]{5,}){1,2}\.web\.app\//$doc,to=web.app|~ee.co.uk
 /^https:\/\/help\.[a-z]{3,}-x-[a-z]{3,}\.com\//$doc,to=com|~x.com
 /^https:\/\/hotels-\d{6}\.eu\//$doc,to=eu|~booking.com
@@ -227,7 +229,6 @@
 /jr.php?gz=$doc
 /jump/next.php?r=$doc
 /l/DMP_captcha_for_vpn?$all
-/landingpages/daec0dfa-de7a-4f73-9b8e-44fde686ce12^$doc
 /ll/click.php?key=$doc
 /mc-test/*/index.php?cid=$doc
 /merrx01/^$doc
