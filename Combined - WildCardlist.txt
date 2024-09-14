@@ -93,6 +93,7 @@
 ||azuki-*.vercel.app^$all,to=~azuki.com
 ||banner.*.tccapis.com^
 ||banner*.kinogo.by^
+||baoviet*.top^$doc,to=~baovietbank.vn
 ||baoviet*.vip^$doc,to=vip|~baovietbank.vn
 ||bar*.shinobi.jp^
 ||base-swap-frontend-*.vercel.app^$doc
@@ -156,6 +157,7 @@
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
 ||date.sexpartnercommunity.com/landing/*$doc
+||decorartealuminios.com.br/*/AZ-ULTIMATE-LINKEDIN/$all,to=~linkedin.com
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||dhl.*.potabox.com^$doc,to=~dhl.com
@@ -170,7 +172,6 @@
 ||dotagift*.xyz^
 ||download-wetransfer-*.vercel.app^$doc,to=~wetransfer.com
 ||dropbox.com/*/crowdstrike-hotfix.zip^$all
-||dropbox*.weebly.com^$doc
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||dw-informer-*.newsru.com^
 ||eclog*-*.cafe24.com^
@@ -210,11 +211,13 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
+||giaohangtietkiem247.*^$all,to=giaohangtietkiem247.*|~giaohangtietkiem.vn
 ||glitch.me/*/nationwide^$doc,to=~nationwide.co.uk
 ||gonews*.net^
 ||govern-assessment-validation-*.vercel.app^$all
 ||griffithdds.com/*/madeinchina.com/$all,to=~made-in-china.com
 ||gscounters.*.gigya.com^
+||h567268.linp*.arubabusiness.it^$doc,to=~amendes.gouv.fr
 ||hclsoftware.cloud/*/tdbanknotes^$all,to=~td.com
 ||help-for-work-*.pages.dev^$doc
 ||hn-ping*.hashnode.com^
@@ -234,6 +237,7 @@
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
 ||imp-*.jampp.com^
+||impotsgouv.*.wcomhost.com^$doc,to=~impots.gouv.fr
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||inner.website/*.html^$doc
@@ -246,6 +250,7 @@
 ||jtbo*.nqxvevk.cn^
 ||katie.*.com^
 ||katie.*.net^
+||kmspico.*^$doc,to=kmspico.*
 ||ky891.oss-*.aliyuncs.com^
 ||libretube.*^$all,domain=~libretube.dev,to=~libretube.dev
 ||lidarusa.com/*/Bpostale2022/$all,to=~labanquepostale.fr
@@ -266,7 +271,6 @@
 ||lt*.tritondigital.com^
 ||luckypatcher.*^$all,domain=~luckypatchers.com
 ||luckypatchers.*^$all,domain=~luckypatchers.com,to=~luckypatchers.com
-||m-isist-emai-nmu-ne-*.vercel.app^$all
 ||maas-*.phunware.com^
 ||magiskzip.*^$all
 ||manage-administrere-swisspass-*.codeanyapp.com^$doc,to=~swisspass.ch
@@ -303,6 +307,7 @@
 ||my-altinn*
 ||my-ee-*.web.app^$doc,to=~ee.co.uk
 ||mybluehost.me/*/amendes.org/$doc,to=~amendes.gouv.fr
+||mybluehost.me/*/amendes2024org/$doc,to=~amendes.gouv.fr
 ||mybluehost.me/*/CHFINAL/$doc,to=~swisspass.ch
 ||mybluehost.me/*/choronopost/$doc,to=~chronopost.fr
 ||mybluehost.me/*/csom/$doc,to=~swisscom.ch
@@ -355,11 +360,10 @@
 ||plesk.page/*--_--$doc,to=~labanquepostale.fr
 ||plesk.page/*?phone=$doc
 ||powersolutions4u.com/*/WEBMAIL1.html^$doc
-||pr-ue-ba-de-lsa-bermu-ne-*.vercel.app^$all
 ||prebid-*.rubiconproject.com^
 ||production-adserver-*.amazonaws.com^
 ||profile-ourtime.*.workers.dev^$doc,to=~ourtime.com
-||pttgov-*.top^$all,to=top|~ptt.gov.tr
+||pttgov*.top^$doc,to=top|~ptt.gov.tr
 ||pub-*.r2.dev/adobe2024.html^$doc,to=~adobe.com
 ||pub-*.r2.dev/alt_type.html^$doc,to=~docusign.com
 ||pub-*.r2.dev/auth_gen.html^$doc,to=~docusign.com
@@ -387,6 +391,7 @@
 ||q*-publick.club^
 ||qpb*.sohu.com^
 ||quangcao-*.epicdn.me^
+||query*.petametrics.com^
 ||rackweb-----support*.weebly.com^$all,to=~rackspace.com
 ||rb*.design.ru^
 ||reachableads-av.*.amazonaws.com^
