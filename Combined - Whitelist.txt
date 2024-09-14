@@ -131,6 +131,7 @@
 @@||redirect.appmetrica.yandex.com^
 @@||refer.discover.com^
 @@||remembering.ca^
+@@||res.ads.nicovideo.jp^
 @@||sax.sina.com.cn^
 @@||secureimage.securedataimages.com^
 @@||sponsor.nitropay.com^
