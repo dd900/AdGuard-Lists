@@ -10,6 +10,7 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/dyn
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/et_block.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/et_compromised.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_abuse_spyeye.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/proxylists_30d.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/urlvir.ipset
 https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/BruteForce/Extreme
 https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Other/Scanners
