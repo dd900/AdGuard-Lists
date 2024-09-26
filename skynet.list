@@ -24,5 +24,4 @@ https://blacklist.3coresec.net/lists/all.txt
 https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 https://cinsscore.com/list/ci-badguys.txt
 https://talosintelligence.com/documents/ip-blacklist
-https://www.spamhaus.org/drop/drop.txt
-https://www.spamhaus.org/drop/edrop.txt
+https://raw.githubusercontent.com/stamparm/ipsum/refs/heads/master/levels/2.txt
