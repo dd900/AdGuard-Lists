@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BlockLists>
+	<BlockList>
+		<Name>DD900 Blacklist</Name>
+		<Type>AdGuard</Type>
+		<Url>https://cloud.toodementianull.com/s/Blacklist/download/Blacklist.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>AdGuard DNS Filter</Name>
+		<Type>AdGuard</Type>
+		<Url>https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>AdGuard Disguised Trackers</Name>
+		<Type>AdGuard</Type>
+		<Url>https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>AdGuard Original Trackers</Name>
+		<Type>AdGuard</Type>
+		<Url>https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_original_trackers.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>MMotti Regex</Name>
+		<Type>AdGuard</Type>
+		<Url>https://raw.githubusercontent.com/mmotti/adguard-home-filters/master/regex.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>AdGuard DNS Popup Hosts</Name>
+		<Type>AdGuard</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>AWAvenue Ads</Name>
+		<Type>AdGuard</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>HaGeZi Pro Blocklist</Name>
+		<Type>AdGuard</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>Dandelion Sprout Game Console Adblock List</Name>
+		<Type>AdGuard</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_6.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>Perflyst and Dandelion Sprout Smart-TV Blocklist</Name>
+		<Type>AdGuard</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>Phishing URL Blocklist (PhishTank and OpenPhish)</Name>
+		<Type>AdGuard</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>Dandelion Sprout Anti-Malware List</Name>
+		<Type>AdGuard</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>HaGeZi Badware Hoster Blocklist</Name>
+		<Type>AdGuard</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>HaGeZis Most Abused TLDs</Name>
+		<Type>AdGuard</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_56.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>HaGeZi Threat Intelligence Feeds</Name>
+		<Type>AdGuard</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>Scam Blocklist by DurableNapkin</Name>
+		<Type>AdGuard</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>Malicious URL Blocklist (URLHaus)</Name>
+		<Type>AdGuard</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>ShadowWhisperer Malware List</Name>
+		<Type>AdGuard</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>uBlock filters – Badware risks</Name>
+		<Type>AdGuard</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt</Url>
+	</BlockList>
+
+
+	<BlockList>
+		<Name>Steven Black</Name>
+		<Type>Host</Type>
+		<Url>https://adaway.org/hosts.txt</Url>
+		<HostIP>0.0.0.0</HostIP>
+	</BlockList>
+	<BlockList>
+		<Name>WindowsSpyBlocker</Name>
+		<Type>Host</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt</Url>
+		<HostIP>0.0.0.0</HostIP>
+	</BlockList>
+	<BlockList>
+		<Name>NoCoin Filter List</Name>
+		<Type>Host</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_8.txt</Url>
+		<HostIP>0.0.0.0</HostIP>
+	</BlockList>
+	<BlockList>
+		<Name>The Big List of Hacked Malware Web Sites</Name>
+		<Type>Host</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt</Url>
+		<HostIP>0.0.0.0</HostIP>
+	</BlockList>
+	<BlockList>
+		<Name>lightswitch05 amp-hosts-extended</Name>
+		<Type>Host</Type>
+		<Url>https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/amp-hosts-extended.txt</Url>
+		<HostIP>0.0.0.0</HostIP>
+	</BlockList>
+	
+	
+	<BlockList>
+		<Name>NextDNS CNAME</Name>
+		<Type>Domain</Type>
+		<Url>https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains</Url>
+	</BlockList>
+	<BlockList>
+		<Name>NextDNS Samsung</Name>
+		<Type>Domain</Type>
+		<Url>https://github.com/nextdns/native-tracking-domains/raw/main/domains/samsung</Url>
+	</BlockList>
+	<BlockList>
+		<Name>NextDNS ClickTracking</Name>
+		<Type>Domain</Type>
+		<Url>https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains</Url>
+	</BlockList>
+	<BlockList>
+		<Name>NextDNS Windows</Name>
+		<Type>Domain</Type>
+		<Url>https://github.com/nextdns/native-tracking-domains/raw/main/domains/windows</Url>
+	</BlockList>
+	<BlockList>
+		<Name>Mobile Trackers</Name>
+		<Type>Domain</Type>
+		<Url>https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>Phishing Army</Name>
+		<Type>Domain</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>Stalkerware Indicators List</Name>
+		<Type>Domain</Type>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt</Url>
+	</BlockList>
+	
+	
+	<BlockList>
+		<Name>Stamparm ipsum level 2</Name>
+		<Type>IP</Type>
+		<Url>https://raw.githubusercontent.com/stamparm/ipsum/refs/heads/master/levels/2.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>cinsscore ci-badguys</Name>
+		<Type>IP</Type>
+		<Url>https://cinsscore.com/list/ci-badguys.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>sslbl abuse sslipblacklist</Name>
+		<Type>IP</Type>
+		<Url>https://sslbl.abuse.ch/blacklist/sslipblacklist.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>3coresec</Name>
+		<Type>IP</Type>
+		<Url>https://blacklist.3coresec.net/lists/all.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>Bad-IPs</Name>
+		<Type>IP</Type>
+		<Url>https://raw.githubusercontent.com/dd900/AdGuard-Lists/refs/heads/master/Bad-IPs.txt</Url>
+	</BlockList>
+
+	
+	<WhiteList>
+		<Name>FTPrivacy - Whitelist</Name>
+		<Type>AdGuard</Type>
+		<Url>https://github.com/ftpmorph/ftprivacy/raw/master/regex-whitelists/general-false-positive-regex-whitelist-ftprivacy.txt</Url>
+	</WhiteList>
+	<WhiteList>
+		<Name>FTPrivacy - Whitelist - Crypto</Name>
+		<Type>AdGuard</Type>
+		<Url>https://github.com/ftpmorph/ftprivacy/raw/master/regex-whitelists/legit-crypto-mining-regex-whitelist-ftprivacy.txt</Url>
+	</WhiteList>
+	<WhiteList>
+		<Name>DD900 - Whitelist</Name>
+		<Type>AdGuard</Type>
+		<Url>https://cloud.toodementianull.com/s/Whitelist/download/Whitelist.txt</Url>
+	</WhiteList>
+	<WhiteList>
+		<Name>anudeepND - Whitelist</Name>
+		<Type>Domain</Type>
+		<Url>https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt</Url>
+	</WhiteList>
+	<WhiteList>
+		<Name>NextDNS - TorrentTrackers</Name>
+		<Type>Domain</Type>
+		<Url>https://github.com/nextdns/piracy-blocklists/raw/master/torrent-trackers</Url>
+	</WhiteList>
+</BlockLists>
