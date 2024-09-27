@@ -100,7 +100,7 @@
 	<BlockList>
 		<Name>Steven Black</Name>
 		<Type>Host</Type>
-		<Url>https://adaway.org/hosts.txt</Url>
+		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt</Url>
 		<HostIP>0.0.0.0</HostIP>
 	</BlockList>
 	<BlockList>
@@ -163,6 +163,31 @@
 		<Name>Stalkerware Indicators List</Name>
 		<Type>Domain</Type>
 		<Url>https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt</Url>
+	</BlockList>
+	<BlockList>
+		<Name>ShadowWhisperer Tracking</Name>
+		<Type>Domain</Type>
+		<Url>https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Lists/Tracking</Url>
+	</BlockList>
+	<BlockList>
+		<Name>ShadowWhisperer Scam</Name>
+		<Type>Domain</Type>
+		<Url>https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Lists/Scam</Url>
+	</BlockList>
+	<BlockList>
+		<Name>ShadowWhisperer Risk</Name>
+		<Type>Domain</Type>
+		<Url>https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Lists/Risk</Url>
+	</BlockList>
+	<BlockList>
+		<Name>ShadowWhisperer Microsoft</Name>
+		<Type>Domain</Type>
+		<Url>https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Lists/Microsoft</Url>
+	</BlockList>
+	<BlockList>
+		<Name>ShadowWhisperer Ads</Name>
+		<Type>Domain</Type>
+		<Url>https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Lists/Ads</Url>
 	</BlockList>
 	
 	
