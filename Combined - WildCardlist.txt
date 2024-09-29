@@ -185,7 +185,7 @@
 ||*.rodeo^
 ||*.rugby^
 ||*.sale^
-||*.sbs^$denyallow=ecopulse.sbs|moae.sbs
+||*.sbs^$denyallow=ecopulse.sbs
 ||*.science^$denyallow=hal.science
 ||*.scorecardresearch.*^$important
 ||*.scorecardresearch.com^$important
