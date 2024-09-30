@@ -19,7 +19,7 @@
 ||*.baby^
 ||*.band^
 ||*.banner^$important
-||*.bar^$denyallow=fap.bar
+||*.bar^$denyallow=fap.bar|strem.bar
 ||*.beauty^$denyallow=vipbj.beauty
 ||*.best^$denyallow=epg.best
 ||*.bet^
@@ -52,7 +52,7 @@
 ||*.church^$denyallow=life.church|online.church
 ||*.city^$denyallow=bypass.city
 ||*.claims^
-||*.click^$denyallow=popcat.click|popdog.click|xcine.click
+||*.click^$denyallow=popcat.click|popdog.click|ravelin.click|xcine.click
 ||*.clothing^
 ||*.club^$denyallow=baby-beamup.club|mbcherohub.club|pdfmagazines.club|thelemmy.club
 ||*.computer^$denyallow=neat.computer|silly.computer
@@ -78,6 +78,7 @@
 ||*.esq^$denyallow=erika.esq
 ||*.eth0.me^$important
 ||*.events^$denyallow=ticketco.events
+||*.exaapi.com^
 ||*.expert^
 ||*.fan^$denyallow=lemmy.fan
 ||*.fashion^
@@ -397,6 +398,8 @@
 ||*a4p.adpartner*^$important
 ||*analytics*^$important
 ||*appsflyersdk*^$important
+||*bmwmini.tt.omtrdc.net^
+||*bmwofnorthamericallc.tt.omtrdc.net^
 ||*sex*^$important
 ||107.167.16.*.gif
 ||107.167.22.*.gif
