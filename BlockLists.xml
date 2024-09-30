@@ -246,6 +246,11 @@
 		<Type>IP</Type>
 		<Url>https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hosting</Url>
 	</BlockList>
+	<BlockList>
+		<Name>talosintelligence</Name>
+		<Type>IP</Type>
+		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/talosintel_ipfilter.ipset</Url>
+</BlockList>
 
 	
 	<WhiteList>
