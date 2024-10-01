@@ -113,7 +113,7 @@
 ||*.health^$denyallow=sca.health
 ||*.healthcare^
 ||*.hitbox.*^$important
-||*.homes^
+||*.homes^$denyallow=stremio.homes
 ||*.httpads.*^$important
 ||*.icu^$denyallow=lunar.icu
 ||*.imiclk.*^$important
@@ -222,7 +222,7 @@
 ||*.vegas^
 ||*.ventures^
 ||*.vin^
-||*.vip^$denyallow=18comic.vip|stream.vip
+||*.vip^$denyallow=18comic.vip|ryde.vip|stream.vip
 ||*.virtualearth.net^$important
 ||*.vision^
 ||*.vlaanderen^
