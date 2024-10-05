@@ -203,6 +203,7 @@
 ||*.spylog.com*^$important
 ||*.store^$denyallow=androeed.store|cleanmasters.store|g-h.store|iqunix.store|shoplazza.store|timberjacks.store
 ||*.style^
+||*.su^
 ||*.support^
 ||*.surf^$denyallow=s-wings.surf
 ||*.tattoo^
@@ -541,6 +542,7 @@
 ||cs*.mp3bars.com^
 ||csgogf*.xyz^
 ||csgogift*.xyz^
+||currentlyatt*.weebly.com^
 ||d*.ruiwen.com^
 ||d*.xinshipu.com^
 ||datacollect*.abtasty.com^
