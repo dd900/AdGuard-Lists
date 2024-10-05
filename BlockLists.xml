@@ -250,9 +250,19 @@
 		<Name>talosintelligence</Name>
 		<Type>IP</Type>
 		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/talosintel_ipfilter.ipset</Url>
-</BlockList>
+	</BlockList>
+	<BlockList>
+		<Name>HaGeZis Threat Intelligence</Name>
+		<Type>IP</Type>
+		<Url>https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt</Url>
+	</BlockList>
 
 	
+	<WhiteList>
+		<Name>AdGuard Common Whitelist</Name>
+		<Type>AdGuard</Type>
+		<Url>https://raw.githubusercontent.com/cedwards4038/adguard-whitelist/refs/heads/main/whitelist.txt</Url>
+	</WhiteList>
 	<WhiteList>
 		<Name>FTPrivacy - Whitelist</Name>
 		<Type>AdGuard</Type>
