@@ -1,3 +1,4 @@
+@@||*.liveaquaria.com^$important
 @@||*.msn.com^$important
 @@||*.toodementianull.com^$important
 @@||*ota.oppomobile.com^$important
@@ -5,7 +6,10 @@
 @@||0x.org^
 @@||1.tracker.eu.org^
 @@||1337.abcvg.info^
+@@||192.168.0.*^$important
 @@||192.168.1.*^$important
+@@||192.168.2.*^$important
+@@||192.168.3.*^$important
 @@||1drv.com^
 @@||1inch.io^
 @@||2.android.pool.ntp.org^
@@ -150,6 +154,7 @@
 @@||binance.uk^
 @@||binance.us^
 @@||binancezh.sh^
+@@||bing.com^$important
 @@||bisq.network^
 @@||bit-hdtv.com^
 @@||bitcoin.com^
@@ -578,6 +583,7 @@
 @@||localbitcoins.com^
 @@||localcryptos.com^
 @@||localmonero.co^
+@@||location.services.mozilla.com^$important
 @@||log.mmstat.com^|
 @@||logentries.com^|
 @@||login.live.com^
@@ -846,6 +852,7 @@
 @@||release.debian.org^$important
 @@||remembering.ca^|
 @@||repo.ivpn.net^$important
+@@||repo.mihak.link^$important
 @@||repo.nxos.org^$important
 @@||repo.vivaldi.com^$important
 @@||repo.vivaldi.netdna-cdn.com^$important
@@ -953,11 +960,12 @@
 @@||t2.pow7.com^
 @@||t3.leech.ie^
 @@||tags.crwdcntrl.net^|
+@@||take-me-to.space^$important
 @@||tawk.to^
 @@||tc-boxing.com^
 @@||tedcdn.com^
 @@||tehconnection.eu^
-@@||temu.com
+@@||temu.com^$important
 @@||terostakepool.com^
 @@||tether.to^
 @@||textsecure-service.whispersystems.org^$important
