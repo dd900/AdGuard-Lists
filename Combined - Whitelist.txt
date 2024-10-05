@@ -504,6 +504,7 @@
 @@||hellominer.com^
 @@||help.ui.xboxlive.com^
 @@||herominers.com^
+@@||hidive.com^|
 @@||hive.io^
 @@||hls.ted.com^
 @@||hodlhodl.com^
