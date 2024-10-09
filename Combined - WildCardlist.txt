@@ -70,7 +70,7 @@
 ||*.degree^$denyallow=opf.degree|three60.degree
 ||*.dental^
 ||*.desi^$denyallow=xhamster.desi
-||*.directory^$denyallow=2fa.directory|passkeys.directory
+||*.directory^$denyallow=2fa.directory|passkeys.directory|reactnative.directory
 ||*.discount^$denyallow=real.discount
 ||*.doubleclick.*^$important
 ||*.download^$denyallow=caido.download|up4ever.download
@@ -148,7 +148,7 @@
 ||*.msedge.net^$important
 ||*.name^
 ||*.navy^
-||*.new^$denyallow=git.new|postgres.new
+||*.new^$denyallow=bolt.new|git.new|postgres.new
 ||*.non^
 ||*.okinawa^
 ||*.ong^
@@ -193,7 +193,7 @@
 ||*.services.social.microsoft.com^$important
 ||*.sew^
 ||*.sexy^$denyallow=privacy.sexy
-||*.shop^$denyallow=11ts.shop|eventix.shop|munu.shop|swedish-supplements.shop|terminal.shop|urlbluemedia.shop
+||*.shop^$denyallow=11ts.shop|chessvibes.shop|eventix.shop|munu.shop|swedish-supplements.shop|terminal.shop|urlbluemedia.shop
 ||*.shopping^
 ||*.site^$denyallow=claude.site|dodi-repacks.site|fbsmarthome.site|fitgirl-repacks.site|gov-img.site|notion.site|reddit-doesnt-like-this.site
 ||*.skin^
@@ -203,7 +203,7 @@
 ||*.spylog.com*^$important
 ||*.store^$denyallow=androeed.store|cleanmasters.store|g-h.store|iqunix.store|shoplazza.store|timberjacks.store
 ||*.style^
-||*.su^
+||*.su^$denyallow=catflix.su
 ||*.support^
 ||*.surf^$denyallow=s-wings.surf
 ||*.tattoo^
@@ -215,7 +215,7 @@
 ||*.today^$denyallow=archive.today|futurology.today|lemmy.today|oldweb.today
 ||*.tokyo^
 ||*.top^$denyallow=1stream.top|ambr.top|caitlin.top|chillx.top|corriente.top|doubledouble.top|edgeless.top|mastodon.top|mianbeian.top|nfmirrorcdn.top|pegelinux.top|pressplay.top|reminder.top|shucks.top|strims.top|suiten.top|techblog.top|thedesk.top|vsdb.top
-||*.top^$dnstype=~CNAME,denyallow=caitlin.top|callmebymygender.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|techblog.top|changlam10.top|changlam11.top|pdcdn1.top|mastodon.top|pressplay.top|chillx.top|strims.top|thedesk.top|audioforyou.top|pegelinux.top|awavenue.top|reyhub.top|iboxs.top
+||*.top^$dnstype=~CNAME,denyallow=caitlin.top|callmebymygender.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|techblog.top|changlam10.top|changlam11.top|pdcdn1.top|mastodon.top|pressplay.top|chillx.top|strims.top|thedesk.top|audioforyou.top|pegelinux.top|awavenue.top|reyhub.top|iboxs.top|adrules.top
 ||*.trade^$denyallow=composer.trade|kite.trade
 ||*.trading^
 ||*.trafficmanager.net^$important
