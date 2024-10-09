@@ -257,6 +257,7 @@
 @@||cherry-stake-pool.online^
 @@||chihaya.de^
 @@||chihaya.toss.li^
+@@||childcare.texas.gov^$important
 @@||cindyholbrook.lpages.co^|
 @@||citiintl.122.2o7.net^|
 @@||cj.dotomi.com^|
@@ -303,6 +304,7 @@
 @@||connectivitycheck.gstatic.com^$important
 @@||contentproxy.signal.org^$important
 @@||continuum.dds.microsoft.com^
+@@||cop28.com^$important
 @@||cosmos.network^
 @@||cosmostation.io^
 @@||counter-currents.com^$important
@@ -398,6 +400,7 @@
 @@||edgepools.org^
 @@||eds.xboxlive.com^
 @@||edu.uifr.ru^
+@@||electronjs.org^$important
 @@||elitezones.ro^
 @@||email.*.skyeng.ru^|
 @@||email.amaze.co^$important
@@ -432,6 +435,7 @@
 @@||exploremonero.com^
 @@||extra.linuxmint.com^$important
 @@||extras.ubuntu.com^$important
+@@||f-gear.ec-optimizer.com^|
 @@||f2pool.com^
 @@||fairhash.org^
 @@||fairpool.eu^
@@ -541,6 +545,7 @@
 @@||intersport.peerius.com^|
 @@||ios.prod.http1.netflix.com^$important
 @@||iota.coloros.com^$important
+@@||ipinfo.io^$important
 @@||iplayer.api.bbc.co.uk^$important
 @@||iplayertokfs.fplive.net^$important
 @@||ipv4.tracker.harry.lu^
@@ -670,6 +675,7 @@
 @@||msftncsi.com^
 @@||msftncsi.com^$important
 @@||msn.com^$important
+@@||multiembed.mov^$important
 @@||music.apple.com^$important
 @@||musicstatus-*.itunes-apple.com.akadns.net^$important
 @@||musicstatus.itunes.apple.com^$important
@@ -677,6 +683,7 @@
 @@||my.plexapp.com^
 @@||my.tealiumiq.com^|
 @@||myetherwallet.com^
+@@||myip.com^$important
 @@||myminingpool.uk^
 @@||mynano.ninja^
 @@||nagios.tks.sumy.ua^
@@ -800,6 +807,7 @@
 @@||pool.ntp.org^$important
 @@||pool.pm^
 @@||poolrank.net^
+@@||portainer.io^$important
 @@||ports.debian.org^$important
 @@||ports.ubuntu.com^$important
 @@||potuk.com^
@@ -905,6 +913,7 @@
 @@||shapeshift.com^
 @@||share.camoe.cn^
 @@||shnflac.net^
+@@||showmyip.com^$important
 @@||siambt.com^
 @@||sideshift.ai^
 @@||sienna.network^
@@ -915,6 +924,7 @@
 @@||solana.com^
 @@||solanabeach.io^
 @@||solflare.com^
+@@||solidigm.com^$important
 @@||sources.debian.net^$important
 @@||sparkadapool.eu^
 @@||spclient.wg.spotify.com^
@@ -1013,6 +1023,7 @@
 @@||tr.rdrtr.com^|
 @@||tr.ready4.icu^
 @@||tr2.ysagin.top^
+@@||tracemyip.org^$important
 @@||track.rutarget.ru^|
 @@||track.webgains.com^|
 @@||tracker-udp.gbitt.info^
@@ -1154,6 +1165,7 @@
 @@||uatracker.net^
 @@||ubuntu.mirrors.uk2.net^$important
 @@||ubuntu.positive-internet.com^$important
+@@||ufsexplorer.com^$important
 @@||ui.skype.com^
 @@||ultra.zt.ua^
 @@||uniswap.org^
@@ -1202,6 +1214,11 @@
 @@||wavespool.io^
 @@||wcpstatic.microsoft.com^$important
 @@||weth.io^
+@@||whatismyip.com^$important
+@@||whatismyipaddress.com^$important
+@@||whatsmyip.com^$important
+@@||whatsmyip.net^$important
+@@||whatsmyip.org^$important
 @@||widget-cdn.rpxnow.com^
 @@||win10.ipv6.microsoft.com^
 @@||windowsupdate.com^$important
@@ -1211,10 +1228,7 @@
 @@||worldboxingvideoarchive.com^
 @@||wp.com^
 @@||ws.audioscrobbler.com^
-@@||www.childcare.texas.gov^$important
-@@||www.cop28.com^$important
 @@||www.dataplicity.com^
-@@||www.electronjs.org^$important
 @@||www.googleadservices.com^|
 @@||www.googleapis.com^
 @@||www.jdoqocy.com^|
@@ -1223,13 +1237,9 @@
 @@||www.msftconnecttest.com^
 @@||www.msftncsi.com^
 @@||www.no-ip.com^
-@@||www.nuget.org^$important
-@@||www.portainer.io^$important
 @@||www.reddit.com^$important
-@@||www.solidigm.com^$important
 @@||www.statcounter.com^|
 @@||www.torrent.eu.org^
-@@||www.ufsexplorer.com^$important
 @@||www.virtualbox.org^$important
 @@||www.wareztorrent.com^
 @@||www.youtube-nocookie.com^
