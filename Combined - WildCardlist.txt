@@ -203,7 +203,7 @@
 ||*.spylog.com*^$important
 ||*.store^$denyallow=androeed.store|cleanmasters.store|g-h.store|iqunix.store|shoplazza.store|timberjacks.store
 ||*.style^
-||*.su^$denyallow=catflix.su
+||*.su^$denyallow=catflix.su|promportal.su
 ||*.support^
 ||*.surf^$denyallow=s-wings.surf
 ||*.tattoo^
@@ -445,6 +445,7 @@
 ||ads-dmp-collect.*.karrotmarket.com^
 ||ads.*^$important
 ||ads.livetv*.me^
+||ads*-normal-hl.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
 ||ads*.bojijulebu.com^
 ||ads*.production-public.tubi.io^
@@ -630,6 +631,7 @@
 ||log*.aliyuncs.com^
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
+||log*.zijieapi.com^
 ||logger-*.dailymotion.com^
 ||logs*.smithsonian.museum^
 ||logservice-*.platform.dbankcloud.cn^
@@ -687,6 +689,7 @@
 ||pixel*.production-public.tubi.io^
 ||pixelapi-*.cs.mysamba.tv^
 ||pointroll.*^$important
+||polaris*-normal-*.zijieapi.com^
 ||prebid-*.rubiconproject.com^
 ||production-adserver-*.amazonaws.com^
 ||pubggf*.xyz^
@@ -756,6 +759,7 @@
 ||telemetry.*^$important
 ||telemetry*.transcend.io^
 ||teleriumads-*.netdna-ssl.com^
+||tnc*.zijieapi.com^
 ||tnc16-*.byteoversea.com^
 ||track.*.roku.com^
 ||tracker.*^$important
