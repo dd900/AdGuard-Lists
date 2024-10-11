@@ -110,8 +110,8 @@
 		<Type>AdGuard</Type>
 		<Url>https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_50.txt</Url>
 	</BlockList>
-
-
+	
+	
 	<BlockList>
 		<Name>Steven Black</Name>
 		<Type>Host</Type>
