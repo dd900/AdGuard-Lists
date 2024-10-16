@@ -189,11 +189,11 @@
 		<Type>Domain</Type>
 		<Url>https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Lists/Scam</Url>
 	</BlockList>
-	<BlockList>
+	<!-- <BlockList>
 		<Name>ShadowWhisperer Risk</Name>
 		<Type>Domain</Type>
 		<Url>https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Lists/Risk</Url>
-	</BlockList>
+	</BlockList> -->
 	<BlockList>
 		<Name>ShadowWhisperer Microsoft</Name>
 		<Type>Domain</Type>
@@ -283,9 +283,9 @@
 		<Type>Domain</Type>
 		<Url>https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt</Url>
 	</WhiteList>
-	<WhiteList>
+	<!-- <WhiteList>
 		<Name>NextDNS - TorrentTrackers</Name>
 		<Type>Domain</Type>
 		<Url>https://github.com/nextdns/piracy-blocklists/raw/master/torrent-trackers</Url>
-	</WhiteList>
+	</WhiteList> -->
 </BlockLists>
