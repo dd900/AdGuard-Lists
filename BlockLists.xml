@@ -288,4 +288,9 @@
 		<Type>Domain</Type>
 		<Url>https://github.com/nextdns/piracy-blocklists/raw/master/torrent-trackers</Url>
 	</WhiteList>
+	<WhiteList>
+		<Name>TorrentTrackers</Name>
+		<Type>Domain</Type>
+		<Url>https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/refs/heads/main/all-torrent-trackres.txt</Url>
+	</WhiteList>
 </BlockLists>
