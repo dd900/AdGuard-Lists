@@ -1,0 +1,7 @@
+@@||samsclub.com^$important,ctag=user_child|user_regular
+@@||walmart.com^$important,ctag=user_child|user_regular
+@@||walmartappstore.com^$important,ctag=user_child|user_regular
+@@||walmartcanada.ca^$important,ctag=user_child|user_regular
+@@||walmartimages.com^$important,ctag=user_child|user_regular
+@@||walmartlabs.com^$important,ctag=user_child|user_regular
+@@||walmartstores.com^$important,ctag=user_child|user_regular
