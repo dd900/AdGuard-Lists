@@ -52,6 +52,7 @@
 @@||account.netflix.com^
 @@||acg.rip^
 @@||acidpools.com^
+@@||acs-m.daraz.com.bd^
 @@||actiontoad.canonical.com^
 @@||acxx.de^
 @@||ad.10010.com^

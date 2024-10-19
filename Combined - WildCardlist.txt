@@ -27,7 +27,7 @@
 ||*.bid^$dnstype=~CNAME
 ||*.bike^$denyallow=rapido.bike
 ||*.bingo^
-||*.biz^$denyallow=anonymurl.biz|beiniz.biz|bonial.biz|cloudns.biz|cyberciti.biz|epson.biz|ette.biz|gimmeporn.biz|iimwf.biz|localise.biz|luckysbarbershop.biz|movabletype.biz|panasonic.biz|slussen.biz|wyborcza.biz|yoox.biz
+||*.biz^$denyallow=anonymurl.biz|beiniz.biz|bonial.biz|cloudns.biz|cyberciti.biz|epson.biz|ette.biz|gamesindustry.biz|gimmeporn.biz|iimwf.biz|localise.biz|luckysbarbershop.biz|movabletype.biz|panasonic.biz|slussen.biz|wyborcza.biz|yoox.biz
 ||*.bizrate^
 ||*.blogads^
 ||*.bluestreak^
@@ -91,7 +91,7 @@
 ||*.fitness^
 ||*.foo^$denyallow=helloworld.foo
 ||*.forsale^
-||*.foundation^$denyallow=e.foundation|grapheneos.foundation
+||*.foundation^$denyallow=e.foundation|grapheneos.foundation|player.foundation
 ||*.fund^
 ||*.fyi^$denyallow=apollo.fyi|better.fyi|genderdysphoria.fyi|iusearchlinux.fyi|levels.fyi|lunar.fyi|vercel.fyi
 ||*.gdn^$denyallow=cst.gdn|pss.gdn
@@ -153,7 +153,7 @@
 ||*.okinawa^
 ||*.ong^
 ||*.ooo^$denyallow=toast.ooo
-||*.partners^
+||*.partners^$denyallow=stripe.partners|xh.partners
 ||*.parts^
 ||*.party^$denyallow=ducks.party|mstdn.party|nezumi.party|spankbang.party
 ||*.pet^$denyallow=kickthespy.pet|kuma.pet
@@ -195,10 +195,10 @@
 ||*.sexy^$denyallow=privacy.sexy
 ||*.shop^$denyallow=11ts.shop|chessvibes.shop|eventix.shop|munu.shop|swedish-supplements.shop|terminal.shop|urlbluemedia.shop
 ||*.shopping^
-||*.site^$denyallow=claude.site|dodi-repacks.site|fbsmarthome.site|fitgirl-repacks.site|gov-img.site|notion.site|reddit-doesnt-like-this.site
+||*.site^$denyallow=aftermath.site|claude.site|dodi-repacks.site|fbsmarthome.site|fitgirl-repacks.site|gov-img.site|notion.site|reddit-doesnt-like-this.site
 ||*.skin^
 ||*.solar^$denyallow=forecast.solar
-||*.space^$denyallow=dragonscave.space|drgns.space|hf.space|httpjames.space|hullseals.space|ippen.space|link.space|melmac.space|mempool.space|metahub.space|monitorburz.space|oldbytes.space|qwik.space|realcushion.space|searx.space|takeb1nzyto.space|truepeople.space
+||*.space^$denyallow=dragonscave.space|drgns.space|hf.space|httpjames.space|hullseals.space|ippen.space|link.space|melmac.space|mempool.space|metahub.space|monitorburz.space|ocr.space|oldbytes.space|qwik.space|realcushion.space|searx.space|takeb1nzyto.space|truepeople.space
 ||*.sport^
 ||*.spylog.com*^
 ||*.store^$denyallow=androeed.store|cleanmasters.store|g-h.store|iqunix.store|shoplazza.store|timberjacks.store
@@ -445,7 +445,7 @@
 ||ads-dmp-collect.*.karrotmarket.com^
 ||ads.*^
 ||ads.livetv*.me^
-||ads*-normal-hl.zijieapi.com^
+||ads*-normal-*.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
 ||ads*.bojijulebu.com^
 ||ads*.production-public.tubi.io^
@@ -628,6 +628,7 @@
 ||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||log*-misc-lf.amemv.com^
+||log*-normal-*.tiktokv.us^
 ||log*.aliyuncs.com^
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
@@ -667,6 +668,7 @@
 ||mon*-platform-*.tiktokv.com^
 ||monetrizer*.
 ||ms*.applvn.com^
+||mssdk*.zijieapi.com^
 ||my-altinn*
 ||nextag.*^
 ||no-forny*
