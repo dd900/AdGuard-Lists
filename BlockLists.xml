@@ -3,7 +3,7 @@
 	<BlockList>
 		<Name>DD900 Blacklist</Name>
 		<Type>AdGuard</Type>
-		<Url>https://cloud.toodementianull.com/s/Blacklist/download/Blacklist.txt</Url>
+		<Url>https://raw.githubusercontent.com/dd900/AdGuard-Lists/refs/heads/master/Blacklists/Blacklist.txt</Url>
 	</BlockList>
 	<BlockList>
 		<Name>AdGuard DNS Filter</Name>
