@@ -1,0 +1,10 @@
+@@||*.aax-us-east.amazon-adsystem.com^$important,ctag=user_child|user_regular
+@@||*.amazonappstore.com^$important,ctag=user_child|user_regular
+@@||amazon-adsystem.com^$important,ctag=user_child|user_regular
+@@||amazon.com^$important,ctag=user_child|user_regular
+@@||amazonappservices.com^$important,ctag=user_child|user_regular
+@@||amazonaws.com^$important,ctag=user_child|user_regular
+@@||amazonpay.com^$important,ctag=user_child|user_regular
+@@||amazonvideo.com^$important,ctag=user_child|user_regular
+@@||amzn.com^$important,ctag=user_child|user_regular
+@@||kindle.com^$important,ctag=user_child|user_regular
