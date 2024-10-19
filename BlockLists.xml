@@ -276,7 +276,7 @@
 	<WhiteList>
 		<Name>DD900 - Whitelist</Name>
 		<Type>AdGuard</Type>
-		<Url>https://cloud.toodementianull.com/s/Whitelist/download/Whitelist.txt</Url>
+		<Url>https://raw.githubusercontent.com/dd900/AdGuard-Lists/refs/heads/master/Whitelists/Whitelist.txt</Url>
 	</WhiteList>
 	<WhiteList>
 		<Name>anudeepND - Whitelist</Name>
