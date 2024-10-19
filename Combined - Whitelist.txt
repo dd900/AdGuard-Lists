@@ -1280,7 +1280,6 @@
 @@||tk2v6.trackerservers.com^
 @@||tlaol.com^
 @@||tms.capitalone.com^
-@@||toodementianull.com^
 @@||tor.rev.pm^
 @@||torimochi.line-apps.com^
 @@||torrent-team.net^
