@@ -229,7 +229,7 @@
 	<BlockList>
 		<Name>Bad-IPs</Name>
 		<Type>IP</Type>
-		<Url>https://raw.githubusercontent.com/dd900/AdGuard-Lists/refs/heads/master/Bad-IPs.txt</Url>
+		<Url>https://raw.githubusercontent.com/dd900/AdGuard-Lists/refs/heads/master/Other/Bad-IPs.txt</Url>
 	</BlockList>
 	<BlockList>
 		<Name>pgl yoyo adservers</Name>
@@ -259,7 +259,7 @@
 	<BlockList>
 		<Name>Binary Defense Systems</Name>
 		<Type>IP</Type>
-		<Url>https://www.binarydefense.com/banlist.txt</Url>
+		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bds_atif.ipset</Url>
 	</BlockList>
 	<BlockList>
 		<Name>blocklist de</Name>
