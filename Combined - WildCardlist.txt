@@ -74,7 +74,7 @@
 ||*.discount^$denyallow=real.discount
 ||*.doubleclick.*^
 ||*.download^$denyallow=caido.download|up4ever.download
-||*.eco^
+||*.eco^$denyallow=play.eco
 ||*.esq^$denyallow=erika.esq
 ||*.eth0.me^
 ||*.events^$denyallow=ticketco.events
@@ -130,7 +130,7 @@
 ||*.location.live.net^
 ||*.lol^$denyallow=adsb.lol|anarchychess.lol|broke.lol|browser.lol|dankmemer.lol|hubcloud.lol|io.lol|kizuki.lol|lemy.lol|library.lol|limetorrents.lol|nos.lol|noted.lol|objection.lol|omg.lol|paste.lol|proven.lol|social.lol|status.lol|weblog.lol
 ||*.love^
-||*.ltd^$denyallow=homebrew.ltd
+||*.ltd^$denyallow=homebrew.ltd|swizzin.ltd
 ||*.luxe^
 ||*.makeup^$denyallow=bird.makeup
 ||*.management^
