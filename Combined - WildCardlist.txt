@@ -511,7 +511,6 @@
 ||best202*-games-web1.com^
 ||bi-eventtracker-*.amazonaws.com^
 ||block.s*block.com^
-||bms*.adjarabet.com^
 ||bondzgi*.^
 ||booking.com-id*^
 ||booklng.com-*^
