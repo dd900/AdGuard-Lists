@@ -1319,6 +1319,7 @@
 @@||tr2.cubonegro.lol^
 @@||tr2.trkb.ru^
 @@||tr2.ysagin.top^
+@@||tr3.ysagin.top^
 @@||tr4ck3r.duckdns.org^
 @@||tracemyip.org^
 @@||track.plop.pm^
@@ -1455,6 +1456,7 @@
 @@||tracker.jamesthebard.net^
 @@||tracker.jdx3.org^
 @@||tracker.jiesen.life^
+@@||tracker.jobser.eu^
 @@||tracker.jonaslsa.com^
 @@||tracker.jordan.im^
 @@||tracker.joybomb.tw^
