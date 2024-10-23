@@ -734,6 +734,7 @@
 ||secure-0*.ddnss.ch^
 ||secure-access-*.gate23.xyz^
 ||sensorsdata*.read.duokan.com^
+||servo-report.keepstreams.*^
 ||snowplow-collector-*.amazonaws.com^
 ||sock*-goguardian.pusher.com^
 ||speedera.*^
