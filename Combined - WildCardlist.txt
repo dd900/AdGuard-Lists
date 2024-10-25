@@ -148,7 +148,7 @@
 ||*.msedge.net^
 ||*.name^
 ||*.navy^
-||*.new^$denyallow=bolt.new|git.new|lecture.new|postgres.new
+||*.new^$denyallow=bolt.new|doc.new|drawing.new|form.new|git.new|lecture.new|postgres.new|sheet.new|site.new|slide.new
 ||*.non^
 ||*.okinawa^
 ||*.ong^

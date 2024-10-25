@@ -115,7 +115,7 @@
 	<BlockList>
 		<Name>Steven Black</Name>
 		<Type>Host</Type>
-		<Url>https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_6.txt</Url>
+		<Url>https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_33.txt</Url>
 		<HostIP>0.0.0.0</HostIP>
 	</BlockList>
 	<BlockList>
