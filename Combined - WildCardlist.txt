@@ -91,7 +91,7 @@
 ||*.fitness^
 ||*.foo^$denyallow=helloworld.foo
 ||*.forsale^
-||*.foundation^$denyallow=e.foundation|grapheneos.foundation|player.foundation
+||*.foundation^$denyallow=e.foundation|grapheneos.foundation|jp.foundation|player.foundation
 ||*.fund^
 ||*.fyi^$denyallow=apollo.fyi|better.fyi|genderdysphoria.fyi|iusearchlinux.fyi|levels.fyi|lunar.fyi|vercel.fyi
 ||*.gdn^$denyallow=cst.gdn|pss.gdn
