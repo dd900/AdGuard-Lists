@@ -271,7 +271,7 @@
 ||*.restaurant^
 ||*.review^
 ||*.rich^
-||*.rip^$denyallow=medium.rip|scribe.rip
+||*.rip^$denyallow=highquality.rip|medium.rip|scribe.rip
 ||*.rodeo^
 ||*.rugby^
 ||*.sale^
