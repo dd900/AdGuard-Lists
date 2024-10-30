@@ -661,6 +661,7 @@
 @@||ipv6.tracker.harry.lu^
 @@||irisnet.org^
 @@||isk.richardsw.club^
+@@||ismaarino.com^
 @@||itera.bz^
 @@||jeremylee.sh^
 @@||jquery.com^
@@ -1080,6 +1081,7 @@
 @@||s2.youtube.com^
 @@||sa.symcb.com^
 @@||sabross.xyz^
+@@||saltwood.top^
 @@||samsungnewsapi.picks.my^$important
 @@||sanincode.com^
 @@||sax.sina.com.cn^|
