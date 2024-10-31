@@ -281,7 +281,7 @@
 ||*.scorecardresearch.com^
 ||*.services.social.microsoft.com^
 ||*.sew^
-||*.sexy^$denyallow=privacy.sexy
+||*.sexy^$denyallow=privacy.sexy|terminal.sexy
 ||*.shop^$denyallow=11ts.shop|chessvibes.shop|eventix.shop|munu.shop|swedish-supplements.shop|terminal.shop|urlbluemedia.shop
 ||*.shopping^
 ||*.site^$denyallow=aftermath.site|claude.site|dodi-repacks.site|fbsmarthome.site|fitgirl-repacks.site|gov-img.site|notion.site|reddit-doesnt-like-this.site
