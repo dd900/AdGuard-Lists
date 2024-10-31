@@ -610,6 +610,7 @@
 ||cdn-adn-*.rayjump.com^
 ||cdn*.swaxis.com^
 ||ce-global-track-*.amazonaws.com^
+||cffsbbhost-aniamaria*.codeanyapp.com^
 ||cl*.k5a.io^
 ||clk.rtpdn*.com^
 ||clog*.yuanfudao.com^
