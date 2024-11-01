@@ -266,7 +266,7 @@
 ||*.recipes^
 ||*.red^$denyallow=bunkr.red
 ||*.rehab^
-||*.rent^
+||*.rent^$denyallow=srv.rent
 ||*.rest^$denyallow=crystals.rest|nect.rest
 ||*.restaurant^
 ||*.review^
@@ -312,7 +312,7 @@
 ||*.vegas^
 ||*.ventures^
 ||*.vin^
-||*.vip^$denyallow=18comic.vip|ryde.vip|stream.vip
+||*.vip^$denyallow=18comic.vip|ryde.vip|stream.vip|yesporn.vip
 ||*.virtualearth.net^
 ||*.vision^
 ||*.vlaanderen^
@@ -770,6 +770,7 @@
 ||pangolin*.sgsnssdk.com^
 ||parkdomainreal*.site^
 ||partner.superbahisaffiliates*.com^
+||paypal*.blogspot.
 ||pijama.*.elasticbeanstalk.com^
 ||piwik.*.com.vn^
 ||piwik.*.vn^
