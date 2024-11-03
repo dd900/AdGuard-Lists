@@ -118,7 +118,9 @@
 ||*.bingo^
 ||*.biz^$denyallow=anonymurl.biz|beiniz.biz|bonial.biz|cloudns.biz|cyberciti.biz|epson.biz|ette.biz|gamesindustry.biz|gimmeporn.biz|iimwf.biz|localise.biz|luckysbarbershop.biz|movabletype.biz|panasonic.biz|slussen.biz|wyborcza.biz|yoox.biz
 ||*.bizrate^
+||*.black^
 ||*.blogads^
+||*.blue^
 ||*.bluestreak^
 ||*.boats^
 ||*.bond^
@@ -130,10 +132,12 @@
 ||*.buzz^$denyallow=sideb.buzz
 ||*.cam^
 ||*.capital^$denyallow=scalable.capital
+||*.care^
 ||*.careers^
 ||*.casa^$denyallow=nabu.casa
 ||*.casalemedia^
 ||*.cash^
+||*.casino^
 ||*.center^$denyallow=priv.center
 ||*.cfd^$denyallow=freedium.cfd
 ||*.charity^
@@ -154,6 +158,7 @@
 ||*.dance^
 ||*.date^$denyallow=endoflife.date
 ||*.dating^
+||*.day^$denyallow=hubcloud.day
 ||*.dc-msedge.net^
 ||*.deals^$denyallow=gg.deals
 ||*.degree^$denyallow=opf.degree|three60.degree
@@ -208,8 +213,11 @@
 ||*.imiclk.*^
 ||*.ink^$denyallow=ishortn.ink|next.ink|short.ink|sumerian.ink|work.ink
 ||*.international^
+||*.irish^
 ||*.kim^
 ||*.lat^
+||*.legal^
+||*.lgbt^
 ||*.life^$denyallow=2ch.life|akamaicdn.life|circles.life|colorgame.life|digitalcitizen.life|iboost.life|lifetime.life|loveinfaith.life|stepone.life|yiff.life
 ||*.llp^
 ||*.loan^
@@ -251,6 +259,7 @@
 ||*.photo^
 ||*.photos^$denyallow=picsum.photos
 ||*.pics^$denyallow=pixers.pics|sexhd.pics|slow.pics|twic.pics
+||*.pictures^
 ||*.pink^
 ||*.pizza^$denyallow=tux.pizza
 ||*.place^$denyallow=gamedev.place
@@ -258,6 +267,7 @@
 ||*.post^
 ||*.prof^$denyallow=casey.prof
 ||*.promo^
+||*.pub^
 ||*.qualitrics.com^
 ||*.quest^$denyallow=dice.quest|epochal.quest|mhn.quest|mylegendary.quest|prometheus.quest|raccoon.quest|squash.quest
 ||*.rad.msn.com^
@@ -292,9 +302,10 @@
 ||*.spylog.com*^
 ||*.store^$denyallow=androeed.store|cleanmasters.store|g-h.store|iqunix.store|shoplazza.store|timberjacks.store
 ||*.style^
-||*.su^$denyallow=catflix.su|promportal.su
+||*.su^$denyallow=catflix.su|encode.su|promportal.su
 ||*.support^
 ||*.surf^$denyallow=s-wings.surf
+||*.sydney^
 ||*.tattoo^
 ||*.tax^
 ||*.taxi^
@@ -309,6 +320,7 @@
 ||*.trading^
 ||*.trafficmanager.net^
 ||*.uno^
+||*.vacations^
 ||*.vegas^
 ||*.ventures^
 ||*.vin^
