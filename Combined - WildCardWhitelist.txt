@@ -1,8 +1,3 @@
-@@||*.liveaquaria.com^
-@@||*.msftconnecttest.com^
-@@||*.msftncsi.com^
-@@||*.msn.com^
-@@||*.rmbl.ws^
 @@||*ota.oppomobile.com^
 @@||api-glb-euw*b.smoot.apple.com^
 @@||api-v*.trbo.com^|

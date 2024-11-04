@@ -120,7 +120,6 @@
 @@||api.ipify.org^
 @@||api.ipv4online.uk^
 @@||api.karte.io^|
-@@||api.nuget.org^
 @@||api.rlje.net^
 @@||api.roku.com^
 @@||api.saasexch.com^
@@ -324,7 +323,6 @@
 @@||chihaya-heroku.120181311.xyz^
 @@||chihaya.de^
 @@||chihaya.toss.li^
-@@||childcare.texas.gov^
 @@||chouchou.top^
 @@||cindyholbrook.lpages.co^|
 @@||citiintl.122.2o7.net^|
@@ -466,6 +464,7 @@
 @@||dpiui.reedlan.com^
 @@||drift.com^
 @@||driftt.com^
+@@||dropboxusercontent.com^
 @@||drteam.rocks^
 @@||drumkitx.com^
 @@||dxpool.com^
@@ -712,6 +711,7 @@
 @@||links.e.theatlantic.com^|
 @@||links.getblueshift.com^|
 @@||liquid.net^
+@@||liveaquaria.com^
 @@||livepassdl.conviva.com^
 @@||lloria.fr^
 @@||ln.mtahost.co^
@@ -1032,8 +1032,12 @@
 @@||raw.githubusercontent.com^
 @@||rc.samsungweather.com^
 @@||recommender.scarabresearch.com^|
+@@||redd.it^
 @@||reddit-uploaded-media.s3-accelerate.amazonaws.com^
+@@||reddit.com^
 @@||reddit.map.fastly.net^
+@@||redditmedia.com^
+@@||redditstatic.com^
 @@||redir.ownpage.fr^|
 @@||redir.tradedoubler.com^|
 @@||redirect.appmetrica.yandex.com^|
@@ -1073,6 +1077,7 @@
 @@||retronfts.art^
 @@||revolutionchain.it^
 @@||rfc5746.mywaifu.best^
+@@||rmbl.ws^
 @@||romfs.foreign.oppomobile.com^
 @@||rt.optizone.ru^
 @@||rt.tace.ru^
@@ -1206,6 +1211,7 @@
 @@||temu.com^
 @@||terostakepool.com^
 @@||tether.to^
+@@||texas.gov^
 @@||textsecure-service.whispersystems.org^
 @@||tezos.com^
 @@||thagoat.rocks^
@@ -1719,8 +1725,6 @@
 @@||www.nekos96.xyz^
 @@||www.peckservers.com^
 @@||www.reddit.com^
-@@||www.redditmedia.com^
-@@||www.redditstatic.com^
 @@||www.skynetcenter.me^
 @@||www.statcounter.com^|
 @@||www.torrent.eu.org^

@@ -1,4 +1,0 @@
-@@/(\.|^)redd\.it/
-@@/(\.|^)reddit\.com/
-@@/(\.|^)twimg\.com/
-@@/[a-z]\.thumbs\.redditmedia\.com/
