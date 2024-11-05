@@ -575,7 +575,6 @@
 @@||go.xxxviijmp.com^
 @@||gochain.io^
 @@||godex.io^
-@@||googleapis.com^
 @@||goto.target.com^|
 @@||goto.walmart.com^|
 @@||gravatar.com^
