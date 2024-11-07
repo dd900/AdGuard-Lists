@@ -594,6 +594,7 @@
 ||atwola.*^
 ||aussie-gamer.com^$denyallow=the-site-was-stolen-by-casino-link-spammers.*
 ||auth-*.hismarttv.com^
+||authsignonstaff*.softr.app^
 ||ax.*.ifeng.com^
 ||banner.*.tccapis.com^
 ||banner.*^
@@ -711,6 +712,7 @@
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||ja*.gamersky.com^
+||jb*img.top^
 ||jessica.*.net^
 ||js.overture.*^
 ||js*.abolezi.com^
@@ -839,6 +841,7 @@
 ||servo-report.keepstreams.*^
 ||snowplow-collector-*.amazonaws.com^
 ||sock*-goguardian.pusher.com^
+||sos-bg-sof-*.exo.io^
 ||speedera.*^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^

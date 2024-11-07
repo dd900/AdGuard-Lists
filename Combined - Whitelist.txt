@@ -1247,6 +1247,7 @@
 @@||tk1v6.trackerservers.com^
 @@||tk2.trackerservers.com^
 @@||tk2v6.trackerservers.com^
+@@||tk4.leechshield.link^
 @@||tlaol.com^|
 @@||tms.capitalone.com^|
 @@||tor.rev.pm^
