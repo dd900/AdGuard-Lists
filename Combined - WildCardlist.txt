@@ -335,7 +335,7 @@
 ||*.webcam^
 ||*.website^$denyallow=acro.website|bestmotherfucking.website|eddie.website|thatsup.website|tilde.website
 ||*.wedding^
-||*.wiki^$denyallow=bg3.wiki|burnout.wiki|datei.wiki|debrid.wiki|fallout.wiki|getindie.wiki|hollowknight.wiki|kodi.wiki|kometa.wiki|manson.wiki|mediaclients.wiki|minecraft.wiki|modding.wiki|namu.wiki|nixos.wiki|notifiarr.wiki|osrs.wiki|rs.wiki|runescape.wiki|thehomelab.wiki|usermanual.wiki|w.wiki|zeppelin.wiki
+||*.wiki^$denyallow=bg3.wiki|burnout.wiki|datei.wiki|debrid.wiki|fallout.wiki|getindie.wiki|hollowknight.wiki|kodi.wiki|kometa.wiki|manson.wiki|mediaclients.wiki|minecraft.wiki|modding.wiki|namu.wiki|nixos.wiki|notifiarr.wiki|osrs.wiki|rs.wiki|runescape.wiki|tajrobe.wiki|thehomelab.wiki|usermanual.wiki|w.wiki|zeppelin.wiki
 ||*.win^$denyallow=activated.win
 ||*.wine^$denyallow=nostr.wine
 ||*.work^$denyallow=elphago.work|frame.work|koding.work|searx.work

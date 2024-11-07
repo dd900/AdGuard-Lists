@@ -1289,6 +1289,7 @@
 @@||tr.rdrtr.com^|
 @@||tr.ready4.icu^
 @@||tr.torland.ga^
+@@||tr.zukizuki.org^
 @@||tr1.aag.moe^
 @@||tr2.cubonegro.lol^
 @@||tr2.trkb.ru^
