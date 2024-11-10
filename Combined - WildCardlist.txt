@@ -259,7 +259,7 @@
 ||*.photo^
 ||*.photos^$denyallow=picsum.photos
 ||*.pics^$denyallow=pixers.pics|sexhd.pics|slow.pics|twic.pics
-||*.pictures^
+||*.pictures^$denyallow=comick.pictures
 ||*.pink^
 ||*.pizza^$denyallow=tux.pizza
 ||*.place^$denyallow=gamedev.place
