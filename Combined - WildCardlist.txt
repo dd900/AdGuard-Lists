@@ -267,7 +267,7 @@
 ||*.post^
 ||*.prof^$denyallow=casey.prof
 ||*.promo^
-||*.pub^
+||*.pub^$denyallow=infosec.pub
 ||*.qualitrics.com^
 ||*.quest^$denyallow=dice.quest|epochal.quest|mhn.quest|mylegendary.quest|prometheus.quest|raccoon.quest|squash.quest
 ||*.rad.msn.com^
