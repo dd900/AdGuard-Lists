@@ -712,7 +712,6 @@
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||ja*.gamersky.com^
-||jb*img.top^
 ||jessica.*.net^
 ||js.overture.*^
 ||js*.abolezi.com^
