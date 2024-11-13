@@ -666,6 +666,7 @@
 ||events-api*.outfit7.com^
 ||events*.cre.ma^
 ||f-log-*.grammarly.io^
+||facture-pdf-secure-*.vercel.app^
 ||fadverdirect.com^$denyallow=malware-redirection-trains.*
 ||falkag.*^
 ||fan-page-*.surge.sh^
