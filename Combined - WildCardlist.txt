@@ -617,6 +617,7 @@
 ||booklng.com-*
 ||botashunter*
 ||briana.*.com^
+||broredir*s.site^
 ||browser-intake-*-datadoghq.com^
 ||business-facebook-*.pages.dev^
 ||c*hit.zerkalo.io^
@@ -841,6 +842,7 @@
 ||servo-report.keepstreams.*^
 ||snowplow-collector-*.amazonaws.com^
 ||sock*-goguardian.pusher.com^
+||sonar*.xy.fbcdn.net^
 ||sos-bg-sof-*.exo.io^
 ||speedera.*^
 ||ssp*.rtb.beeline.ru^
