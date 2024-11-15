@@ -1,4 +1,5 @@
 -adx-*.rayjump.com^
+-applog*.fqnovel.com^
 ://*.a-akamaihd.com^
 ://193.143.1.*
 ://r.reklam*.com^
@@ -404,6 +405,7 @@
 ||mobileanalytics.*.amazonaws.com^
 ||mon-*.tiktokv.com^
 ||mon*-*.tiktokv.us^
+||mon*-misc-lf.fqnovel.com^
 ||mon*-platform-*.tiktokv.com^
 ||monetrizer*.
 ||ms*.applvn.com^
