@@ -1,3 +1,8 @@
+! Title: Combined - WildCardlist
+! Homepage: https://github.com/dd900/AdGuard-Lists
+! Last modified: 16 Nov 2024 01:49 UTC
+! Version: 2024.1116.0149
+
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
 ://*.a-akamaihd.com^
@@ -503,6 +508,7 @@
 ||tag.*^
 ||techorfy.com^$denyallow=had-not-updated-their-root-guides-to-reflect-a-b-partition-phones-as-of-2021.*
 ||telemetry.*^
+||telemetry*.api.playstation.com^
 ||telemetry*.transcend.io^
 ||teleriumads-*.netdna-ssl.com^
 ||tnc*.zijieapi.com^
