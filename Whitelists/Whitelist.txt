@@ -38,17 +38,13 @@
 @@||mobile.twitter.com^
 @@||msdn.microsoft.com^
 @@||msftconnecttest.com^
-@@||msftconnecttest.com^
 @@||msftncsi.com^
-@@||msftncsi.com^
-@@||msn.com^
 @@||msn.com^
 @@||multiembed.mov^
 @@||myip.com^
 @@||nexus.ensighten.com^
 @@||ns1.dropbox.com^
 @@||ns2.dropbox.com^
-@@||nuget.org^
 @@||nuget.org^
 @@||open.spotify.com^
 @@||papertrailapp.com^
