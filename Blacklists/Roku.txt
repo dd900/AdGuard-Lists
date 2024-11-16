@@ -1,27 +1,16 @@
-#||*.roku.com^$ctag=device_tv
-#||*.rokutime.com^$ctag=device_tv
-#||netflix.com^$ctag=device_tv
-#||roku.com^$ctag=device_tv
-#||rokutime.com^$ctag=device_tv
+! Title: Roku Blacklist
+! Description: Roku is Full of Shit
+! Homepage: https://github.com/dd900/AdGuard-Lists
+! Last modified: 15 Nov 2024 00:50 UTC
+! Version: 2.0.0.0
+! Syntax: AdGuard
+
 /([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.com/$ctag=device_tv
 /(ads|captive|logs)\.roku\.com/$ctag=device_tv
-||*.*.doubleclick.net^$ctag=device_tv
-||*.adsmeasurement.com^$ctag=device_tv
-||*.cs.roku.com^$ctag=device_tv
-||*.cti.roku.com^$ctag=device_tv
-||*.doubleclick.net^$ctag=device_tv
-||*.g.doubleclick.net^$ctag=device_tv
-||*.googleadservices.com^$ctag=device_tv
-||*.googlesyndication.com^$ctag=device_tv
-||*.hgagecdn.com^$ctag=device_tv
-||*.ravm.tv^$ctag=device_tv
-||*.rpay.roku.com^$ctag=device_tv
-||*.sb.roku.com^$ctag=device_tv
-||*.sr.roku.com^$ctag=device_tv
-||*.voice.roku.com^$ctag=device_tv
 ||adsmeasurement.com^$ctag=device_tv
 ||cs.roku.com^$ctag=device_tv
 ||cti.roku.com^$ctag=device_tv
+||doubleclick.net^$ctag=device_tv
 ||giga.cores.roku.com^$ctag=device_tv
 ||googleadservices.com^$ctag=device_tv
 ||googlesyndication.com^$ctag=device_tv
