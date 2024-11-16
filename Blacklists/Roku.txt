@@ -1,9 +1,7 @@
 ! Title: Roku Blacklist
-! Description: Roku is Full of Shit
 ! Homepage: https://github.com/dd900/AdGuard-Lists
 ! Last modified: 15 Nov 2024 00:50 UTC
 ! Version: 2.0.0.0
-! Syntax: AdGuard
 
 /([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.com/$ctag=device_tv
 /(ads|captive|logs)\.roku\.com/$ctag=device_tv
