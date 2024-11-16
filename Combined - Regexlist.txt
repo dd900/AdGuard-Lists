@@ -1,7 +1,7 @@
 ! Title: Combined - Regexlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 16 Nov 2024 12:52 UTC
-! Version: 2024.1116.1252
+! Last modified: 16 Nov 2024 20:52 UTC
+! Version: 2024.1116.2052
 
 /_dating\d\/index\.html\?aref=/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
