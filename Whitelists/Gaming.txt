@@ -1,3 +1,8 @@
+! Title: Gaming Whitelist
+! Homepage: https://github.com/dd900/AdGuard-Lists
+! Last modified: 15 Nov 2024 00:50 UTC
+! Version: 2.0.0.0
+
 @@||activity.windows.com^$important,ctag=user_child|device_gameconsole
 @@||client.wns.windows.com^$important,ctag=user_child|device_gameconsole
 @@||collections.md.mp.microsoft.com^$important,ctag=user_child|device_gameconsole
