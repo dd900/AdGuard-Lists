@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 19 Nov 2024 12:52 UTC
-! Version: 2024.1119.1252
+! Last modified: 19 Nov 2024 20:52 UTC
+! Version: 2024.1119.2052
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -475,6 +475,7 @@
 ||salomonusa*
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
+||santanderpod.*.co.uk^
 ||sarah.*.com^
 ||sarah.*.net^
 ||sauconyoutlet*
