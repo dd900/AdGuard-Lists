@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 21 Nov 2024 12:52 UTC
-! Version: 2024.1121.1252
+! Last modified: 23 Nov 2024 01:50 UTC
+! Version: 2024.1123.0150
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -285,6 +285,7 @@
 ||cpmrvdirect.com^$denyallow=malware-redirection-trains.*
 ||cpmverdirect.com^$denyallow=malware-redirection-trains.*
 ||cpmvrdirect.com^$denyallow=malware-redirection-trains.*
+||creative*.bidease.com^
 ||creatives.*^
 ||cs*.mp3bars.com^
 ||csgogf*.xyz^
