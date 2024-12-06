@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 06 Dec 2024 06:48 UTC
-! Version: 2024.1206.0648
+! Last modified: 06 Dec 2024 14:48 UTC
+! Version: 2024.1206.1448
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2024-12-06T06:48:25.062Z
+! Last modified: 2024-12-06T14:48:31.876Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -822,6 +822,7 @@
 @@||tracker.ygsub.com^
 @@||tracker.yoshi210.com^
 @@||tracker.yuelili.com^
+@@||tracker.yume-hatsuyuki.moe^
 @@||tracker.zaluan.xyz^
 @@||tracker.zekun.fun^
 @@||tracker.zemoj.com^
