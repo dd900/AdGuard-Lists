@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 11 Dec 2024 22:50 UTC
-! Version: 2024.1211.2250
+! Last modified: 22 Dec 2024 23:19 UTC
+! Version: 2024.1222.2319
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -208,6 +208,7 @@
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||aff*.kolektiva.net^
+||ajmaboxanherulv*.b-cdn.net^
 ||ali-bj-pcdn-*.biliapi.net^
 ||alishop*.ru^
 ||all-best-prize-202*.com^$denyallow=malware-site.*
@@ -223,6 +224,7 @@
 ||analyzer*.fc2.com^
 ||androidgreek.com^$denyallow=had-not-updated-their-root-guides-to-reflect-a-b-partition-phones-as-of-2021.*
 ||androidweblog.com^$denyallow=had-not-updated-their-root-guides-to-reflect-a-b-partition-phones-as-of-2021.*
+||anti-automation-v*.b-cdn.net^
 ||api-*.hismarttv.com^
 ||api.*.hismarttv.com^
 ||api*.amplitude.com^
@@ -264,6 +266,7 @@
 ||bondzgi*.
 ||booking.com-id*
 ||booklng.com-*
+||bot-check-v*.b-cdn.net^
 ||botashunter*
 ||briana.*.com^
 ||browser-intake-*-datadoghq.com^
@@ -299,6 +302,7 @@
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
+||dedicloadpgeing*.b-cdn.net^
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||dlscord*.
@@ -321,6 +325,7 @@
 ||fan-page-*.surge.sh^
 ||fanpingbi*.gaokao.com^
 ||faro-collector-prod-*.grafana.net^
+||file-typ-botcheck*.b-cdn.net^
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
@@ -362,6 +367,7 @@
 ||iphone-caviar.ru*entranceId
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
+||izmncdnboxuse*.b-cdn.net^
 ||ja*.gamersky.com^
 ||jessica.*.net^
 ||js.overture.*^
@@ -425,8 +431,10 @@
 ||mssdk-*.tiktokw.us^
 ||mssdk*.zijieapi.com^
 ||my-altinn*
+||newverifyyourself-system*.b-cdn.net^
 ||nextag.*^
 ||nhantienquocte*.vercel.app^
+||nikutjyjgchr*.b-cdn.net^
 ||no-forny*
 ||nor-pw*.com^
 ||ns*.fastthinkingdns.com^
@@ -545,11 +553,14 @@
 ||v.newsportal*.ru^
 ||v.tzbox*.xyz^
 ||v*-ad.video.yximgs.com^
+||verification-module-v*.b-cdn.net^
+||verifyyourself-*system.b-cdn.net^
 ||violation-*.surge.sh^
 ||vnote-*.myqcloud.com^
 ||vns86.oss-*.aliyuncs.com^
 ||w*statistics.info^
 ||webtrends.*^
+||weoidnet*.b-cdn.net^
 ||wpad.*^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^

@@ -1,9 +1,11 @@
 ! Title: Combined - Blocklist-Fixes
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 11 Dec 2024 22:50 UTC
-! Version: 2024.1211.2250
+! Last modified: 22 Dec 2024 23:19 UTC
+! Version: 2024.1222.2319
 
 @@-ds.metric.gstatic.com^|
+@@://blog.*.top^
+@@/^.*(tech|project|linux).*\.top(/[a-z0-9_-]?.*)?$/
 @@||5471782.fls.doubleclick.net^|
 @@||79423.analytics.edgekey.net^|
 @@||a.adwolf.ru^|
@@ -69,7 +71,6 @@
 @@||email.elitedangerous.com^|
 @@||email.procook.co.uk^|
 @@||envato.market^|
-@@||eum-blue-saas.instana.io^|
 @@||f-gear.ec-optimizer.com^|
 @@||feed.adrelayer.com^|
 @@||forum.notebookreview.com^|
@@ -107,7 +108,7 @@
 @@||login.sendpulse.com^|
 @@||ma135-r.analytics.edgekey.net^|
 @@||marketing.net.idealo-partner.com^|
-@@||masto*.top^top
+@@||masto*.top^
 @@||mc.*.exacttarget.com^|
 @@||media-consumer365.desigual.com^|
 @@||mhc-ajax-eu-s2.myhomescreen.tv^
