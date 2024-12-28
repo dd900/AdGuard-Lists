@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 28 Dec 2024 07:18 UTC
-! Version: 2024.1228.0718
+! Last modified: 28 Dec 2024 15:18 UTC
+! Version: 2024.1228.1518
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2024-12-28T07:18:23.988Z
+! Last modified: 2024-12-28T15:18:35.528Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -660,6 +660,7 @@
 @@||tracker.gmi.gd^
 @@||tracker.grepler.com^
 @@||tracker.guguan.000.pe^
+@@||tracker.guguan.us.kg^
 @@||tracker.h0me.cc^
 @@||tracker.halfchub.club^
 @@||tracker.hama3.net^
