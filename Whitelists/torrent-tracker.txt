@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 30 Dec 2024 15:19 UTC
-! Version: 2024.1230.1519
+! Last modified: 04 Jan 2025 08:52 UTC
+! Version: 2025.0104.0852
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2024-12-30T15:19:56.875Z
+! Last modified: 2025-01-04T08:52:58.055Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -83,6 +83,7 @@
 @@||ben.kerbertools.xyz^
 @@||benouworldtrip.fr^
 @@||betasoftsp.com.br^
+@@||betelgeuse.freeddns.org^
 @@||big-boss-tracker.net^
 @@||bigfoot1942.sektori.org^
 @@||bit-hdtv.com^

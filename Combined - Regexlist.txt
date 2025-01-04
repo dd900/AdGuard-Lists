@@ -1,7 +1,7 @@
 ! Title: Combined - Regexlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 30 Dec 2024 15:21 UTC
-! Version: 2024.1230.1521
+! Last modified: 04 Jan 2025 08:54 UTC
+! Version: 2025.0104.0854
 
 /_dating\d\/index\.html\?aref=/
 /.*\.*\.shouji\.sogou\.com/
@@ -65,7 +65,6 @@
 /^beacons?[0-9]*[_.-]/
 /^count(ers?)?[0-9]*[_.-]/
 /^http://imgblaze.net/[a-z0-9]{6}$/
-/^https:\/\/[0-9a-z]{12,16}\.azureedge\.net\/\d{4}\//
 /^https:\/\/[a-z]+\.com\/away\.php\?url=[%0-9A-z]{100,}$/
 /^https?://([a-z-]{1,})?luck([a-z-]{1,})?\.club(/.*)?$/
 /^https?://(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\d{2,8}\.[a-z-]{5,22}\d{1,8}\.(icu|life|live).*$/
