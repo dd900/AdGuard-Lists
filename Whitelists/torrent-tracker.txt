@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 05 Jan 2025 08:53 UTC
-! Version: 2025.0105.0853
+! Last modified: 05 Jan 2025 16:53 UTC
+! Version: 2025.0105.1653
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2025-01-05T08:52:58.823Z
+! Last modified: 2025-01-05T16:53:32.551Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -427,6 +427,7 @@
 @@||rt.tace.ru^
 @@||rutorrent.frontline-mod.com^
 @@||ryjer.com^
+@@||s926723.ha016.t.mydomain.zone^
 @@||sabross.xyz^
 @@||saltwood.top^
 @@||sanincode.com^
