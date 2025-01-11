@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 11 Jan 2025 00:54 UTC
-! Version: 2025.0111.0054
+! Last modified: 11 Jan 2025 08:54 UTC
+! Version: 2025.0111.0854
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -360,6 +360,7 @@
 ||i-*.ci360.sas.com^
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
+||icloud.apple-*.cn^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
