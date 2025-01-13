@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 13 Jan 2025 08:55 UTC
-! Version: 2025.0113.0855
+! Last modified: 13 Jan 2025 16:55 UTC
+! Version: 2025.0113.1655
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -106,7 +106,6 @@
 ||*.appsflyersdk.*^
 ||*.atdmt.com^
 ||*.banner^
-||*.bid^$dnstype=~CNAME
 ||*.bizrate^
 ||*.blogads^
 ||*.bluestreak^
@@ -124,7 +123,6 @@
 ||*.hitbox.*^
 ||*.httpads.*^
 ||*.imiclk.*^
-||*.loan^$dnstype=~CNAME
 ||*.local.*^
 ||*.location.live.net^
 ||*.mixadvert.*^
@@ -162,6 +160,7 @@
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
+||acr-*-prd.samsungcloud.tv^
 ||ad-*.amazonaws.com^
 ||ad-*.appacc.dbankedge.cn^
 ||ad.*.*.*^
