@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 15 Jan 2025 01:19 UTC
-! Version: 2025.0115.0119
+! Last modified: 17 Jan 2025 10:19 UTC
+! Version: 2025.0117.1019
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -296,6 +296,7 @@
 ||csgogf*.xyz^
 ||csgogift*.xyz^
 ||currentlyatt*.weebly.com^
+||currentlymail*.weebly.com^
 ||d*.ruiwen.com^
 ||d*.xinshipu.com^
 ||datacollect*.abtasty.com^
@@ -410,7 +411,6 @@
 ||messagerie*.godaddysites.com^
 ||messagerie*.wixsite.com^
 ||messagerie*.yolasite.com^
-||metamask*.webflow.io^
 ||metric*.rediff.com^
 ||metrics*.fitanalytics.com^
 ||mf*.advantage.as^
@@ -441,6 +441,7 @@
 ||oas.*^
 ||oascentral.*^
 ||orbit*.lun.ua^
+||outloksupport*.glitch.me^
 ||pamela.*.com^
 ||pamela.*.net^
 ||pangolin*.sgsnssdk.com^
