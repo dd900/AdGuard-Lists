@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 19 Jan 2025 02:19 UTC
-! Version: 2025.0119.0219
+! Last modified: 19 Jan 2025 10:19 UTC
+! Version: 2025.0119.1019
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -239,6 +239,7 @@
 ||asicsoutlet*
 ||at*.doubanio.com^
 ||atdmt.*^
+||att-currently-*.weeblysite.com^
 ||attonlineservice*.wixstudio.com^
 ||atwola.*^
 ||aussie-gamer.com^$denyallow=the-site-was-stolen-by-casino-link-spammers.*
