@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 20 Jan 2025 10:19 UTC
-! Version: 2025.0120.1019
+! Last modified: 20 Jan 2025 18:19 UTC
+! Version: 2025.0120.1819
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -277,6 +277,7 @@
 ||ce-global-track-*.amazonaws.com^
 ||cffsbbhost-aniamaria*.codeanyapp.com^
 ||cl*.k5a.io^
+||clickstream-*.homedepot.com^
 ||clk.rtpdn*.com^
 ||clog*.yuanfudao.com^
 ||collect-elb-*.amazonaws.com^
