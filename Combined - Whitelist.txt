@@ -1,7 +1,7 @@
 ! Title: Combined - Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 20 Jan 2025 02:18 UTC
-! Version: 2025.0120.0218
+! Last modified: 20 Jan 2025 10:18 UTC
+! Version: 2025.0120.1018
 
 @@||*ota.oppomobile.com^
 @@||0.client-channel.google.com^
