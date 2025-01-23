@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 23 Jan 2025 10:19 UTC
-! Version: 2025.0123.1019
+! Last modified: 23 Jan 2025 18:19 UTC
+! Version: 2025.0123.1819
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -347,6 +347,8 @@
 ||gscounters.*.gigya.com^
 ||hbbtv.*.de^
 ||help-for-work-*.pages.dev^
+||highcpmrevenue*.com^
+||highperformancecpm*.com^
 ||hn-ping*.hashnode.com^
 ||hokaoneone*
 ||hokaoutlet*
@@ -462,6 +464,7 @@
 ||polaris*-normal-*.zijieapi.com^
 ||prebid-*.rubiconproject.com^
 ||production-adserver-*.amazonaws.com^
+||profitablecpm*.com^
 ||pubggf*.xyz^
 ||pubggift*.xyz^
 ||putrr*.com^
@@ -549,6 +552,7 @@
 ||u*.takru.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||uc*.atobo.com^
+||ulog*.kwai-pro.com^
 ||ulog*.kwaipros.com^
 ||union*.365inews.com^
 ||unofficialtwrp.com^$denyallow=had-not-updated-their-root-guides-to-reflect-a-b-partition-phones-as-of-2021.*
