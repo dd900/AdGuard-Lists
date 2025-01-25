@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 24 Jan 2025 18:19 UTC
-! Version: 2025.0124.1819
+! Last modified: 25 Jan 2025 14:20 UTC
+! Version: 2025.0125.1420
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2025-01-24T18:19:35.971Z
+! Last modified: 2025-01-25T14:19:57.827Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -821,6 +821,7 @@
 @@||tracker.vulnix.sh^
 @@||tracker.waaa.moe^
 @@||tracker.wellknownclub.net^
+@@||tracker.wsaoa.eu.org^
 @@||tracker.xiaoduola.xyz^
 @@||tracker.xor.st^
 @@||tracker.yangxiaoguozi.cn^
