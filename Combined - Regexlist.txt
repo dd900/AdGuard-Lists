@@ -1,7 +1,7 @@
 ! Title: Combined - Regexlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 28 Jan 2025 22:22 UTC
-! Version: 2025.0128.2222
+! Last modified: 29 Jan 2025 06:21 UTC
+! Version: 2025.0129.0621
 
 /_dating\d\/index\.html\?aref=/
 /.*\.*\.shouji\.sogou\.com/
