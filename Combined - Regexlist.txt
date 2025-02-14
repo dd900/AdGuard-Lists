@@ -1,7 +1,7 @@
 ! Title: Combined - Regexlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 08 Feb 2025 14:21 UTC
-! Version: 2025.0208.1421
+! Last modified: 14 Feb 2025 02:17 UTC
+! Version: 2025.0214.0217
 
 /_dating\d\/index\.html\?aref=/
 /.*\.*\.shouji\.sogou\.com/
@@ -55,6 +55,7 @@
 /^5\.8\.4[4-7]\.\d{1,3}$/
 /^94\.242\.247\.(2[0-9]|3[0-2]):/
 /^94\.242\.247\.(2[0-9]|3[0-2])/
+/^a\.[0-9a-f]{56}\.com$/
 /^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
 /^adim(age|g)s?[0-9]*[_.-]/
 /^adtrack(er|ing)?[0-9]*[_.-]/
@@ -66,6 +67,7 @@
 /^count(ers?)?[0-9]*[_.-]/
 /^http://imgblaze.net/[a-z0-9]{6}$/
 /^https:\/\/[a-z]+\.com\/away\.php\?url=[%0-9A-z]{100,}$/
+/^https:\/\/a\.[0-9a-f]{56}\.com$/
 /^https?://([a-z-]{1,})?luck([a-z-]{1,})?\.club(/.*)?$/
 /^https?://(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\d{2,8}\.[a-z-]{5,22}\d{1,8}\.(icu|life|live).*$/
 /^https?://(www\.)?[a-z0-9-]{1,}\.[a-z]{2,17}/[a-z0-9]/\?[a-z0-9.-]{8,}$/
