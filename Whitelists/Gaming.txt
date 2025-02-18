@@ -1,7 +1,7 @@
 ! Title: Gaming Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 15 Nov 2024 00:50 UTC
-! Version: 2.0.0.0
+! Last modified: 18 Feb 2025 00:00 UTC
+! Version: 2.0.0.1
 
 @@||activity.windows.com^$important,ctag=user_child|device_gameconsole
 @@||client.wns.windows.com^$important,ctag=user_child|device_gameconsole
@@ -23,7 +23,9 @@
 @@||playfabapi.com^$important,ctag=user_child|device_gameconsole
 @@||playstation.com^$important,ctag=user_child|device_gameconsole
 @@||playstation.net^$important,ctag=user_child|device_gameconsole
+@@||purchase.mp.microsoft.com^$important,ctag=user_child|device_gameconsole
 @@||recnetnotify*.service.signalr.net^$important,ctag=user_child|device_gameconsole
+@@||relay.communication.microsoft.com^$important,ctag=user_child|device_gameconsole
 @@||rockstargames.com^$important,ctag=user_child|device_gameconsole
 @@||sidequestvr.com^$important,ctag=user_child|device_gameconsole
 @@||vortex.data.microsoft.com^$important,ctag=user_child|device_gameconsole
