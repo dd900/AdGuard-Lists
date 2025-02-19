@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 18 Feb 2025 16:18 UTC
-! Version: 2025.0218.1618
+! Last modified: 19 Feb 2025 00:18 UTC
+! Version: 2025.0219.0018
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -530,6 +530,7 @@
 ||srmdata-*.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
+||staging-*.ispot.tv^
 ||stat*.1internet.tv^
 ||statcounter.*^
 ||static*.365inews.com^
