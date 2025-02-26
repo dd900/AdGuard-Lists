@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 25 Feb 2025 17:55 UTC
-! Version: 2025.0225.1755
+! Last modified: 26 Feb 2025 01:56 UTC
+! Version: 2025.0226.0156
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -315,6 +315,7 @@
 ||dm*.yxlady.com^
 ||dn*.ixinwei.com^
 ||dotagift*.xyz^
+||driverpack.io^$denyallow=has_extreme_amounts_of_pup_in_it.*
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||dw-informer-*.newsru.com^
 ||eclog*-*.cafe24.com^
