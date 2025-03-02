@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 02 Mar 2025 09:54 UTC
-! Version: 2025.0302.0954
+! Last modified: 02 Mar 2025 17:54 UTC
+! Version: 2025.0302.1754
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2025-03-02T09:53:59.964Z
+! Last modified: 2025-03-02T17:54:15.042Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -838,6 +838,7 @@
 @@||tracker.zekun.fun^
 @@||tracker.zemoj.com^
 @@||tracker.zerobytes.xyz^
+@@||tracker.zhuqiy.top^
 @@||tracker.zum.bi^
 @@||tracker0.ufibox.com^
 @@||tracker01.loveapp.com^
