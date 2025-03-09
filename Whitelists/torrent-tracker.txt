@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 09 Mar 2025 09:54 UTC
-! Version: 2025.0309.0954
+! Last modified: 09 Mar 2025 17:54 UTC
+! Version: 2025.0309.1754
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2025-03-09T09:54:00.834Z
+! Last modified: 2025-03-09T17:54:02.178Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -110,6 +110,7 @@
 @@||bruh.cluster.ws^
 @@||bry-dell-htpc.freeddns.org^
 @@||bt-club.ws^
+@@||bt-tracker.devnak.win^
 @@||bt-tracker.gamexp.ru^
 @@||bt.080609.xyz^
 @@||bt.3dmgame.com^
@@ -290,6 +291,7 @@
 @@||ln.mtahost.co^
 @@||lopatins.ru^
 @@||loushao.net^
+@@||lucke.fenesisu.moe^
 @@||lulz.vpndb.org^
 @@||luna.jae.su^
 @@||madiator.com^
