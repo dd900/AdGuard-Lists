@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 10 Mar 2025 09:54 UTC
-! Version: 2025.0310.0954
+! Last modified: 10 Mar 2025 17:54 UTC
+! Version: 2025.0310.1754
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2025-03-10T09:54:03.545Z
+! Last modified: 2025-03-10T17:54:11.006Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -27,11 +27,13 @@
 @@||337hhh.tpddns.cn^
 @@||337hhh.xyz^
 @@||3rt.tace.ru^
+@@||4.tracker.devnak.win^
 @@||47.ip-51-68-199.eu^
 @@||504e163a.host.njalla.net^
 @@||5rt.tace.ru^
 @@||6.beyondth.cn^
 @@||6.pocketnet.app^
+@@||6.tracker.devnak.win^
 @@||61626c.net^
 @@||62-210-114-129.rev.poneytelecom.eu^
 @@||6ahddutb1ucc3cp.ru^
