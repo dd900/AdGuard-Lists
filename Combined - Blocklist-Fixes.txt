@@ -1,10 +1,11 @@
 ! Title: Combined - Blocklist-Fixes
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 12 Mar 2025 01:56 UTC
-! Version: 2025.0312.0156
+! Last modified: 17 Mar 2025 07:36 UTC
+! Version: 2025.0317.0736
 
 @@-ds.metric.gstatic.com^|
 @@://blog.*.top^
+@@://pyrofork.*.top^
 @@/^.*(tech|project|linux).*\.top(/[a-z0-9_-]?.*)?$/
 @@||5471782.fls.doubleclick.net^|
 @@||79423.analytics.edgekey.net^|
@@ -24,6 +25,7 @@
 @@||afi-b.com^|
 @@||analytics.amplitude.com^|
 @@||anwb.webpower.eu^|
+@@||ap01.records.in.treasuredata.com^|
 @@||api-v*.trbo.com^|
 @@||api.ads.tvb.com^
 @@||api.docodoco.jp^|

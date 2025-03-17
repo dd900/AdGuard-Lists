@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 12 Mar 2025 01:54 UTC
-! Version: 2025.0312.0154
+! Last modified: 17 Mar 2025 07:34 UTC
+! Version: 2025.0317.0734
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2025-03-12T01:54:01.115Z
+! Last modified: 2025-03-17T07:34:45.185Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -519,6 +519,7 @@
 @@||torrent-tracker.hama3.net^
 @@||torrent.arjlover.net^
 @@||torrent.hificode.in^
+@@||torrent.i.ng^
 @@||torrent.mp3quran.net^
 @@||torrent.nwps.ws^
 @@||torrent.resonatingmedia.com^
@@ -571,6 +572,7 @@
 @@||tracker.0x.tf^
 @@||tracker.0x7c0.com^
 @@||tracker.1048576.cn^
+@@||tracker.23794.top^
 @@||tracker.3304399.com^
 @@||tracker.36dm.com^
 @@||tracker.3moredays.com^
@@ -664,6 +666,7 @@
 @@||tracker.gbitt.info^
 @@||tracker.gcrenwp.top^
 @@||tracker.gcrreen.xyz^
+@@||tracker.ghostchu-services.top^
 @@||tracker.gigantino.net^
 @@||tracker.gigatorrents.ws^
 @@||tracker.gmi.gd^
@@ -882,6 +885,7 @@
 @@||tribalmixes.com^
 @@||tronml.cf^
 @@||trun.tom.ru^
+@@||trunker.ghostchu-services.top^
 @@||ts.populargamers.co.za^
 @@||tsundere.pw^
 @@||ttk.pp.ua^
@@ -900,6 +904,7 @@
 @@||unknownsite.de^
 @@||uploads.gamecoast.net^
 @@||uraniumhexafluori.de^
+@@||utracker.ghostchu-services.top^
 @@||v1046920.hosted-by-vdsina.ru^
 @@||v2.iperson.xyz^
 @@||v6-tracker.0g.cx^
