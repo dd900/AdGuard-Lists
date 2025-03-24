@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 24 Mar 2025 15:35 UTC
-! Version: 2025.0324.1535
+! Last modified: 24 Mar 2025 23:35 UTC
+! Version: 2025.0324.2335
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -449,10 +449,6 @@
 ||ms*.applvn.com^
 ||msoftupdate.*.linodeobjects.com^
 ||mssdk*.capcutapi.com^
-||mssdk*.tiktok.com^
-||mssdk*.tiktokv.eu^
-||mssdk*.tiktokv.us^
-||mssdk*.tiktokw.us^
 ||mssdk*.zijieapi.com^
 ||my-altinn*
 ||newverifyyourself-system*.b-cdn.net^
