@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 25 Mar 2025 15:35 UTC
-! Version: 2025.0325.1535
+! Last modified: 25 Mar 2025 23:36 UTC
+! Version: 2025.0325.2336
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -22,7 +22,7 @@
 ://ww17.$denyallow=ww17.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
 ://ww18.$denyallow=ww18.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
 ://ww19.$denyallow=ww19.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww20.$denyallow=ww20.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
+://ww20.$denyallow=ww20.autotask.net|ww20.pornhoarder.tv|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
 ://ww21.$denyallow=ww21.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
 ://ww22.$denyallow=ww22.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
 ://ww23.$denyallow=ww23.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
@@ -533,6 +533,7 @@
 ||srmdata-*.com^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
+||st-n.ads*-adnow.com^
 ||staging-*.ispot.tv^
 ||stat*.1internet.tv^
 ||statcounter.*^
