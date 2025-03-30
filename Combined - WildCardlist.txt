@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 29 Mar 2025 23:36 UTC
-! Version: 2025.0329.2336
+! Last modified: 30 Mar 2025 07:35 UTC
+! Version: 2025.0330.0735
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -14,7 +14,7 @@
 ://sportframe*.org^
 ://ww10.$denyallow=ww10.autotask.net|w10.pornhoarder.tv|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
 ://ww11.$denyallow=ww11.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww12.$denyallow=ww12.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
+://ww12.$denyallow=ww12.autotask.net|ww12.pornhoarder.tv|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
 ://ww13.$denyallow=ww13.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
 ://ww14.$denyallow=ww14.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
 ://ww15.$denyallow=ww15.nl|ww15.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
