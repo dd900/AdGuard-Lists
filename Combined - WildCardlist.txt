@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 01 Apr 2025 07:36 UTC
-! Version: 2025.0401.0736
+! Last modified: 01 Apr 2025 15:36 UTC
+! Version: 2025.0401.1536
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -577,9 +577,9 @@
 ||u*.takru.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||uc*.atobo.com^
+||ulog*.gifshow.com^
 ||ulog*.kwai-pro.com^
 ||ulog*.kwaipros.com^
-||ulogs*.gifshow.com^
 ||union*.365inews.com^
 ||unofficialtwrp.com^$denyallow=had_not_updated_their_root_guides_to_reflect_a_b_partition_phones_as_of_2021.*
 ||use-trk*.bluevoox.com^
