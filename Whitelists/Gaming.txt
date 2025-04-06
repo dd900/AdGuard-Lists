@@ -12,6 +12,7 @@
 @@||exitgames.com^$important,ctag=user_child|device_gameconsole
 @@||fp.msedge.net^$important,ctag=user_child|device_gameconsole
 @@||gamefuel.info^$important,ctag=user_child|device_gameconsole
+@@||gmscompliance-pa.googleapis.com^$important,ctag=user_child|device_gameconsole
 @@||minecraft-services.net^$important,ctag=user_child|device_gameconsole
 @@||minecraft.net^$important,ctag=user_child|device_gameconsole
 @@||minecraftservices.com^$important,ctag=user_child|device_gameconsole
