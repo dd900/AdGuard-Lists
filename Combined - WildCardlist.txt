@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 09 Apr 2025 15:36 UTC
-! Version: 2025.0409.1536
+! Last modified: 27 Apr 2025 13:34 UTC
+! Version: 2025.0427.1334
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -174,6 +174,7 @@
 ||ad*.thisisgame.com^
 ||ad*.tmgrup.com.tr^
 ||ad*.wisenut.co.kr^
+||ad*.zonaplus.tv^
 ||adclick.*^
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
@@ -213,8 +214,6 @@
 ||ali-bj-pcdn-*.biliapi.net^
 ||alishop*.ru^
 ||all-best-prize-202*.com^$denyallow=malware_site.*
-||amanda.*.com^
-||amanda.*.net^
 ||ana*.inews24.com^
 ||analytics-*-nfl.yinzcam.com^
 ||analytics-rollout-*.amazonaws.com^
@@ -232,10 +231,11 @@
 ||api*.batmobi.net^
 ||api*.batmobil.net^
 ||api*.bidmachine.io^
+||api*.moengage.com^
+||api16-access-ttp*.tiktokpangle-b.us^
 ||app-analytics-*.snapchat.com^
 ||appanalysis*.banggood.com^
 ||apple-*.le.com^
-||apple.com-*.live^
 ||apples-24x7-*.pages.dev^
 ||asd8900.oss-*.aliyuncs.com^
 ||asicsoutlet*
@@ -271,7 +271,6 @@
 ||booklng.com-*
 ||bot-check-v*.b-cdn.net^
 ||botashunter*
-||briana.*.com^
 ||browser-intake-*-datadoghq.com^
 ||business-facebook-*.pages.dev^
 ||c*hit.zerkalo.io^
@@ -323,12 +322,13 @@
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||dw-informer-*.newsru.com^
 ||eclog*-*.cafe24.com^
-||emily.*.net^
 ||eum*.instana.io^
+||event.*.shoplive.cloud^
 ||events-*.op.hicloud.com^
 ||events-api*.outfit7.com^
 ||events*.cre.ma^
 ||f-log-*.grammarly.io^
+||facebook-*.ubpages.com^
 ||facture-pdf-secure-*.vercel.app^
 ||fadverdirect.com^$denyallow=malware_redirection_trains.*
 ||falkag.*^
@@ -367,7 +367,6 @@
 ||host*.rvshare.com^
 ||hosting-redirect.com^$denyallow=malware_redirection_trains.*
 ||hostingcloud.*.wasm^
-||hotapi*.tiktokv.us^
 ||hstats*.hepsiburada.com^
 ||hw-sh-pcdn-*.biliapi.net^
 ||i-*.ci360.sas.com^
@@ -377,6 +376,7 @@
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
+||info-espanol-id-configes*.codeanyapp.com^
 ||install*.zonastat.com^
 ||intellitxt.*^
 ||iphone-caviar.ru*entranceId
@@ -384,15 +384,13 @@
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||izmncdnboxuse*.b-cdn.net^
 ||ja*.gamersky.com^
-||jessica.*.net^
 ||js.overture.*^
 ||js*.abolezi.com^
 ||jtbo*.nqxvevk.cn^
 ||kanoodle.*^
-||katie.*.com^
-||katie.*.net^
 ||kontera.*^
 ||ky891.oss-*.aliyuncs.com^
+||lcldetecthumainweb*.firebaseapp.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
@@ -463,8 +461,6 @@
 ||oascentral.*^
 ||orbit*.lun.ua^
 ||outloksupport*.glitch.me^
-||pamela.*.com^
-||pamela.*.net^
 ||pangolin*.sgsnssdk.com^
 ||partner.superbahisaffiliates*.com^
 ||paypal*.blogspot.
@@ -518,11 +514,10 @@
 ||same*.stockstar.com^
 ||santander.*.fino.digital^
 ||santanderpod.*.co.uk^
-||sarah.*.com^
-||sarah.*.net^
 ||sauconyoutlet*
 ||sax*.sina.
 ||scorecardresearch.*^
+||sdk-*.moengage.com^
 ||secure-0*.ddnss.ch^
 ||secure-access-*.gate23.xyz^
 ||sensorsdata*.read.duokan.com^
@@ -551,6 +546,7 @@
 ||subnewss*.net^
 ||suite*.linximpulse.net^
 ||support-center-for-*.vercel.app^
+||support-metahelpcenter-id*.netlify.app^
 ||t*.playdigo.live^
 ||t*.zcvh.net^
 ||tag-based.s3.*.amazonaws.com^
@@ -559,6 +555,7 @@
 ||telemetry.*^
 ||telemetry*.transcend.io^
 ||teleriumads-*.netdna-ssl.com^
+||tiktok-svip*.com^
 ||tnc*.tiktokv.us^
 ||tnc*.zijieapi.com^
 ||tnc16-*.byteoversea.com^
@@ -581,6 +578,7 @@
 ||ulog*.gifshow.com^
 ||ulog*.kwai-pro.com^
 ||ulog*.kwaipros.com^
+||ulogs*.ksapisrv.com^
 ||union*.365inews.com^
 ||unofficialtwrp.com^$denyallow=had_not_updated_their_root_guides_to_reflect_a_b_partition_phones_as_of_2021.*
 ||use-trk*.bluevoox.com^
