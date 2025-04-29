@@ -1,13 +1,21 @@
 ! Title: Combined - Regexlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 29 Apr 2025 05:33 UTC
-! Version: 2025.0429.0533
+! Last modified: 29 Apr 2025 13:33 UTC
+! Version: 2025.0429.1333
 
 /_dating\d\/index\.html\?aref=/
 /.*\.*\.shouji\.sogou\.com/
+/.*\.1rtb\.com/
 /.*\.a\.market\.xiaomi\.com/
+/.*\.ad\.gameley\.com/
+/.*\.adintl\.cn/
+/.*\.adx\.adwangmai\.com/
 /.*\.data\.hicloud\.com/
 /.*\.log\.aliyuncs\.com/
+/.*\.ubixioe\.com/
+/.*\.vlion\.cn/
+/.*\.yfanads\.com/
+/.*\.zhangyuyidong\.cn/
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
 /(https?:\/\/)51\.195\.31\..{100,}/
