@@ -1,10 +1,14 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 30 Apr 2025 05:33 UTC
-! Version: 2025.0430.0533
+! Last modified: 30 Apr 2025 13:33 UTC
+! Version: 2025.0430.1333
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
+-ulog-*.kwai-pro.com^
+-ulog-*.kwaipros.com^
+-ulog.*.kwai-pro.com^
+-ulog.*.kwaipros.com^
 -ulogl*.kwai-pro.com^
 ://*.a-akamaihd.com^
 ://193.143.1.*
@@ -388,7 +392,6 @@
 ||js*.abolezi.com^
 ||jtbo*.nqxvevk.cn^
 ||kanoodle.*^
-||kix-ulogl*.kwai-pro.com^
 ||kontera.*^
 ||ky891.oss-*.aliyuncs.com^
 ||lcldetecthumainweb*.firebaseapp.com^
@@ -576,10 +579,12 @@
 ||u*.takru.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||uc*.atobo.com^
+||ulog-*.ksapisrv.com^
+||ulog.*.ksapisrv.com^
+||ulog.*.kwai-pro.com^
 ||ulog*.gifshow.com^
 ||ulog*.kwai-pro.com^
 ||ulog*.kwaipros.com^
-||ulogs*.ksapisrv.com^
 ||union*.365inews.com^
 ||unofficialtwrp.com^$denyallow=had_not_updated_their_root_guides_to_reflect_a_b_partition_phones_as_of_2021.*
 ||use-trk*.bluevoox.com^
