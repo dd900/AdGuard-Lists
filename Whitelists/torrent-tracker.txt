@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 02 May 2025 13:32 UTC
-! Version: 2025.0502.1332
+! Last modified: 02 May 2025 21:32 UTC
+! Version: 2025.0502.2132
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2025-05-02T13:32:08.981Z
+! Last modified: 2025-05-02T21:32:07.209Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -227,6 +227,7 @@
 @@||tk.mabo.ltd^
 @@||torrent-team.net^
 @@||torrent.arjlover.net^
+@@||torrent.hificode.in^
 @@||torrent.i.ng^
 @@||torrent.mp3quran.net^
 @@||torrent.nwps.ws^
@@ -284,6 +285,7 @@
 @@||tracker.cyberia.is^
 @@||tracker.darkness.services^
 @@||tracker.ddunlimited.net^
+@@||tracker.deadorbit.nl^
 @@||tracker.dler.com^
 @@||tracker.dler.org^
 @@||tracker.dmcomic.org^
