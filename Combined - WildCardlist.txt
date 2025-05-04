@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 04 May 2025 05:33 UTC
-! Version: 2025.0504.0533
+! Last modified: 04 May 2025 13:33 UTC
+! Version: 2025.0504.1333
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -12,6 +12,7 @@
 -ulogl*.kwai-pro.com^
 ://*.a-akamaihd.com^
 ://193.143.1.*
+://old.sermitsiaq.ag^$denyallow=subdomain_stolen_from_sermitsiaqs_owners.*
 ://r.reklam*.com^
 ://soekpakke*.blogspot.com^
 ://sportframe*.co^
