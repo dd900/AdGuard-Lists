@@ -1,11 +1,12 @@
 ! Title: Combined - Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 04 May 2025 01:20 UTC
-! Version: 2025.0504.0120
+! Last modified: 04 May 2025 01:36 UTC
+! Version: 2025.0504.0136
 
 @@||*ota.oppomobile.com^
 @@||0.client-channel.google.com^
 @@||0x.org^
+@@||1377x.to^
 @@||1drv.com^
 @@||1inch.io^
 @@||2.android.pool.ntp.org^
@@ -13,6 +14,7 @@
 @@||8kun.top^
 @@||a.files.bbci.co.uk^
 @@||a1801.dscv.akamai.net^
+@@||account.live.com^
 @@||account.netflix.com^
 @@||acidpools.com^
 @@||actiontoad.canonical.com^
@@ -30,17 +32,20 @@
 @@||airswap.io^
 @@||aiv-cdn.net^
 @@||aiv-delivery.net^
+@@||ajax.gogocdn.net^
 @@||akamaihd.net^
 @@||akamaitechnologies.com^
 @@||akamaized.net^
 @@||akash.network^
 @@||alphax.pro^
 @@||alpinelinux.org^
+@@||andrew.hedges.name^
 @@||android-appboot.netflix.com^
 @@||android.clients.google.com^
 @@||android.pool.ntp.org^
 @@||android.prod.cloud.netflix.com^
 @@||android.prod.ftl.netflix.com^
+@@||answers.microsoft.com^
 @@||antpool.com^
 @@||api-glb-euw*b.smoot.apple.com^
 @@||api-global.netflix.com^
@@ -124,6 +129,7 @@
 @@||bybit.com^
 @@||c.s-microsoft.com^
 @@||c3pool.com^
+@@||canadafreepress.com^
 @@||captive-cidr.origin-apple.com.akadns.net^
 @@||captive.apple.com^
 @@||captive.g.aaplimg.com^
@@ -135,8 +141,11 @@
 @@||cardanokeys.com^
 @@||cardanokidz.com^
 @@||cardanoscan.io^
+@@||castlevaniamodding.boards.net^
+@@||catbox.moe^
 @@||cdn.cloudflare.net^
 @@||cdn.embedly.com^
+@@||cdn.openai.com^
 @@||cdn.optimizely.com^
 @@||cdn.registerdisney.go.com^
 @@||cdn.snapcraft.io^
@@ -213,6 +222,7 @@
 @@||daedaluswallet.io^
 @@||dapp.com^
 @@||dapp.review^
+@@||dash.cloudflare.com^
 @@||dashboard.plex.tv^
 @@||dataplicity.com^
 @@||davinci.gallery^
@@ -244,9 +254,11 @@
 @@||download.spotify.com^
 @@||download.virtualbox.org^
 @@||download.visualstudio.microsoft.com^
+@@||downloads.fotosizer.com^
 @@||downloads.plex.tv^
 @@||drift.com^
 @@||driftt.com^
+@@||drivereasy.com^
 @@||dropboxusercontent.com^
 @@||dualstack.dss-*.map.fastly.net^
 @@||dxpool.com^
@@ -293,6 +305,7 @@
 @@||fonts.gstatic.com^
 @@||forums.sonarr.tv^
 @@||foundation.app^
+@@||fpt.live.com^
 @@||gdmf.apple.com.akadns.net^
 @@||gdmf.apple.com^
 @@||gdmf.v.aaplimg.com^
@@ -317,6 +330,7 @@
 @@||gs.apple.com.v.aaplimg.com^
 @@||gs.apple.com^
 @@||gstatic.com^
+@@||gtm.oasisfeng.com^
 @@||guarda.com^
 @@||gvt1.com^
 @@||harmony.one^
@@ -326,10 +340,12 @@
 @@||hashvault.pro^
 @@||hellominer.com^
 @@||help.ui.xboxlive.com^
+@@||heramix.club^
 @@||herominers.com^
 @@||hive.io^
 @@||hls.ted.com^
 @@||hodlhodl.com^
+@@||hostux.pics^
 @@||hugeota.d.miui.com^
 @@||huobi.com^
 @@||i.ytimg.com^
@@ -364,6 +380,7 @@
 @@||lambdastake.com^
 @@||learn.microsoft.com^
 @@||ledger.com^
+@@||libreelec.wiki^
 @@||licensing.mp.microsoft.com^
 @@||licensing.xboxlive.com^
 @@||link.springer.com^
@@ -391,7 +408,9 @@
 @@||mathwallet.org^
 @@||matic.network^
 @@||maticvigil.com^
+@@||maxmind.com^
 @@||media.dssott.com^
+@@||meduza-team.ucoz.net^
 @@||mempool.space^
 @@||mesu-cdn.origin-apple.com.akadns.net^
 @@||mesu.apple.com^
@@ -429,6 +448,7 @@
 @@||moneroocean.stream^
 @@||moonlet.io^
 @@||morphtoken.com^
+@@||msauth.net^
 @@||msdn.microsoft.com^
 @@||msecnd.net^
 @@||msftconnecttest.com^
@@ -451,6 +471,7 @@
 @@||nanowallets.guide^
 @@||natrium.io^
 @@||nault.cc^
+@@||nesartifacts.blogspot.com^
 @@||netlord.de^
 @@||nexus.ensighten.com^
 @@||nflxso.net^
@@ -458,6 +479,7 @@
 @@||nftm.art^
 @@||nftshowroom.com^
 @@||nftynfty.com^
+@@||nginx.com^
 @@||niftygateway.com^
 @@||nine.plugins.plexapp.com^
 @@||nmcheck.gnome.org^
@@ -502,6 +524,8 @@
 @@||packages.microsoft.com^
 @@||packages.riot.im^
 @@||packages.zorinos.com^
+@@||pacnsacdave.weebly.com^
+@@||pahe.win^
 @@||papertrailapp.com^
 @@||paris-pool-uranus.ddns.net^
 @@||paxful.com^
@@ -526,6 +550,7 @@
 @@||pool.pm^
 @@||poolrank.net^
 @@||portainer.io^
+@@||porters-rare-heritage-turkeys.neocities.org^
 @@||ports.debian.org^
 @@||ports.ubuntu.com^
 @@||ppa.launchpad.net^
@@ -535,6 +560,7 @@
 @@||prod-ripcut-delivery.disney-plus.net^
 @@||prod.do.dsp.mp.microsoft.com^
 @@||prod.http1.dradis.netflix.com^
+@@||productionresultssa1.blob.core.windows.net^
 @@||proxy.plex.bz^
 @@||proxy.plex.tv^
 @@||proxy02.pop.ord.plex.bz^
@@ -569,6 +595,7 @@
 @@||res.cloudinary.com^
 @@||retronfts.art^
 @@||revolutionchain.it^
+@@||rexdl.com^
 @@||rmbl.ws^
 @@||romfs.foreign.oppomobile.com^
 @@||s.marketwatch.com^
@@ -601,6 +628,7 @@
 @@||solanabeach.io^
 @@||solflare.com^
 @@||solidigm.com^
+@@||sotnhacked.freeforums.net^
 @@||sources.debian.net^
 @@||sparkadapool.eu^
 @@||spclient.wg.spotify.com^
@@ -652,6 +680,7 @@
 @@||title.auth.xboxlive.com^
 @@||title.mgt.xboxlive.com^
 @@||tokenpocket.*^
+@@||toodementianull.com^
 @@||tracemyip.org^
 @@||tracker.zer0day.to^
 @@||tracking-protection.cdn.mozilla.net^
@@ -706,6 +735,7 @@
 @@||vscode.download.prss.microsoft.com^
 @@||wac.phicdn.net^
 @@||wavespool.io^
+@@||wayder.web.fc2.com^
 @@||wcpstatic.microsoft.com^
 @@||weth.io^
 @@||whatismyip.com^
@@ -721,6 +751,7 @@
 @@||wl.spotify.com^
 @@||wp.com^
 @@||ws.audioscrobbler.com^
+@@||www.hybridturkeys.com^
 @@||www.msftconnecttest.com^
 @@||www.reddit.com^
 @@||www.virtualbox.org^
@@ -741,5 +772,6 @@
 @@||youtu.be^
 @@||youtube-nocookie.com^
 @@||yt3.ggpht.com^
+@@||ytstv.hair^
 @@||zerion.io^
 @@||zodpool.com^
