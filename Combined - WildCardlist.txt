@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 05 May 2025 13:33 UTC
-! Version: 2025.0505.1333
+! Last modified: 05 May 2025 21:33 UTC
+! Version: 2025.0505.2133
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -319,6 +319,7 @@
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||discord*.gifts^
+||discovery-ios-*.ertelecom.ru^
 ||dlscord*.
 ||dlscrod*.
 ||dm*.yxlady.com^
@@ -615,5 +616,6 @@
 ||ytechb.com^$denyallow=had_not_updated_their_root_guides_to_reflect_a_b_partition_phones_as_of_2021.*
 ||zeroredirect5.com^$denyallow=malware_redirection_trains.*
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||zoom.us*web.us^
 |c.blue.*.com^|
 analytics-*.aasaam.com
