@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 06 May 2025 05:33 UTC
-! Version: 2025.0506.0533
+! Last modified: 06 May 2025 13:34 UTC
+! Version: 2025.0506.1334
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -238,6 +238,7 @@
 ||api*.bidmachine.io^
 ||api*.moengage.com^
 ||api16-access-ttp*.tiktokpangle-b.us^
+||apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com^
 ||app-analytics-*.snapchat.com^
 ||appanalysis*.banggood.com^
 ||apple-*.le.com^
@@ -283,6 +284,7 @@
 ||cdn*.swaxis.com^
 ||ce-global-track-*.amazonaws.com^
 ||cffsbbhost-aniamaria*.codeanyapp.com^
+||chinhphu.*.org^
 ||cl*.k5a.io^
 ||clickstream-*.homedepot.com^
 ||client.rum.*.amazonaws.com^
@@ -310,6 +312,7 @@
 ||csgogift*.xyz^
 ||currentlyatt*.weebly.com^
 ||currentlymail*.weebly.com^
+||customerevents.us-east-*.internal.dradis.netflix.com^
 ||d*.ruiwen.com^
 ||d*.xinshipu.com^
 ||datacollect*.abtasty.com^
@@ -328,6 +331,7 @@
 ||driverpack.io^$denyallow=has_extreme_amounts_of_pup_in_it.*
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||dw-informer-*.newsru.com^
+||e-navy*.weebly.com^
 ||eclog*-*.cafe24.com^
 ||eum*.instana.io^
 ||event.*.shoplive.cloud^
@@ -389,6 +393,7 @@
 ||iphone-caviar.ru*entranceId
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
+||irs.gov.*.com^
 ||izmncdnboxuse*.b-cdn.net^
 ||ja*.gamersky.com^
 ||js.overture.*^
@@ -457,6 +462,7 @@
 ||mssdk*.capcutapi.com^
 ||mssdk*.zijieapi.com^
 ||my-altinn*
+||newmall*.cc^
 ||newverifyyourself-system*.b-cdn.net^
 ||nextag.*^
 ||nhantienquocte*.vercel.app^
@@ -604,6 +610,7 @@
 ||w*statistics.info^
 ||webtrends.*^
 ||weoidnet*.b-cdn.net^
+||westernunion*.wixsite.com^
 ||wpad.*^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
