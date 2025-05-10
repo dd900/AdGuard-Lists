@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 09 May 2025 21:31 UTC
-! Version: 2025.0509.2131
+! Last modified: 10 May 2025 05:31 UTC
+! Version: 2025.0510.0531
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2025-05-09T21:31:47.930Z
+! Last modified: 2025-05-10T05:31:51.963Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -101,6 +101,7 @@
 @@||evan.im^
 @@||exodus.desync.com^
 @@||explodie.org^
+@@||extracker.dahrkael.net^
 @@||fe.dealclub.de^
 @@||finbytes.org^
 @@||forever-tracker.zooki.xyz^
