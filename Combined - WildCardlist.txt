@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 17 May 2025 01:24 UTC
-! Version: 2025.0517.0124
+! Last modified: 18 May 2025 19:00 UTC
+! Version: 2025.0518.1900
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -217,6 +217,7 @@
 ||aff*.kolektiva.net^
 ||ajmaboxanherulv*.b-cdn.net^
 ||ali-bj-pcdn-*.biliapi.net^
+||alienxchain*.pages.dev^
 ||alishop*.ru^
 ||all-best-prize-202*.com^$denyallow=malware_site.*
 ||ana*.inews24.com^
@@ -331,6 +332,7 @@
 ||driverpack.io^$denyallow=has_extreme_amounts_of_pup_in_it.*
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||dw-informer-*.newsru.com^
+||e-interac-*.com^
 ||e-navy*.weebly.com^
 ||eclog*-*.cafe24.com^
 ||eum*.instana.io^
@@ -470,6 +472,7 @@
 ||nikutjyjgchr*.b-cdn.net^
 ||no-forny*
 ||nor-pw*.com^
+||noticiarecentesagora.net.klebeerlopees*.meusitehostgator.com.br^
 ||ns*.fastthinkingdns.com^
 ||oas.*^
 ||oascentral.*^
