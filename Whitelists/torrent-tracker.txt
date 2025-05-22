@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 21 May 2025 18:57 UTC
-! Version: 2025.0521.1857
+! Last modified: 22 May 2025 02:57 UTC
+! Version: 2025.0522.0257
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2025-05-21T18:57:25.471Z
+! Last modified: 2025-05-22T02:57:52.510Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -275,6 +275,7 @@
 @@||tracker.baltracker.net^
 @@||tracker.beeimg.com^
 @@||tracker.birkenwald.de^
+@@||tracker.bitcoinindia.space^
 @@||tracker.bittor.pw^
 @@||tracker.bittorrent.am^
 @@||tracker.bjut.jp^
