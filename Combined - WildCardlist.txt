@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 28 May 2025 19:00 UTC
-! Version: 2025.0528.1900
+! Last modified: 29 May 2025 03:00 UTC
+! Version: 2025.0529.0300
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -175,7 +175,6 @@
 ||ad*.bilgin.pro^
 ||ad*.ettoday.net^
 ||ad*.nexage.com^
-||ad*.on.cc^
 ||ad*.thisisgame.com^
 ||ad*.tmgrup.com.tr^
 ||ad*.wisenut.co.kr^
@@ -467,7 +466,6 @@
 ||mssdk*.capcutapi.com^
 ||mssdk*.zijieapi.com^
 ||my-altinn*
-||newmall*.cc^
 ||newverifyyourself-system*.b-cdn.net^
 ||nextag.*^
 ||nhantienquocte*.vercel.app^
