@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 30 May 2025 11:00 UTC
-! Version: 2025.0530.1100
+! Last modified: 30 May 2025 19:00 UTC
+! Version: 2025.0530.1900
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -174,6 +174,8 @@
 ||ad.*^
 ||ad*.bilgin.pro^
 ||ad*.ettoday.net^
+||ad*.gyaloglo.hu^
+||ad*.mellesleg.hu^
 ||ad*.nexage.com^
 ||ad*.thisisgame.com^
 ||ad*.tmgrup.com.tr^
@@ -210,6 +212,8 @@
 ||adv0*.msa.cdn.mediaset.net^
 ||advert.*^
 ||advert*.livesportmedia.eu^
+||advert*.ultraweb.hu^
+||adverticum.*.hu^
 ||adx-*.dbankcloud.
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -243,6 +247,7 @@
 ||appanalysis*.banggood.com^
 ||apple-*.le.com^
 ||apples-24x7-*.pages.dev^
+||as*.prog.hu^
 ||asd8900.oss-*.aliyuncs.com^
 ||asicsoutlet*
 ||at*.doubanio.com^
@@ -334,6 +339,7 @@
 ||e-interac-*.com^
 ||e-navy*.weebly.com^
 ||eclog*-*.cafe24.com^
+||etargetnet.*.hu^
 ||eum*.instana.io^
 ||event.*.shoplive.cloud^
 ||events-*.op.hicloud.com^
@@ -508,6 +514,7 @@
 ||real*traf.ru^
 ||redirect.newprogrammatic.click^$denyallow=likely_a_malware_redirection.*
 ||redirectme.net^$denyallow=malware_redirection_trains.*
+||rehs.*.hu^
 ||report.*.gbqofs.io^
 ||report.*.qq.com^
 ||report*.appmetrica.webvisor.com^
@@ -539,6 +546,7 @@
 ||secure-access-*.gate23.xyz^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
+||sher.*.hu^
 ||snowplow-collector-*.amazonaws.com^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
