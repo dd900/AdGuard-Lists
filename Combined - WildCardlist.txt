@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 01 Jun 2025 10:59 UTC
-! Version: 2025.0601.1059
+! Last modified: 01 Jun 2025 19:00 UTC
+! Version: 2025.0601.1900
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -141,7 +141,7 @@
 ||*.spylog.com*^
 ||*.telemetry.microsoft.com^
 ||*.telemetry.mozilla.org^
-||*.top^$dnstype=~CNAME,denyallow=caitlin.top|callmebymygender.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|changlam10.top|changlam11.top|pdcdn1.top|pressplay.top|chillx.top|strims.top|thedesk.top|audioforyou.top|awavenue.top|reyhub.top|iboxs.top|adrules.top|hostingowy.top|to|yggtorrent.top|asiaon.top
+||*.top^$dnstype=~CNAME,denyallow=caitlin.top|callmebymygender.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|changlam10.top|changlam11.top|pdcdn1.top|pressplay.top|chillx.top|strims.top|thedesk.top|audioforyou.top|awavenue.top|reyhub.top|iboxs.top|adrules.top|hostingowy.top|to|yggtorrent.top|asiaon.top|voxel.top
 ||*.trafficmanager.net^
 ||*.virtualearth.net^
 ||*.vortex.*^
@@ -472,12 +472,10 @@
 ||msoftupdate.*.linodeobjects.com^
 ||mssdk*.capcutapi.com^
 ||mssdk*.zijieapi.com^
-||my-altinn*
 ||newverifyyourself-system*.b-cdn.net^
 ||nextag.*^
 ||nhantienquocte*.vercel.app^
 ||nikutjyjgchr*.b-cdn.net^
-||no-forny*
 ||nor-pw*.com^
 ||noticiarecentesagora.net.klebeerlopees*.meusitehostgator.com.br^
 ||ns*.fastthinkingdns.com^
