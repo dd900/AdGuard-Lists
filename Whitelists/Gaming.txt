@@ -8,11 +8,14 @@
 @@||collections.md.mp.microsoft.com^$important,ctag=user_child|device_gameconsole
 @@||collections.mp.microsoft.com^$important,ctag=user_child|device_gameconsole
 @@||displaycatalog.mp.microsoft.com^$important,ctag=user_child|device_gameconsole
+@@||ecsv2.roblox.com^$important,ctag=user_child|device_gameconsole
+@@||ephemeralcounters.api.roblox.com^$important,ctag=user_child|device_gameconsole
 @@||events.data.microsoft.com^$important,ctag=user_child|device_gameconsole
 @@||exitgames.com^$important,ctag=user_child|device_gameconsole
 @@||fp.msedge.net^$important,ctag=user_child|device_gameconsole
 @@||gamefuel.info^$important,ctag=user_child|device_gameconsole
 @@||gmscompliance-pa.googleapis.com^$important,ctag=user_child|device_gameconsole
+@@||locale.roblox.com^$important,ctag=user_child|device_gameconsole
 @@||minecraft-services.net^$important,ctag=user_child|device_gameconsole
 @@||minecraft.net^$important,ctag=user_child|device_gameconsole
 @@||minecraftservices.com^$important,ctag=user_child|device_gameconsole
@@ -29,6 +32,7 @@
 @@||relay.communication.microsoft.com^$important,ctag=user_child|device_gameconsole
 @@||rockstargames.com^$important,ctag=user_child|device_gameconsole
 @@||sidequestvr.com^$important,ctag=user_child|device_gameconsole
+@@||tr.rbxcdn.com^$important,ctag=user_child|device_gameconsole
 @@||vortex.data.microsoft.com^$important,ctag=user_child|device_gameconsole
 @@||www2.ati.com^$important,ctag=user_child|device_gameconsole
 @@||xboxlive.com^$important,ctag=user_child|device_gameconsole
