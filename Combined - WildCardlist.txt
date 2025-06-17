@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 17 Jun 2025 07:38 UTC
-! Version: 2025.0617.0738
+! Last modified: 17 Jun 2025 15:38 UTC
+! Version: 2025.0617.1538
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -440,6 +440,7 @@
 ||logservice-*.platform.dbankcloud.cn^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
+||mail.*-coinbase.com^
 ||mapi-log.qoo*.jp^
 ||marketplace-*.hyprmx.com^
 ||marketplace-item-*.000.pe^
@@ -457,6 +458,7 @@
 ||messagerie*.godaddysites.com^
 ||messagerie*.wixsite.com^
 ||messagerie*.yolasite.com^
+||metamask*.webflow.io^
 ||metric*.rediff.com^
 ||metrics*.fitanalytics.com^
 ||mf*.advantage.as^
@@ -500,6 +502,7 @@
 ||pangolin*.sgsnssdk.com^
 ||partner.superbahisaffiliates*.com^
 ||pay8-2v-*-gmailcom.vercel.app^
+||payer-ma-acture-*.mystrikingly.com^
 ||paypal*.blogspot.
 ||pijama.*.elasticbeanstalk.com^
 ||piwik.*.vn^
