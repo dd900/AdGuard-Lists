@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 17 Jun 2025 23:37 UTC
-! Version: 2025.0617.2337
+! Last modified: 18 Jun 2025 07:37 UTC
+! Version: 2025.0618.0737
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2025-06-17T23:37:21.252Z
+! Last modified: 2025-06-18T07:37:24.315Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -383,6 +383,7 @@
 @@||tracker.rescuecrew7.com^
 @@||tracker.sbsub.com^
 @@||tracker.shkinev.me^
+@@||tracker.skillindia.site^
 @@||tracker.skynetcloud.site^
 @@||tracker.skyts.net^
 @@||tracker.sloppyta.co^
@@ -452,6 +453,7 @@
 @@||udp.tracker.projectk.org^
 @@||ultra.zt.ua^
 @@||utracker.ghostchu-services.top^
+@@||v74853.hosted-by-vdsina.com^
 @@||valakas.rollo.dnsabr.com^
 @@||vibe.community^
 @@||vpn.flying-datacenter.de^
