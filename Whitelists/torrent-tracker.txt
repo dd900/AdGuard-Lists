@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 19 Jun 2025 07:37 UTC
-! Version: 2025.0619.0737
+! Last modified: 19 Jun 2025 15:37 UTC
+! Version: 2025.0619.1537
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2025-06-19T07:37:34.969Z
+! Last modified: 2025-06-19T15:37:37.694Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -247,6 +247,8 @@
 @@||torrenttracker.nwc.acsalaska.net^
 @@||torrentzilla.org^
 @@||tp.m-team.cc^
+@@||tr-rh-zhuqiy.dgj055.icu^
+@@||tr-zhuqiy-1.dgj055.icu^
 @@||tr.abiir.top^
 @@||tr.abir.ga^
 @@||tr.bangumi.moe^
@@ -446,6 +448,7 @@
 @@||tracker810.xyz^
 @@||trakx.herokuapp.com^
 @@||tribalmixes.com^
+@@||trl-zhuqiy.dgj055.icu^
 @@||trun.tom.ru^
 @@||tsundere.pw^
 @@||ttk2.nbaonlineservice.com^
