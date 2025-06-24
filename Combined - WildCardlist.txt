@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 24 Jun 2025 07:38 UTC
-! Version: 2025.0624.0738
+! Last modified: 24 Jun 2025 15:38 UTC
+! Version: 2025.0624.1538
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -441,6 +441,7 @@
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mail.*-coinbase.com^
+||manage-administrere-swisspass-*.codeanyapp.com^
 ||mapi-log.qoo*.jp^
 ||marketplace-*.hyprmx.com^
 ||marketplace-item-*.000.pe^
@@ -586,6 +587,7 @@
 ||steancomm*$denyallow=likely-a-fake-malware-version-of-steamcommunity.com
 ||stlog*-local.kakao.com^
 ||subnewss*.net^
+||suissscomee-correo*.codeanyapp.com^
 ||suite*.linximpulse.net^
 ||support-center-for-*.vercel.app^
 ||support-metahelpcenter-id*.netlify.app^
