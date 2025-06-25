@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 25 Jun 2025 07:38 UTC
-! Version: 2025.0625.0738
+! Last modified: 25 Jun 2025 15:38 UTC
+! Version: 2025.0625.1538
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -207,6 +207,7 @@
 ||ads.livetv*.me^
 ||ads*-normal-*.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
+||ads*-normal*.zijieapi.com^
 ||ads*.bojijulebu.com^
 ||ads*.production-public.tubi.io^
 ||ads*.textra.me^
@@ -479,6 +480,7 @@
 ||mon*-*.tiktokv.com^
 ||mon*-*.tiktokv.us^
 ||mon*-misc-lf.fqnovel.com^
+||mon*-misc.fqnovel.com^
 ||monetrizer*.
 ||ms*.applvn.com^
 ||msoftupdate.*.linodeobjects.com^
