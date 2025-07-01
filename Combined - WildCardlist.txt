@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 01 Jul 2025 15:38 UTC
-! Version: 2025.0701.1538
+! Last modified: 01 Jul 2025 23:38 UTC
+! Version: 2025.0701.2338
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -236,7 +236,6 @@
 ||analytics*.carambo.la^
 ||analytics*.clickdimensions.com^
 ||analytics*.prezly.com^
-||analyzer*.fc2.com^
 ||androidgreek.com^$denyallow=had_not_updated_their_root_guides_to_reflect_a_b_partition_phones_as_of_2021.*
 ||androidweblog.com^$denyallow=had_not_updated_their_root_guides_to_reflect_a_b_partition_phones_as_of_2021.*
 ||anti-automation-v*.b-cdn.net^
