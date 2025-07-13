@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 02 Jul 2025 07:36 UTC
-! Version: 2025.0702.0736
+! Last modified: 13 Jul 2025 17:42 UTC
+! Version: 2025.0713.1742
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2025-07-02T07:36:53.580Z
+! Last modified: 2025-07-13T17:42:21.146Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -296,6 +296,7 @@
 @@||tracker.bz^
 @@||tracker.coppersurfer.tk^
 @@||tracker.corpscorp.online^
+@@||tracker.cutie.dating^
 @@||tracker.cyber-hub.net^
 @@||tracker.cyberia.is^
 @@||tracker.darkness.services^
@@ -330,6 +331,7 @@
 @@||tracker.gmi.gd^
 @@||tracker.grepler.com^
 @@||tracker.guguan.dpdns.org^
+@@||tracker.guguan.us.kg^
 @@||tracker.halfchub.club^
 @@||tracker.hama3.net^
 @@||tracker.hifimarket.in^
@@ -427,6 +429,7 @@
 @@||tracker.vulnix.sh^
 @@||tracker.waaa.moe^
 @@||tracker.xiaoduola.xyz^
+@@||tracker.xn--djrq4gl4hvoi.top^
 @@||tracker.yemekyedim.com^
 @@||tracker.ygsub.com^
 @@||tracker.yoshi210.com^

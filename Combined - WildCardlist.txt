@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 02 Jul 2025 07:38 UTC
-! Version: 2025.0702.0738
+! Last modified: 13 Jul 2025 17:43 UTC
+! Version: 2025.0713.1743
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -261,6 +261,7 @@
 ||att-currently-*.weeblysite.com^
 ||attonlineservice*.wixstudio.com^
 ||atwola.*^
+||aupostrackse.*
 ||aussie-gamer.com^$denyallow=the-site-was-stolen-by-casino-link-spammers.*
 ||auth-*.hismarttv.com^
 ||authsignonstaff*.softr.app^
@@ -380,6 +381,7 @@
 ||gscounters.*.gigya.com^
 ||hbbtv.*.de^
 ||help-for-work-*.pages.dev^
+||henrypp.org^$denyallow=stolen_by_casino_spammers.*
 ||highcpmrevenue*.com^
 ||highperformancecpm*.com^
 ||hn-ping*.hashnode.com^
@@ -403,6 +405,7 @@
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||info-espanol-id-configes*.codeanyapp.com^
+||inputmapper.com^$denyallow=stolen_by_casino_spammers.*
 ||install*.zonastat.com^
 ||intellitxt.*^
 ||iphone-caviar.ru*entranceId
@@ -513,6 +516,7 @@
 ||pixelapi-*.cs.mysamba.tv^
 ||pointroll.*^
 ||polaris*-normal-*.zijieapi.com^
+||postnorg-dk*
 ||prebid-*.rubiconproject.com^
 ||prebid-cache*.ifunny.co^
 ||production-adserver-*.amazonaws.com^
