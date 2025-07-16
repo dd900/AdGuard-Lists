@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 16 Jul 2025 01:42 UTC
-! Version: 2025.0716.0142
+! Last modified: 16 Jul 2025 09:42 UTC
+! Version: 2025.0716.0942
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2025-07-16T01:42:04.552Z
+! Last modified: 2025-07-16T09:42:03.266Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -37,6 +37,7 @@
 @@||api.bitumconference.ru^
 @@||aruacfilmes.com.br^
 @@||asger.xyz^
+@@||asiatorrent.ddns.net^
 @@||baibako.tv^
 @@||bandito.byterunner.io^
 @@||bclearning.top^
