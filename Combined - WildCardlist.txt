@@ -1,10 +1,12 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 21 Jul 2025 09:43 UTC
-! Version: 2025.0721.0943
+! Last modified: 21 Jul 2025 17:43 UTC
+! Version: 2025.0721.1743
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
+-ndax-*.webflow.io^
+-sso-*.webflow.io^
 -ulog-*.kwai-pro.com^
 -ulog-*.kwaipros.com^
 -ulog.*.kwai-pro.com^
@@ -334,6 +336,7 @@
 ||dedicloadpgeing*.b-cdn.net^
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
+||dhl.*.potabox.com^
 ||discord*.gifts^
 ||discovery-ios-*.ertelecom.ru^
 ||dlscord*.
@@ -576,6 +579,7 @@
 ||spoti-*.codeanyapp.com^
 ||spoti-safe-support*.codeanyapp.com^
 ||srmdata-*.com^
+||sso-*.webflow.io^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||st-n.ads*-adnow.com^
