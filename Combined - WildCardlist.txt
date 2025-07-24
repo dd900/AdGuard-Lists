@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 24 Jul 2025 09:43 UTC
-! Version: 2025.0724.0943
+! Last modified: 24 Jul 2025 17:43 UTC
+! Version: 2025.0724.1743
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -295,6 +295,7 @@
 ||browser-intake-*-datadoghq.com^
 ||business-facebook-*.pages.dev^
 ||c*hit.zerkalo.io^
+||caixa-*.codeanyapp.com^
 ||cdn-adn-*.rayjump.com^
 ||cdn*.swaxis.com^
 ||ce-global-track-*.amazonaws.com^
@@ -382,6 +383,7 @@
 ||googletagservices.*^
 ||govern-assessment-validation-*.vercel.app^
 ||gscounters.*.gigya.com^
+||hba*.hepsiburada.com^
 ||hbbtv.*.de^
 ||help-for-work-*.pages.dev^
 ||henrypp.org^$denyallow=stolen_by_casino_spammers.*
