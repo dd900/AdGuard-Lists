@@ -1,7 +1,7 @@
 ! Title: Combined - Regexlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 29 Jul 2025 17:43 UTC
-! Version: 2025.0729.1743
+! Last modified: 30 Jul 2025 01:43 UTC
+! Version: 2025.0730.0143
 
 /_dating\d\/index\.html\?aref=/
 /.*.1rtb.com/
@@ -118,4 +118,3 @@
 /^stat(s|istics)?[0-9]*[_.-]/
 /193.200.64.24:/
 /62.76.25.2(7|8)/
-/cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com/
