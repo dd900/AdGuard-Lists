@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 31 Jul 2025 01:42 UTC
-! Version: 2025.0731.0142
+! Last modified: 31 Jul 2025 09:42 UTC
+! Version: 2025.0731.0942
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2025-07-31T01:42:06.689Z
+! Last modified: 2025-07-31T09:42:07.384Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -113,9 +113,11 @@
 @@||free-tracker.zooki.xyz^
 @@||funfile.org^
 @@||git.vulnix.sh^
+@@||glotorrents.pw^
 @@||grifon.info^
 @@||h4.trakx.nibba.trade^
 @@||hdreactor.org^
+@@||hificode.in^
 @@||highteahop.top^
 @@||home.yxgz.club^
 @@||inferno.demonoid.is^
@@ -180,6 +182,7 @@
 @@||opentracker.io^
 @@||opentracker.xyz^
 @@||p4p.arenabg.com^
+@@||passpulse.net^
 @@||peerfect.org^
 @@||potuk.com^
 @@||pow7.com^
@@ -241,7 +244,6 @@
 @@||tk.mabo.ltd^
 @@||torrent-team.net^
 @@||torrent.arjlover.net^
-@@||torrent.hificode.in^
 @@||torrent.i.ng^
 @@||torrent.mp3quran.net^
 @@||torrent.nwps.ws^
@@ -341,6 +343,7 @@
 @@||tracker.guguan.us.kg^
 @@||tracker.halfchub.club^
 @@||tracker.hama3.net^
+@@||tracker.healthcareindia.store^
 @@||tracker.hifimarket.in^
 @@||tracker.hifitechindia.com^
 @@||tracker.home.kmzs123.cn^
@@ -448,6 +451,7 @@
 @@||tracker.zhuqiy.dgj055.icu^
 @@||tracker.zhuqiy.top^
 @@||tracker.zum.bi^
+@@||tracker.zupix.online^
 @@||tracker0.ufibox.com^
 @@||tracker01.loveapp.com^
 @@||tracker1.520.jp^
