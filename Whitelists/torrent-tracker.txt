@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 06 Aug 2025 01:42 UTC
-! Version: 2025.0806.0142
+! Last modified: 06 Aug 2025 09:42 UTC
+! Version: 2025.0806.0942
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2025-08-06T01:42:00.711Z
+! Last modified: 2025-08-06T09:42:00.727Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -283,12 +283,14 @@
 @@||tracker.bittor.pw^
 @@||tracker.bittorrent.am^
 @@||tracker.blacksparrowmedia.net^
+@@||tracker.bontal.net^
 @@||tracker.breizh.pm^
 @@||tracker.bt-hash.com^
 @@||tracker.bt4g.com^
 @@||tracker.btnext.com^
 @@||tracker.btsync.gq^
 @@||tracker.bz^
+@@||tracker.cangku.moe^
 @@||tracker.coppersurfer.tk^
 @@||tracker.corpscorp.online^
 @@||tracker.cutie.dating^
@@ -317,6 +319,7 @@
 @@||tracker.frozen-layer.net^
 @@||tracker.gbitt.info^
 @@||tracker.gcrenwp.top^
+@@||tracker.ghostchu-services.top^
 @@||tracker.gigantino.net^
 @@||tracker.gigatorrents.ws^
 @@||tracker.gmi.gd^
