@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 05 Aug 2025 17:43 UTC
-! Version: 2025.0805.1743
+! Last modified: 06 Aug 2025 01:43 UTC
+! Version: 2025.0806.0143
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -357,6 +357,7 @@
 ||e-interac-*.com^
 ||e-navy*.weebly.com^
 ||eclog*-*.cafe24.com^
+||ecommerce-events*.adscale.com^
 ||etargetnet.*.hu^
 ||eum*.instana.io^
 ||event.*.shoplive.cloud^
