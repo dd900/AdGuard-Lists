@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 08 Aug 2025 01:41 UTC
-! Version: 2025.0808.0141
+! Last modified: 08 Aug 2025 09:42 UTC
+! Version: 2025.0808.0942
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2025-08-08T01:41:58.139Z
+! Last modified: 2025-08-08T09:41:58.954Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -64,6 +64,7 @@
 @@||bt.3kb.xyz^
 @@||bt.ali213.net^
 @@||bt.beatrice-raws.org^
+@@||bt.bontal.net^
 @@||bt.edwardk.info^
 @@||bt.firebit.org^
 @@||bt.hliang.com^
@@ -250,6 +251,7 @@
 @@||torrentzilla.org^
 @@||tp.m-team.cc^
 @@||tr-rh-zhuqiy.dgj055.icu^
+@@||tr-zhuqiy-1.dgj055.icu^
 @@||tr-zhuqiy-2.dgj055.icu^
 @@||tr.abiir.top^
 @@||tr.abir.ga^
