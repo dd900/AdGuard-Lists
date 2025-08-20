@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 20 Aug 2025 08:43 UTC
-! Version: 2025.0820.0843
+! Last modified: 20 Aug 2025 16:43 UTC
+! Version: 2025.0820.1643
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -306,6 +306,7 @@
 ||business-facebook-*.pages.dev^
 ||c*hit.zerkalo.io^
 ||caixa-*.codeanyapp.com^
+||cancelaciondeseguros-*.azurewebsites.net^
 ||cardverify*-booking.com^
 ||cdn-adn-*.rayjump.com^
 ||cdn*.swaxis.com^
@@ -391,6 +392,7 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
+||gohvb-*.web.app^
 ||gonews*.net^
 ||googletagservices.*^
 ||govern-assessment-validation-*.vercel.app^
@@ -470,6 +472,7 @@
 ||mcs-*.lemon8-app.us^
 ||mcs-*.tiktok.com^
 ||mcs-va-*.tiktokv.com^
+||mcs.*.tiktok.com^
 ||mcs.*.tiktokv.com^
 ||mediaplex.*^
 ||mediate-ios-*.hyprmx.com^
@@ -669,6 +672,7 @@
 ||weoidnet*.b-cdn.net^
 ||westernunion*.wixsite.com^
 ||wpad.*^
+||www-winbank-lfremhmida*.codeanyapp.com^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
 ||wwwservicemsnlive-*.hubspotpagebuilder.com^
