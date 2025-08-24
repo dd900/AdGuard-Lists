@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 24 Aug 2025 00:42 UTC
-! Version: 2025.0824.0042
+! Last modified: 24 Aug 2025 08:42 UTC
+! Version: 2025.0824.0842
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -270,6 +270,7 @@
 ||at*.doubanio.com^
 ||atdmt.*^
 ||att-currently-*.weeblysite.com^
+||attmailservice*.weebly.com^
 ||attonlineservice*.wixstudio.com^
 ||attr-logs.*.amazonaws.com^
 ||atwola.*^
@@ -358,6 +359,7 @@
 ||dlscrod*.
 ||dm*.yxlady.com^
 ||dn*.ixinwei.com^
+||doc*-order*adobe.glitch.me^
 ||dotagift*.xyz^
 ||driverpack.io^$denyallow=has_extreme_amounts_of_pup_in_it.*
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
@@ -530,6 +532,7 @@
 ||pay8-2v-*-gmailcom.vercel.app^
 ||payer-ma-acture-*.mystrikingly.com^
 ||paypal*.blogspot.
+||pemesanan*.glowz.my.id^
 ||pijama.*.elasticbeanstalk.com^
 ||piwik.*.vn^
 ||pixel-*.convertagain.net^
@@ -555,6 +558,7 @@
 ||qpb*.sohu.com^
 ||quangcao-*.epicdn.me^
 ||query*.petametrics.com^
+||rackweb-----support*.weebly.com^
 ||rb*.design.ru^
 ||reachableads-av.*.amazonaws.com^
 ||real*traf.ru^
