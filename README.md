@@ -5,3 +5,4 @@ These are my personal AdGuard lists. You are free to use them any way you like. 
 3. Entries containing a tld that is in the [tld source](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt) are replaced by the tld source entry or removed if it already exists.
 
 Sources are listed [here](https://github.com/dd900/AdGuard-Lists/tree/master/Sources)
+I tend to block a lot and whitelist as needed.
