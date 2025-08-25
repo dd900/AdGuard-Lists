@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/regex-whitelists/general-false-positive-regex-whitelist-ftprivacy.txt
+https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/regex-whitelists/legit-crypto-mining-regex-whitelist-ftprivacy.txt
+https://raw.githubusercontent.com/dd900/AdGuard-Lists/refs/heads/master/Whitelists/Whitelist.txt
+https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
