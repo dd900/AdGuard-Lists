@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 26 Aug 2025 08:42 UTC
-! Version: 2025.0826.0842
+! Last modified: 26 Aug 2025 16:42 UTC
+! Version: 2025.0826.1642
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -547,6 +547,7 @@
 ||prebid-*.rubiconproject.com^
 ||prebid-cache*.ifunny.co^
 ||production-adserver-*.amazonaws.com^
+||profile-ourtime.*.workers.dev^
 ||profitablecpm*.com^
 ||pttavm.*.com.tr^
 ||pubggf*.xyz^
@@ -676,6 +677,7 @@
 ||violation-*.surge.sh^
 ||vnote-*.myqcloud.com^
 ||vns86.oss-*.aliyuncs.com^
+||voice-ourtime.*.workers.dev^
 ||w*statistics.info^
 ||webtrends.*^
 ||weoidnet*.b-cdn.net^
