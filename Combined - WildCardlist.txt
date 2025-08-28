@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 28 Aug 2025 08:42 UTC
-! Version: 2025.0828.0842
+! Last modified: 28 Aug 2025 16:42 UTC
+! Version: 2025.0828.1642
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -361,6 +361,7 @@
 ||dn*.ixinwei.com^
 ||doc*-order*adobe.glitch.me^
 ||dotagift*.xyz^
+||download-wetransfer-*.vercel.app^
 ||driverpack.io^$denyallow=has_extreme_amounts_of_pup_in_it.*
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||dw-informer-*.newsru.com^
@@ -449,6 +450,7 @@
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
+||lnkdeka.standard.*.oortech.com^
 ||log-*.epicdn.me^
 ||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
@@ -512,6 +514,7 @@
 ||msoftupdate.*.linodeobjects.com^
 ||mssdk*.capcutapi.com^
 ||mssdk*.zijieapi.com^
+||my-ee-*.web.app^
 ||namecheapsupport-*.codeanyapp.com^
 ||newverifyyourself-system*.b-cdn.net^
 ||nextag.*^
@@ -560,6 +563,7 @@
 ||quangcao-*.epicdn.me^
 ||query*.petametrics.com^
 ||rackweb-----support*.weebly.com^
+||rampostsouthafrican-*.codeanyapp.com^
 ||rb*.design.ru^
 ||reachableads-av.*.amazonaws.com^
 ||real*traf.ru^
