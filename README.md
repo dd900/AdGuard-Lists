@@ -7,3 +7,4 @@ These are my personal AdGuard lists. You are free to use them any way you like. 
 Sources are listed [here](https://github.com/dd900/AdGuard-Lists/tree/master/Sources).
 
 I tend to block a lot and whitelist as needed.
+Lists are **usually** updated every 8 hours.
