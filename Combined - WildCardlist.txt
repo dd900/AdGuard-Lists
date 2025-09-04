@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 04 Sep 2025 08:43 UTC
-! Version: 2025.0904.0843
+! Last modified: 04 Sep 2025 16:43 UTC
+! Version: 2025.0904.1643
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -332,10 +332,7 @@
 ||copyrights-*.surge.sh^
 ||counter*.freecounter.ovh^
 ||counter*.stat.ovh^
-||cpmrevdirect.com^$denyallow=malware_redirection_trains.*
-||cpmrvdirect.com^$denyallow=malware_redirection_trains.*
 ||cpmverdirect.com^$denyallow=malware_redirection_trains.*
-||cpmvrdirect.com^$denyallow=malware_redirection_trains.*
 ||creative*.bidease.com^
 ||creatives.*^
 ||cs*.mp3bars.com^
@@ -380,7 +377,6 @@
 ||f-log-*.grammarly.io^
 ||facebook-*.ubpages.com^
 ||facture-pdf-secure-*.vercel.app^
-||fadverdirect.com^$denyallow=malware_redirection_trains.*
 ||falkag.*^
 ||fan-page-*.surge.sh^
 ||fanpingbi*.gaokao.com^
@@ -418,7 +414,6 @@
 ||host*.polaroid.com^
 ||host*.rigbyandpeller.com^
 ||host*.rvshare.com^
-||hosting-redirect.com^$denyallow=malware_redirection_trains.*
 ||hostingcloud.*.wasm^
 ||hstats*.hepsiburada.com^
 ||hw-sh-pcdn-*.biliapi.net^
@@ -576,9 +571,6 @@
 ||res*.pinpai8.cn^
 ||rightmedia.*^
 ||rtbimp-loadbalancer-*.amazonaws.com^
-||rtbrevdirect.com^$denyallow=malware_redirection_trains.*
-||rtbverdirect.com^$denyallow=malware_redirection_trains.*
-||rtbvrdirect.com^$denyallow=malware_redirection_trains.*
 ||rtlog*.tiktokv.com^
 ||rtlog*.tiktokv.us^
 ||rum*.a.trbcdn.net^
