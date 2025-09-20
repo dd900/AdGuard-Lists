@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 19 Sep 2025 21:24 UTC
-! Version: 2025.0919.2124
+! Last modified: 20 Sep 2025 05:24 UTC
+! Version: 2025.0920.0524
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -353,6 +353,7 @@
 ||dhl.*.potabox.com^
 ||discord*.gifts^
 ||discovery-ios-*.ertelecom.ru^
+||divingshop.nl^$denyallow=bank_transaction_scammers.*
 ||dlscord*.
 ||dlscrod*.
 ||dm*.yxlady.com^
