@@ -1,7 +1,7 @@
 ! Title: Combined - Regexlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 21 Sep 2025 13:25 UTC
-! Version: 2025.0921.1325
+! Last modified: 26 Sep 2025 09:53 UTC
+! Version: 2025.0926.0953
 
 /_dating\d\/index\.html\?aref=/
 /(https?:\/\/)213\.32\.115\..{100,}/
@@ -12,6 +12,7 @@
 /\/(?:[0-9a-z]{7,25}-){9,13}[0-9a-z]{10,15}\/(?:[0-9a-z]+\/)+index\.php/
 /^(.*://|.*\.)?[a-z]{5,}-[a-z]{5,}-[a-z]{5,}\.xyz(/.*)?$/
 /^(.*[./])?discord[a-z0-9-]{1,}\.gifts?(/.*)?$/
+/^(.*\.|.*://)?[a-z0-9-]{2,}trk\.xyz(/.*)?$/
 /^(.*\.|.*//)?1xslot\d{5,}\.com(/.*)?$/
 /^(.*\.|.*//)?linebet\d{4}\.com(/.*)?$/
 /^(.*\.|.*//)?linebet\d{5,}[a-z]\.com(/.*)?$/
@@ -88,6 +89,8 @@
 /^banners?[_.-]/
 /^beacons?[0-9]*[_.-]/
 /^count(ers?)?[0-9]*[_.-]/
+/^https://[a-z]{1,}-gitcoin\.com/?$/
+/^https://gitcoin-[a-z]{1,}\.com/?$/
 /^https:\/\/(a|c)\.[0-9a-f]{56}\.com$/
 /^https?://([a-z-]{1,})?luck([a-z-]{1,})?\.club(/.*)?$/
 /^https?://(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\d{2,8}\.[a-z-]{5,22}\d{1,8}\.(icu|life|live).*$/

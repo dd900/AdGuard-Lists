@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 21 Sep 2025 13:25 UTC
-! Version: 2025.0921.1325
+! Last modified: 26 Sep 2025 09:53 UTC
+! Version: 2025.0926.0953
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -38,28 +38,6 @@
 ://ww26.$denyallow=ww26.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
 ://ww27.$denyallow=ww27.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
 ://ww28.$denyallow=ww28.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww29.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww30.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww31.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww32.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww33.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww34.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww35.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww36.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww37.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww38.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww39.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww40.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww41.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww42.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww43.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww44.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww45.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww46.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww47.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww48.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww49.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-://ww50.$denyallow=practically_always_leads_to_a_domain_parking_service_known_for_malware.*
 .booking.com-id*
 .com-id*.com^
 .com-id*.info^
@@ -238,7 +216,7 @@
 ||ali-bj-pcdn-*.biliapi.net^
 ||alienxchain*.pages.dev^
 ||alishop*.ru^
-||all-best-prize-202*.com^$denyallow=malware_site.*
+||all-best-prize-202*.com^
 ||amandes*.serv00.net^
 ||ana*.inews24.com^
 ||analytics-*-nfl.yinzcam.com^
@@ -248,8 +226,6 @@
 ||analytics*.clickdimensions.com^
 ||analytics*.prezly.com^
 ||analyzer*.fc2.com^
-||androidgreek.com^$denyallow=had_not_updated_their_root_guides_to_reflect_a_b_partition_phones_as_of_2021.*
-||androidweblog.com^$denyallow=had_not_updated_their_root_guides_to_reflect_a_b_partition_phones_as_of_2021.*
 ||anti-automation-v*.b-cdn.net^
 ||api-*.hismarttv.com^
 ||api.*.hismarttv.com^
@@ -296,7 +272,7 @@
 ||beacon-*.helpscout.net^
 ||beacons*.gvt3.com^
 ||beehiiv-adnetwork-production.s*.amazonaws.com^
-||best-prizes-202*.com^$denyallow=malware_site.*
+||best-prizes-202*.com^
 ||best202*-games-web1.com^
 ||bi-eventtracker-*.amazonaws.com^
 ||bingkasprogram-*.xdbng.com^
@@ -333,7 +309,6 @@
 ||copyrights-*.surge.sh^
 ||counter*.freecounter.ovh^
 ||counter*.stat.ovh^
-||cpmverdirect.com^$denyallow=malware_redirection_trains.*
 ||creative*.bidease.com^
 ||creatives.*^
 ||cs*.mp3bars.com^
@@ -353,7 +328,6 @@
 ||dhl.*.potabox.com^
 ||discord*.gifts^
 ||discovery-ios-*.ertelecom.ru^
-||divingshop.nl^$denyallow=bank_transaction_scammers.*
 ||dlscord*.
 ||dlscrod*.
 ||dm*.yxlady.com^
@@ -361,7 +335,6 @@
 ||doc*-order*adobe.glitch.me^
 ||dotagift*.xyz^
 ||download-wetransfer-*.vercel.app^
-||driverpack.io^$denyallow=has_extreme_amounts_of_pup_in_it.*
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||dw-informer-*.newsru.com^
 ||e-interac-*.com^
@@ -390,8 +363,6 @@
 ||flurry.agentportal.*.yahoodns.net^
 ||fp-*it*.fengkongcloud.com^
 ||fpb*.51edu.com^
-||gadgetsfarms.com^$denyallow=had_not_updated_their_root_guides_to_reflect_a_b_partition_phones_as_of_2021.*
-||gadgetstwist.com^$denyallow=had_not_updated_their_root_guides_to_reflect_a_b_partition_phones_as_of_2021.*
 ||gcw*.2liang.cn^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||geoloc*.geo20120530.com^
@@ -405,7 +376,6 @@
 ||hba*.hepsiburada.com^
 ||hbbtv.*.de^
 ||help-for-work-*.pages.dev^
-||henrypp.org^$denyallow=stolen_by_casino_spammers.*
 ||highcpmrevenue*.com^
 ||highperformancecpm*.com^
 ||hn-ping*.hashnode.com^
@@ -429,7 +399,6 @@
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||info-espanol-id-configes*.codeanyapp.com^
-||inputmapper.com^$denyallow=stolen_by_casino_spammers.*
 ||install*.zonastat.com^
 ||intellitxt.*^
 ||iphone-caviar.ru*entranceId
@@ -554,6 +523,7 @@
 ||pubggf*.xyz^
 ||pubggift*.xyz^
 ||putrr*.com^
+||pwredir-*.com^
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
 ||qksrv.*^
@@ -565,8 +535,7 @@
 ||rb*.design.ru^
 ||reachableads-av.*.amazonaws.com^
 ||real*traf.ru^
-||redirect.newprogrammatic.click^$denyallow=likely_a_malware_redirection.*
-||redirectme.net^$denyallow=malware_redirection_trains.*
+||redir-pw*.com^
 ||rehs.*.hu^
 ||report.*.gbqofs.io^
 ||report.*.qq.com^
@@ -629,7 +598,6 @@
 ||t*.zcvh.net^
 ||tag-based.s3.*.amazonaws.com^
 ||tag.*^
-||techorfy.com^$denyallow=had_not_updated_their_root_guides_to_reflect_a_b_partition_phones_as_of_2021.*
 ||telemetry.*.pvp.net^
 ||telemetry.*^
 ||telemetry*.transcend.io^
@@ -647,7 +615,7 @@
 ||tracking-v*.a.run.app^
 ||tracking.*.miui.com^
 ||tracking*.euroads.fi^
-||trc.*.co^$denyallow=malware_redirection_trains.*
+||trc.*.co^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||tribalfusion.*^
 ||trk*.vidible.tv^
@@ -664,7 +632,6 @@
 ||ulog*.kwai-pro.com^
 ||ulog*.kwaipros.com^
 ||union*.365inews.com^
-||unofficialtwrp.com^$denyallow=had_not_updated_their_root_guides_to_reflect_a_b_partition_phones_as_of_2021.*
 ||use-trk*.bluevoox.com^
 ||usps-packages-*.com^
 ||utahpolicetraining.*.mybluehost.me^
@@ -691,8 +658,6 @@
 ||ya*.dwstatic.com^
 ||yandex.avito.sber*
 ||ysdm*.ys137.com.cn^
-||ytechb.com^$denyallow=had_not_updated_their_root_guides_to_reflect_a_b_partition_phones_as_of_2021.*
-||zeroredirect5.com^$denyallow=malware_redirection_trains.*
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||zoom.us*web.us^
 |c.blue.*.com^|
