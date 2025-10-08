@@ -1,7 +1,7 @@
 ! Title: Combined - Regexlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 08 Oct 2025 08:56 UTC
-! Version: 2025.1008.0856
+! Last modified: 08 Oct 2025 16:56 UTC
+! Version: 2025.1008.1656
 
 /_dating\d\/index\.html\?aref=/
 /(https?:\/\/)213\.32\.115\..{100,}/
@@ -89,6 +89,7 @@
 /^banners?[_.-]/
 /^beacons?[0-9]*[_.-]/
 /^count(ers?)?[0-9]*[_.-]/
+/^http.*\.com//?secureproxy(\.php)?\?e=(ping|/)[a-z_]{0,}$/
 /^https://[a-z]{1,}-gitcoin\.com/?$/
 /^https://gitcoin-[a-z]{1,}\.com/?$/
 /^https:\/\/(a|c)\.[0-9a-f]{56}\.com$/
