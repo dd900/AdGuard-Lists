@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 09 Oct 2025 04:06 UTC
-! Version: 2025.1009.0406
+! Last modified: 09 Oct 2025 12:06 UTC
+! Version: 2025.1009.1206
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -495,6 +495,7 @@
 ||ns*.fastthinkingdns.com^
 ||oas.*^
 ||oascentral.*^
+||orange-connexion*.godaddysites.com^
 ||orbit*.lun.ua^
 ||orderana*.spankbang.com^
 ||outloksupport*.glitch.me^
