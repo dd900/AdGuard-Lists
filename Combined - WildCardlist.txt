@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 12 Oct 2025 20:06 UTC
-! Version: 2025.1012.2006
+! Last modified: 13 Oct 2025 04:06 UTC
+! Version: 2025.1013.0406
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -85,6 +85,7 @@
 *usafactoryoutlet.com^
 *watson.events.data.microsoft.com^
 ||*-datareceiver.aki-game.net^
+||*-sdk.rum.aliyuncs.com^
 ||*.a-msedge.net^
 ||*.ad.xiaomi.com^
 ||*.adbrite.*^
