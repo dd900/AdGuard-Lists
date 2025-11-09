@@ -1,7 +1,7 @@
 ! Title: Combined - Regexlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 08 Nov 2025 21:12 UTC
-! Version: 2025.1108.2112
+! Last modified: 09 Nov 2025 05:12 UTC
+! Version: 2025.1109.0512
 
 /_dating\d\/index\.html\?aref=/
 /(https?:\/\/)213\.32\.115\..{100,}/
@@ -89,13 +89,11 @@
 /^banners?[_.-]/
 /^beacons?[0-9]*[_.-]/
 /^count(ers?)?[0-9]*[_.-]/
-/^http.*\.com//?secureproxy(\.php)?\?e=(ping|/)[a-z_]{0,}$/
 /^https://[a-z]{1,}-gitcoin\.com/?$/
 /^https://gitcoin-[a-z]{1,}\.com/?$/
 /^https:\/\/(a|c)\.[0-9a-f]{56}\.com$/
 /^https?://([a-z-]{1,})?luck([a-z-]{1,})?\.club(/.*)?$/
 /^https?://(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\d{2,8}\.[a-z-]{5,22}\d{1,8}\.(icu|life|live).*$/
-/^https?://(www\.)?[a-z0-9-]{1,}\.[a-z]{2,17}/[a-z0-9]/\?[a-z0-9.-]{8,}$/
 /^https?://[a-z0-9-]{30,}\..*\.elasticbeanstalk\.com(/.*)?$/
 /^https?://\d\d?\.[a-z0-9-]{1,}\.(club|me)(/.*)?$/
 /^https?:\/\/[a-z]{7}\.[a-z]{8,11}\.com\/products\/(?:[0-9a-z]+-)*(?:%[%0-9A-F]{8,}-)+(?:[0-9a-z]+-)*(?:[%0-9A-F]{8,}-)*[-%0-9A-Fa-z]+\/?$/$doc,match-case,ipaddress=/^23\.2\d{2}\.\d{2}\.\d{2}$/
