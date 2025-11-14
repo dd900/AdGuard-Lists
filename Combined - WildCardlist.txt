@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 14 Nov 2025 05:12 UTC
-! Version: 2025.1114.0512
+! Last modified: 14 Nov 2025 13:12 UTC
+! Version: 2025.1114.1312
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -279,6 +279,7 @@
 ||best202*-games-web1.com^
 ||bi-eventtracker-*.amazonaws.com^
 ||bingkasprogram-*.xdbng.com^
+||blocchecker*.pages.dev^
 ||block.s*block.com^
 ||bondzgi*.
 ||booking.com-id*
