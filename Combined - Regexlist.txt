@@ -1,7 +1,7 @@
 ! Title: Combined - Regexlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 17 Nov 2025 13:12 UTC
-! Version: 2025.1117.1312
+! Last modified: 17 Nov 2025 21:12 UTC
+! Version: 2025.1117.2112
 
 /_dating\d\/index\.html\?aref=/
 /(https?:\/\/)213\.32\.115\..{100,}/
@@ -87,12 +87,14 @@
 /^advert(s|is(ing|ements?))?[0-9]*[_.-]/
 /^aff(iliat(es?|ion))?[_.-]/
 /^analytics?[_.-]/
+/^anon1.gt\d{6}.com$/
 /^banners?[_.-]/
 /^beacons?[0-9]*[_.-]/
 /^count(ers?)?[0-9]*[_.-]/
 /^https://[a-z]{1,}-gitcoin\.com/?$/
 /^https://gitcoin-[a-z]{1,}\.com/?$/
 /^https:\/\/(a|c)\.[0-9a-f]{56}\.com$/
+/^https:\/\/anon1.gt\d{6}.com/
 /^https?://([a-z-]{1,})?luck([a-z-]{1,})?\.club(/.*)?$/
 /^https?://(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\d{2,8}\.[a-z-]{5,22}\d{1,8}\.(icu|life|live).*$/
 /^https?://[a-z0-9-]{30,}\..*\.elasticbeanstalk\.com(/.*)?$/
