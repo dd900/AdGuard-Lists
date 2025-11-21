@@ -1,11 +1,11 @@
 ! Title: Torrent Trackers Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 21 Nov 2025 07:04 UTC
-! Version: 2025.1121.0704
+! Last modified: 21 Nov 2025 15:04 UTC
+! Version: 2025.1121.1504
 
 !
 ! Title: Combined Whitelists
-! Last modified: 2025-11-21T07:04:14.819Z
+! Last modified: 2025-11-21T15:04:15.417Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
