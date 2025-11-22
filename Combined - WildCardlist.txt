@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 22 Nov 2025 07:05 UTC
-! Version: 2025.1122.0705
+! Last modified: 22 Nov 2025 15:05 UTC
+! Version: 2025.1122.1505
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -672,6 +672,7 @@
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
 ||wwwservicemsnlive-*.hubspotpagebuilder.com^
+||xblocklist*.pages.dev^
 ||xlog*-*.tiktokv.com^
 ||xparibet*.com^
 ||ya*.dwstatic.com^
