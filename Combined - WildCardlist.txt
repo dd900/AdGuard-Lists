@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 26 Dec 2025 03:46 UTC
-! Version: 2025.1226.0346
+! Last modified: 26 Dec 2025 11:46 UTC
+! Version: 2025.1226.1146
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -591,6 +591,7 @@
 ||snowplow-collector-*.amazonaws.com^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
+||spa-tracker*.spapi.io^
 ||speedera.*^
 ||spoti-*.codeanyapp.com^
 ||spoti-safe-support*.codeanyapp.com^
