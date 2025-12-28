@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 28 Dec 2025 03:46 UTC
-! Version: 2025.1228.0346
+! Last modified: 28 Dec 2025 11:45 UTC
+! Version: 2025.1228.1145
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -367,7 +367,6 @@
 ||fanpingbi*.gaokao.com^
 ||faro-collector-prod-*.grafana.net^
 ||file-typ-botcheck*.b-cdn.net^
-||florida.revenue-*.net^
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
