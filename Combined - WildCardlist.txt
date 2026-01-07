@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 07 Jan 2026 11:45 UTC
-! Version: 2026.0107.1145
+! Last modified: 07 Jan 2026 19:45 UTC
+! Version: 2026.0107.1945
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -442,6 +442,7 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||logger-*.dailymotion.com^
+||logreport-global-dual.cool*cloud.com^
 ||logs-*.rebxgame.com^
 ||logs*.smithsonian.museum^
 ||logservice-*.platform.dbankcloud.cn^
@@ -672,10 +673,12 @@
 ||vns86.oss-*.aliyuncs.com^
 ||voice-ourtime.*.workers.dev^
 ||w*statistics.info^
+||weblogger-wss.cool*cloud.com^
 ||webtrends.*^
 ||weoidnet*.b-cdn.net^
 ||westernunion*.wixsite.com^
 ||wpad.*^
+||wslog-global-dual.cool*cloud.com^
 ||www-winbank-lfremhmida*.codeanyapp.com^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
