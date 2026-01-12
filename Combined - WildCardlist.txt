@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 12 Jan 2026 08:24 UTC
-! Version: 2026.0112.0824
+! Last modified: 12 Jan 2026 16:24 UTC
+! Version: 2026.0112.1624
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -642,6 +642,7 @@
 ||tracking-*.trnox.com^
 ||tracking-v*.a.run.app^
 ||tracking.*.miui.com^
+||tracking.geo.*.amazonaws.com^
 ||tracking*.euroads.fi^
 ||trc.*.co^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
