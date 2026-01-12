@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 12 Jan 2026 00:25 UTC
-! Version: 2026.0112.0025
+! Last modified: 12 Jan 2026 08:24 UTC
+! Version: 2026.0112.0824
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -214,6 +214,7 @@
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||aff*.kolektiva.net^
+||agatha-log-service-*.a.run.app^
 ||agripro-fr-*.com^
 ||ajmaboxanherulv*.b-cdn.net^
 ||ali-bj-pcdn-*.biliapi.net^
