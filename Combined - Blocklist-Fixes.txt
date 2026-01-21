@@ -1,7 +1,7 @@
 ! Title: Combined - Blocklist-Fixes
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 20 Jan 2026 16:25 UTC
-! Version: 2026.0120.1625
+! Last modified: 21 Jan 2026 00:26 UTC
+! Version: 2026.0121.0026
 
 @@-ds.metric.gstatic.com^|
 @@://blog.*.top^
@@ -168,6 +168,7 @@
 @@||sedge.nfl.com^|
 @@||smtp.focusgroupresearch.com^|
 @@||sponsor.nitropay.com^|
+@@||ssai.aniview.com^|
 @@||stash.roistat.com^|
 @@||static-v*.trbo.com^|
 @@||str.hit.gemius.pl^|
