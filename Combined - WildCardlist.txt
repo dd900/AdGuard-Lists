@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 30 Jan 2026 16:24 UTC
-! Version: 2026.0130.1624
+! Last modified: 31 Jan 2026 00:24 UTC
+! Version: 2026.0131.0024
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -48,6 +48,7 @@
 *-factoryoutlet.
 *-normal.zijieapi.com*
 *-outletfactory.
+*40k*robux.blogspot.com^
 *ad.durasite.net^
 *austrailasale.
 *butikksoslo.com^
@@ -71,6 +72,10 @@
 *outletsfactory.
 *outletsverige.com^
 *outletuk.com^
+*roblox*robux*.blogspot.com^
+*robux*40k*.blogspot.com^
+*robux*roblox*.blogspot.com^
+*robux*robux*.blogspot.com^
 *salgnorge.com^
 *shoesoutletonline.
 *shoesoutletstores.
@@ -299,6 +304,7 @@
 ||cffsbbhost-aniamaria*.codeanyapp.com^
 ||chinhphu.*.org^
 ||cl*.k5a.io^
+||click-v4.*.com^
 ||clickstream-*.homedepot.com^
 ||client.*-blockfi.com^
 ||client.rum.*.amazonaws.com^
@@ -378,6 +384,7 @@
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
+||get.*trcks.com^
 ||get*bannerads-6egeg2u34q-du.a.run.app^
 ||gohvb-*.web.app^
 ||gonews*.net^
@@ -415,6 +422,7 @@
 ||install*.zonastat.com^
 ||intellitxt.*^
 ||iphone-caviar.ru*entranceId
+||iphone17promaxbrandnew*.edgeone.dev^
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||irs.gov.*.com^
