@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 23 Feb 2026 01:47 UTC
-! Version: 2026.0223.0147
+! Last modified: 23 Feb 2026 09:47 UTC
+! Version: 2026.0223.0947
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -299,6 +299,7 @@
 ||caixa-*.codeanyapp.com^
 ||cancelaciondeseguros-*.azurewebsites.net^
 ||cardverify*-booking.com^
+||cdn-*.gravityfield.ai^
 ||cdn-adn-*.rayjump.com^
 ||cdn*.swaxis.com^
 ||ce-global-track-*.amazonaws.com^
