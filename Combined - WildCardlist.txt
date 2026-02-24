@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 24 Feb 2026 07:34 UTC
-! Version: 2026.0224.0734
+! Last modified: 24 Feb 2026 15:35 UTC
+! Version: 2026.0224.1535
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -15,7 +15,6 @@
 ://*.a-akamaihd.com^
 ://193.143.1.*
 ://message1*.z13.web.core.windows.net^
-://old.sermitsiaq.ag^$denyallow=subdomain_stolen_from_sermitsiaqs_owners.*
 ://r.reklam*.com^
 ://soekpakke*.blogspot.com^
 ://sportframe*.co^
@@ -46,9 +45,7 @@
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
 *-be-pack-sign.pglstatp-toutiao.com*
-*-factoryoutlet.
 *-normal.zijieapi.com*
-*-outletfactory.
 *40k*robux.blogspot.com^
 *ad.durasite.net^
 *austrailasale.
@@ -136,7 +133,7 @@
 ||*.spylog.com*^
 ||*.telemetry.microsoft.com^
 ||*.telemetry.mozilla.org^
-||*.top^$dnstype=~CNAME,denyallow=caitlin.top|callmebymygender.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|changlam10.top|changlam11.top|pdcdn1.top|pressplay.top|chillx.top|strims.top|thedesk.top|audioforyou.top|awavenue.top|reyhub.top|iboxs.top|adrules.top|hostingowy.top|to|yggtorrent.top|asiaon.top|voxel.top|passt.top|polar.top|rifton.top|rugaming.top|doubledouble.top
+||*.top^$dnstype=~CNAME,denyallow=caitlin.top|callmebymygender.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|changlam10.top|changlam11.top|pdcdn1.top|pressplay.top|chillx.top|strims.top|thedesk.top|audioforyou.top|awavenue.top|reyhub.top|iboxs.top|adrules.top|hostingowy.top|to|yggtorrent.top|asiaon.top|voxel.top|passt.top|polar.top|rifton.top|rugaming.top|doubledouble.top|hedon-haven.top
 ||*.trafficmanager.net^
 ||*.virtualearth.net^
 ||*.vortex.*^
@@ -400,7 +397,6 @@
 ||highcpmrevenue*.com^
 ||highperformancecpm*.com^
 ||hn-ping*.hashnode.com^
-||hokaoneone*
 ||hokaoutlet*
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
