@@ -1,7 +1,7 @@
 ! Title: Combined - Blocklist-Fixes
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 25 Feb 2026 21:22 UTC
-! Version: 2026.0225.2122
+! Last modified: 26 Feb 2026 05:22 UTC
+! Version: 2026.0226.0522
 
 @@-ds.metric.gstatic.com^|
 @@://blog.*.top^
