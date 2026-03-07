@@ -1,7 +1,7 @@
 ! Title: Combined - Regexlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 07 Mar 2026 07:06 UTC
-! Version: 2026.0307.0706
+! Last modified: 07 Mar 2026 15:06 UTC
+! Version: 2026.0307.1506
 
 /_dating\d\/index\.html\?aref=/
 /(https?:\/\/)213\.32\.115\..{100,}/
@@ -92,7 +92,7 @@
 /^beacons?[0-9]*[_.-]/
 /^count(ers?)?[0-9]*[_.-]/
 /^https://[a-z]{1,}-gitcoin\.com/?$/
-/^https://d[0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z]\.[a-z][a-z][a-z][a-z]?-[a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-z]?\.[ps][br][os]\/xm\/xm[0-9]\/\?/
+/^https://d[0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z]\.[a-z][a-z][a-z][a-z]?-[a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-z]?\.[cps][bor][os]?\.?i?n?\/xm\/xm[0-9]\/\?/
 /^https://gitcoin-[a-z]{1,}\.com/?$/
 /^https:\/\/(a|c)\.[0-9a-f]{56}\.com$/
 /^https:\/\/anon1.gt\d{6}.com/
