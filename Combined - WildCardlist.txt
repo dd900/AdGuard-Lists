@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 24 Mar 2026 15:07 UTC
-! Version: 2026.0324.1507
+! Last modified: 24 Mar 2026 23:08 UTC
+! Version: 2026.0324.2308
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -133,7 +133,7 @@
 ||*.spylog.com*^
 ||*.telemetry.microsoft.com^
 ||*.telemetry.mozilla.org^
-||*.top^$dnstype=~CNAME,denyallow=caitlin.top|callmebymygender.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|changlam10.top|changlam11.top|pdcdn1.top|pressplay.top|chillx.top|strims.top|thedesk.top|audioforyou.top|awavenue.top|reyhub.top|iboxs.top|adrules.top|hostingowy.top|to|yggtorrent.top|asiaon.top|voxel.top|passt.top|polar.top|rifton.top|rugaming.top|doubledouble.top|hedon-haven.top
+||*.top^$dnstype=~CNAME,denyallow=caitlin.top|callmebymygender.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|changlam10.top|changlam11.top|pdcdn1.top|pressplay.top|chillx.top|strims.top|thedesk.top|audioforyou.top|awavenue.top|reyhub.top|iboxs.top|adrules.top|hostingowy.top|to|yggtorrent.top|yggleak.top|asiaon.top|voxel.top|passt.top|polar.top|rifton.top|rugaming.top|doubledouble.top|hedon-haven.top
 ||*.trafficmanager.net^
 ||*.virtualearth.net^
 ||*.vortex.*^
