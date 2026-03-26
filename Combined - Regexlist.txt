@@ -1,7 +1,7 @@
 ! Title: Combined - Regexlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 25 Mar 2026 23:07 UTC
-! Version: 2026.0325.2307
+! Last modified: 26 Mar 2026 15:08 UTC
+! Version: 2026.0326.1508
 
 /_dating\d\/index\.html\?aref=/
 /(https?:\/\/)213\.32\.115\..{100,}/
@@ -94,6 +94,7 @@
 /^https://[a-z]{1,}-gitcoin\.com/?$/
 /^https://d[0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z]\.[a-z][a-z][a-z][a-z]?-[a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-z]?\.[cps][bor][os]?\.?i?n?\/xm\/xm[0-9]\/\?/
 /^https://gitcoin-[a-z]{1,}\.com/?$/
+/^https:\/\/([a-vx-z][a-z]{2,}\.)?[0-9a-z-]{3,}\.(com|net|org)\/index\.php\?main_page=product_info(&stl=\d)?&(cPath|products_id)=/
 /^https:\/\/(a|c)\.[0-9a-f]{56}\.com$/
 /^https:\/\/anon1.gt\d{6}.com/
 /^https?://([a-z-]{1,})?luck([a-z-]{1,})?\.club(/.*)?$/
