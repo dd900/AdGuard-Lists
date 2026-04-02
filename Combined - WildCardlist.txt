@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 02 Apr 2026 04:44 UTC
-! Version: 2026.0402.0444
+! Last modified: 02 Apr 2026 12:44 UTC
+! Version: 2026.0402.1244
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -535,6 +535,7 @@
 ||payer-ma-acture-*.mystrikingly.com^
 ||pemesanan*.glowz.my.id^
 ||pijama.*.elasticbeanstalk.com^
+||ping*.bidease.com^
 ||piwik.*.vn^
 ||pixel-*.convertagain.net^
 ||pixel-*.rubiconproject.com^
@@ -606,6 +607,7 @@
 ||speedera.*^
 ||spoti-*.codeanyapp.com^
 ||spoti-safe-support*.codeanyapp.com^
+||spotify*.ct.ws^
 ||srmdata-*.com^
 ||sso-*.webflow.io^
 ||ssp*.rtb.beeline.ru^
