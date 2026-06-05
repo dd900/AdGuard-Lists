@@ -1,7 +1,7 @@
 ! Title: Combined - Regexlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 05 Jun 2026 09:17 UTC
-! Version: 2026.0605.0917
+! Last modified: 05 Jun 2026 17:19 UTC
+! Version: 2026.0605.1719
 
 /_dating\d\/index\.html\?aref=/
 /((https?|tcp|iquic)://)?204\.194\.54\.\d{1,3}([:/].*)?$/
