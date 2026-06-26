@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 26 Jun 2026 09:19 UTC
-! Version: 2026.0626.0919
+! Last modified: 26 Jun 2026 17:19 UTC
+! Version: 2026.0626.1719
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -492,7 +492,6 @@
 ||metric*.rediff.com^
 ||metrics*.fitanalytics.com^
 ||mf*.advantage.as^
-||mgbsdk*.matrix.easebar.com^
 ||microsoft*.dfautomotive.de^
 ||minitds-*.info^
 ||mizunocanada*
