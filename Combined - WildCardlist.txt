@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 01 Jul 2026 09:20 UTC
-! Version: 2026.0701.0920
+! Last modified: 01 Jul 2026 17:19 UTC
+! Version: 2026.0701.1719
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -629,6 +629,7 @@
 ||stats.*.ronghub.com^
 ||stats.*.rongnav.com^
 ||stats.*^
+||stats.mapple.*^
 ||stats*.videonow.ru^
 ||stats2.*.fdnames.com^
 ||steamcommin*$denyallow=likely-a-fake-malware-version-of-steamcommunity.com
