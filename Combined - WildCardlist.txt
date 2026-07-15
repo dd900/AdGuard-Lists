@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 15 Jul 2026 06:07 UTC
-! Version: 2026.0715.0607
+! Last modified: 15 Jul 2026 14:08 UTC
+! Version: 2026.0715.1408
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -438,6 +438,7 @@
 ||kontera.*^
 ||ky891.oss-*.aliyuncs.com^
 ||lcldetecthumainweb*.firebaseapp.com^
+||ledger-live*-*.io^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
