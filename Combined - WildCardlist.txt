@@ -1,7 +1,7 @@
 ! Title: Combined - WildCardlist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 13 Aug 2026 15:58 UTC
-! Version: 2026.0813.1558
+! Last modified: 14 Aug 2026 00:07 UTC
+! Version: 2026.0814.0007
 
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
@@ -173,7 +173,6 @@
 ||ad*.gyaloglo.hu^
 ||ad*.mellesleg.hu^
 ||ad*.nexage.com^
-||ad*.on.cc^
 ||ad*.thisisgame.com^
 ||ad*.tmgrup.com.tr^
 ||ad*.wisenut.co.kr^
@@ -225,9 +224,7 @@
 ||alienxchain*.pages.dev^
 ||alishop*.ru^
 ||all-best-prize-202*.com^
-||allegrolokalnie.*.shop^
 ||amandes*.serv00.net^
-||amazon-*.shop^
 ||ana*.inews24.com^
 ||analytics-*-nfl.yinzcam.com^
 ||analytics-rollout-*.amazonaws.com^
@@ -272,8 +269,6 @@
 ||banner.*^
 ||banner*.kinogo.by^
 ||banners.*^
-||baoviet*.top^
-||baoviet*.vip^
 ||bapi-*.moengage.com^
 ||bar*.shinobi.jp^
 ||base-swap-frontend-*.vercel.app^
@@ -289,9 +284,6 @@
 ||best202*-games-web1.com^
 ||bi-eventtracker-*.amazonaws.com^
 ||bingkasprogram-*.xdbng.com^
-||bitvavo*.cc^
-||bitvavo*.top^
-||bitvavo*.vip^
 ||blocchecker*.pages.dev^
 ||block.s*block.com^
 ||bondzgi*.
@@ -299,7 +291,6 @@
 ||booklng.com-*
 ||bot-check-v*.b-cdn.net^
 ||botashunter*
-||broredir*s.site^
 ||browser-intake-*-datadoghq.com^
 ||business-facebook-*.pages.dev^
 ||buzzer.xhamster*
@@ -315,7 +306,6 @@
 ||chinhphu.*.org^
 ||cl*.k5a.io^
 ||click-v4.*.com^
-||clickhouse-collector.*.prod.plat.agency^
 ||clickstream-*.homedepot.com^
 ||client.*-blockfi.com^
 ||client.rum.*.amazonaws.com^
@@ -332,7 +322,6 @@
 ||collector.xhamster*.
 ||collector*.ex.co^
 ||copyrights-*.surge.sh^
-||counter*-yadro*-ru.unblocked.lol^
 ||counter*.freecounter.ovh^
 ||counter*.stat.ovh^
 ||creative*.bidease.com^
@@ -354,7 +343,6 @@
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||dhl.*.potabox.com^
-||dichvucong*.top^
 ||discord*.gifts^
 ||discovery-ios-*.ertelecom.ru^
 ||dlscord*.
@@ -366,7 +354,6 @@
 ||download-wetransfer-*.vercel.app^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||dw-informer-*.newsru.com^
-||dwp-yous*.top^
 ||e-interac-*.com^
 ||e-navy*.weebly.com^
 ||eclog*-*.cafe24.com^
@@ -404,9 +391,7 @@
 ||gohvb-*.web.app^
 ||gonews*.net^
 ||googletagservices.*^
-||gov.*.qpon^
 ||govern-assessment-validation-*.vercel.app^
-||govuk.*.top^
 ||gscounters.*.gigya.com^
 ||h3v9p8x2q1r7-agckaeh6g2ehcaes.*.azurewebsites.net^
 ||hba*.hepsiburada.com^
@@ -435,8 +420,6 @@
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||info-espanol-id-configes*.codeanyapp.com^
-||info-tracking*.cc^
-||informed.delivery*.top^
 ||install*.zonastat.com^
 ||intellitxt.*^
 ||iphone-caviar.ru*entranceId
@@ -452,14 +435,10 @@
 ||jtbo*.nqxvevk.cn^
 ||kanoodle.*^
 ||kbox-analytics-prod.s*.amazonaws.com^
-||kgm-*.bond^
-||kgmgo*.bond^
 ||kontera.*^
 ||ky891.oss-*.aliyuncs.com^
-||labor-day-*.top^
 ||lcldetecthumainweb*.firebaseapp.com^
 ||ledger-live*-*.io^
-||legder.*.us.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
@@ -543,7 +522,6 @@
 ||my-ee-*.web.app^
 ||namecheapsupport-*.codeanyapp.com^
 ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
-||newmall*.cc^
 ||newverifyyourself-system*.b-cdn.net^
 ||nextag.*^
 ||nhantienquocte*.vercel.app^
@@ -561,12 +539,10 @@
 ||pancakeclaim-*.vercel.app^
 ||pancakeswap-*.vercel.app^
 ||pangolin*.sgsnssdk.com^
-||parkdomainreal*.site^
 ||partner.superbahisaffiliates*.com^
 ||pay8-2v-*-gmailcom.vercel.app^
 ||payer-ma-acture-*.mystrikingly.com^
 ||pemesanan*.glowz.my.id^
-||phila.revenue*.cc^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.bidease.com^
 ||piwik.*.vn^
@@ -582,7 +558,6 @@
 ||powa-ingest-prod-*.video-player.arcpublishing.com^
 ||prebid-*.rubiconproject.com^
 ||prebid-cache*.ifunny.co^
-||press-continue.*.top^
 ||production-adserver-*.amazonaws.com^
 ||profile-ourtime.*.workers.dev^
 ||profitablecpm*.com^
@@ -593,7 +568,6 @@
 ||pwredir-*.com^
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
-||q*-publick.club^
 ||qishui-*.com.cn^
 ||qksrv.*^
 ||qpb*.sohu.com^
@@ -669,8 +643,6 @@
 ||suite*.linximpulse.net^
 ||support-center-for-*.vercel.app^
 ||support-metahelpcenter-id*.netlify.app^
-||t-mobiile-*.bond^
-||t-mobile-*.bond^
 ||t*.playdigo.live^
 ||t*.zcvh.net^
 ||tag-based.s3.*.amazonaws.com^
@@ -680,7 +652,6 @@
 ||telemetry.*^
 ||telemetry*.transcend.io^
 ||teleriumads-*.netdna-ssl.com^
-||telezelm-*.icu^
 ||testra*-covid.weebly.com^
 ||tiktok-svip*.com^
 ||tnc-va*.capcutapi.com^
@@ -716,31 +687,24 @@
 ||ulog*.kwaipros.com^
 ||union*.365inews.com^
 ||use-trk*.bluevoox.com^
-||uspost.*.cfd^
 ||usps-packages-*.com^
-||usps.*.sbs^
 ||utahpolicetraining.*.mybluehost.me^
 ||util-*.simply-hentai.com^
 ||v.newsportal*.ru^
 ||v.tzbox*.xyz^
 ||v*-ad.video.yximgs.com^
-||v*.sitecounter.site^
 ||verification-module-v*.b-cdn.net^
 ||verifyyourself-*system.b-cdn.net^
-||vietcombank*.cfd^
-||vincomplaza.*.top^
 ||violation-*.surge.sh^
 ||viruswarning*.web.core.windows.net^
 ||vnote-*.myqcloud.com^
 ||vns86.oss-*.aliyuncs.com^
 ||voice-ourtime.*.workers.dev^
-||vssid.*.cc^
 ||w*statistics.info^
 ||weblogger-wss.cool*cloud.com^
 ||webtrends.*^
 ||weoidnet*.b-cdn.net^
 ||westernunion*.wixsite.com^
-||whatsapp*.icu^
 ||wpad.*^
 ||wslog-global-dual.cool*cloud.com^
 ||www-winbank-lfremhmida*.codeanyapp.com^
@@ -755,7 +719,6 @@
 ||ya*.dwstatic.com^
 ||yandex.avito.sber*
 ||ysdm*.ys137.com.cn^
-||zbb.bbb.*.pics^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||zoom.us*web.us^
 |c.blue.*.com^|
