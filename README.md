@@ -1,3 +1,5 @@
+# NO LONGER BEING UPDATED
+
 These are my personal AdGuard lists. You are free to use them any way you like. Please give credit where it is due.
 
 1. Duplicates removed
