@@ -1,7 +1,7 @@
 ! Title: Combined - Whitelist
 ! Homepage: https://github.com/dd900/AdGuard-Lists
-! Last modified: 19 Aug 2026 10:55 UTC
-! Version: 2026.0819.1055
+! Last modified: 19 Aug 2026 18:55 UTC
+! Version: 2026.0819.1855
 
 @@||*ota.oppomobile.com^
 @@||0.client-channel.google.com^
@@ -39,10 +39,8 @@
 @@||akash.network^
 @@||alphax.pro^
 @@||alpinelinux.org^
-@@||amazonaws.com^
 @@||andrew.hedges.name^
 @@||android-appboot.netflix.com^
-@@||android.clients.google.com^
 @@||android.clients.google.com^
 @@||android.pool.ntp.org^
 @@||android.prod.cloud.netflix.com^
@@ -73,7 +71,6 @@
 @@||apps.microsoft.com^
 @@||apps.mzstatic.com^
 @@||apps.skype.com^
-@@||appspot-preview.l.google.com^
 @@||appspot-preview.l.google.com^
 @@||apresolve.spotify.com^
 @@||apt.pop-os.org^
@@ -146,8 +143,6 @@
 @@||cardanoscan.io^
 @@||castlevaniamodding.boards.net^
 @@||catbox.moe^
-@@||cdn*.signal.org^
-@@||cdn*.smoot.apple.com^
 @@||cdn.cloudflare.net^
 @@||cdn.embedly.com^
 @@||cdn.openai.com^
@@ -156,6 +151,8 @@
 @@||cdn.snapcraft.io^
 @@||cdn.snapcraftcontent.com^
 @@||cdn.vidible.tv^
+@@||cdn*.signal.org^
+@@||cdn*.smoot.apple.com^
 @@||cdn2.optimizely.com^
 @@||cdn3.optimizely.com^
 @@||cdnjs.cloudflare.com^
@@ -173,13 +170,9 @@
 @@||chat.signal.org^
 @@||cherry-stake-pool.online^
 @@||clientconfig.passport.net^
-@@||clientconfig.passport.net^
 @@||clients1.google.com^
 @@||clients2.google.com^
-@@||clients2.google.com^
 @@||clients3.google.com^
-@@||clients3.google.com^
-@@||clients4.google.com^
 @@||clients4.google.com^
 @@||clients5.google.com^
 @@||clients6.google.com^
@@ -197,7 +190,6 @@
 @@||computersneversleep.art^
 @@||connectivity-check.ubuntu.com^
 @@||connectivity.zorin-os.com^
-@@||connectivitycheck.android.com^
 @@||connectivitycheck.android.com^
 @@||connectivitycheck.grapheneos.network^
 @@||connectivitycheck.gstatic.com^
@@ -251,7 +243,6 @@
 @@||disney.content.edge.bamgrid.com^
 @@||disney.playback.edge.bamgrid.com^
 @@||display.ugc.bazaarvoice.com^
-@@||displaycatalog.mp.microsoft.com^
 @@||dl.delivery.mp.microsoft.com^
 @@||dl.dropbox.com^
 @@||dl.dropboxusercontent.com^
@@ -334,7 +325,6 @@
 @@||go.xxxviijmp.com^
 @@||gochain.io^
 @@||godex.io^
-@@||googleapis.com^
 @@||gravatar.com^
 @@||gravity.tech^
 @@||gs.apple.com.v.aaplimg.com^
@@ -395,7 +385,6 @@
 @@||licensing.xboxlive.com^
 @@||link.springer.com^
 @@||liquid.net^
-@@||live.com^
 @@||liveaquaria.com^
 @@||livepassdl.conviva.com^
 @@||localbitcoins.com^
@@ -464,7 +453,6 @@
 @@||msecnd.net^
 @@||msftconnecttest.com^
 @@||msftncsi.com^
-@@||msftncsi.com^
 @@||msn.com^
 @@||multiembed.mov^
 @@||music.apple.com^
@@ -502,8 +490,6 @@
 @@||npr-news.streaming.adswizz.com^
 @@||ns.itunes.apple.com^
 @@||ns1.dropbox.com^
-@@||ns1.dropbox.com^
-@@||ns2.dropbox.com^
 @@||ns2.dropbox.com^
 @@||ntp-fireos.com^
 @@||nuget.org^
@@ -524,13 +510,13 @@
 @@||openzeppelin.com^
 @@||osmosis.zone^
 @@||ospserver.net^
+@@||ota.*.coloros.com^
+@@||ota.coloros.com^
+@@||ota.oppomobile.com^
 @@||ota*.*.coloros.com^
 @@||ota*.*.oppomobile.com^
 @@||ota*.coloros.com^
 @@||ota*.oppomobile.com^
-@@||ota.*.coloros.com^
-@@||ota.coloros.com^
-@@||ota.oppomobile.com^
 @@||outerspace.money^
 @@||packages.debian.org^
 @@||packages.elementary.io^
@@ -614,7 +600,6 @@
 @@||romfs.foreign.oppomobile.com^
 @@||s.marketwatch.com^
 @@||s.youtube.com^
-@@||s.youtube.com^
 @@||s.ytimg.com^
 @@||s2.youtube.com^
 @@||sa.symcb.com^
@@ -646,7 +631,6 @@
 @@||sotnhacked.freeforums.net^
 @@||sources.debian.net^
 @@||sparkadapool.eu^
-@@||spclient.wg.spotify.com^
 @@||spclient.wg.spotify.com^
 @@||spectrum.s3.amazonaws.com^
 @@||ssl.p.jwpcdn.com^
@@ -685,13 +669,13 @@
 @@||tezos.com^
 @@||themoviedb.com^
 @@||thetvdb.com^
-@@||time*.google.com^
 @@||time-osx.g.aaplimg.com^
 @@||time.*.apple.com^
 @@||time.apple.com^
 @@||time.google.com^
 @@||time.grapheneos.org^
 @@||time.nest.com^
+@@||time*.google.com^
 @@||tinyurl.com^
 @@||title.auth.xboxlive.com^
 @@||title.mgt.xboxlive.com^
@@ -708,7 +692,6 @@
 @@||tvdb2.plex.tv^
 @@||tvthemes.plexapp.com^
 @@||twimg.com^
-@@||twimg.com^
 @@||twitter.com^
 @@||ubuntu.mirrors.uk2.net^
 @@||ubuntu.positive-internet.com^
@@ -718,12 +701,11 @@
 @@||unpkg.com^
 @@||unstoppabledomains.com^
 @@||upbit.com^
-@@||update*.huaweidevice.com^
 @@||update.hicloud.com^
 @@||update.intl.miui.com^
 @@||update.microsoft.com^
 @@||update.miui.com^
-@@||updates*.signal.org^
+@@||update*.huaweidevice.com^
 @@||updates-http.cdn-apple.com^
 @@||updates-http.g.aaplimg.com^
 @@||updates.amazon.com^
@@ -731,6 +713,7 @@
 @@||updates.cdn-apple.com^
 @@||updates.g.aaplimg.com^
 @@||updates.signal.org^
+@@||updates*.signal.org^
 @@||upload.twitter.com^
 @@||v.w-x.co^
 @@||v10.events.data.microsoft.com^
@@ -739,7 +722,6 @@
 @@||vcstream.to^
 @@||veganpool.org^
 @@||viabtc.com^
-@@||video-stats.l.google.com^
 @@||video-stats.l.google.com^
 @@||videos.vidible.tv^
 @@||vidtech.cbsinteractive.com^
